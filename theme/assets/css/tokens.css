@@ -1,0 +1,167 @@
+/* ============================================================================
+   POTHOLE NEWS — signal-theme · tokens.css
+   The single source of truth for brand tokens on the web.
+   Transcribed VERBATIM from the frozen C1-SIGNAL brand system, §5 BRAND-TOKENS
+   (design/POTHOLE-BRAND-SYSTEM-C1-SIGNAL-v1.html). No invented colors, no new
+   fonts. Companion doc with the JSON block + this mapping: phase-b/BRAND-TOKENS.md
+   ============================================================================ */
+
+:root {
+  /* ---- Color · the two-ink pair + the neutrals (§5 color) ------------------
+     roles (do not cross-assign):
+       blue   = structure: kickers, list numerals, blue fields, data
+       orange = heat: emphasis phrase, the bar, CTA, breaking band
+       stone  = metadata only
+       verdicts = NONE (votes are filled/outlined paper, never colored)          */
+  --pn-ink:        #111111;
+  --pn-paper:      #FBF7EE;
+  --pn-blue:       #2447F0;
+  --pn-orange:     #E8590C;
+  --pn-stone:      #9B968A;
+  --pn-blue-deep:  #1B33AC;   /* hover / pressed states ONLY */
+
+  /* Reserved expansion set — brand-package future only. NEVER used in production
+     until a Publisher order releases it. Listed here for provenance, not for use.
+       emerald #0E8A6D · magenta #D91E75 · navy #14284B                          */
+
+  /* Working aliases the theme reads (light theme = paper is home) */
+  --bg:            var(--pn-paper);   /* page field */
+  --surface:       var(--pn-paper);   /* card field */
+  --ink:           var(--pn-ink);     /* primary text */
+  --ink-soft:      #55534b;           /* dek / secondary body (from mockups) */
+  /* metadata text. a11y-derived shade (NOT a new brand color): the raw brand
+     stone (--pn-stone #9B968A) is ~2.8:1 on paper — below AA for body-size text.
+     #6E6A5E is the same warm-stone family darkened to 5.05:1 on paper, used for
+     reading-size metadata. --pn-stone is kept above for provenance/decorative use.
+     Dark theme keeps its own light-stone (passes on the dark surface). fb-a11y W2. */
+  --meta:          #6E6A5E;
+  /* in-text meta links (source/end-band links). a11y-derived: the brand heat
+     orange (--pn-orange) is 3.35:1 on paper — below AA. #C2410C is the same orange
+     darkened to 4.84:1 for small link text on paper. The brand orange is untouched
+     for the bar/band/emphasis. Dark theme swaps back to --pn-orange (4.54:1 on the
+     dark surface, where the darker shade would be too low). fb-a11y W2. */
+  --meta-link:     #C2410C;
+  --hairline:      #eee7d6;           /* card divider (from UX v3) */
+  --field-line:    #d9d2c0;           /* input borders (from UX v3) */
+  --accent:        var(--pn-orange);
+  --structure:     var(--pn-blue);
+
+  /* Surfaces that are white-on-paper in light, dark panels in dark (inputs,
+     chips, popover). Tokenized so the dark pass is a variable swap, not a rewrite. */
+  --input-bg:      #ffffff;           /* text inputs / textarea field */
+  --input-ink:     #2a2a26;           /* text typed into a field */
+  --chip-bg:       #ffffff;           /* option / city chips */
+  --pop-bg:        #ffffff;           /* the ＋ search popover */
+  --pop-border:    #e5dfce;
+  --pop-hairline:  #f0ebdd;
+  --pop-hover:     #f7f3e8;
+  --stamp-bg:      rgba(251, 247, 238, 0.92);  /* the FILED stamp plate */
+
+  /* ---- Type · licensed faces with the frozen fallback stack (§5 type) --------
+     Licensed at build later: Inter Tight (display), Tiempos Text Italic
+     (emphasis), Inter (body), Tiempos Text (longform serif).
+     Fallbacks if unlicensed at build: Archivo Black / Source Serif Italic / Inter.
+     Google Fonts are NOT hotlinked — system stack now, self-host in W-later.     */
+  /* --gh-font-heading / --gh-font-body let Ghost's admin font settings override
+     if an operator ever sets them; unset, they fall back to the frozen brand stack. */
+  --font-display:  var(--gh-font-heading, "Inter Tight", "Archivo", "Helvetica Neue", Helvetica, Arial, sans-serif);
+  --font-emphasis: "Tiempos Text", "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+  --font-body:     var(--gh-font-body, "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif);
+  --font-longform: "Tiempos Text", "Source Serif 4", "Source Serif Pro", Georgia, serif;
+
+  --display-weight:   800;
+  --display-tracking: -0.02em;   /* §5 type.display.tracking */
+
+  /* ---- Type scale · web adaptation ------------------------------------------
+     The social canvas floors (§5 min_px_at_1080: body 40, headline 76, footer 26)
+     are 1080-canvas values; the web scale below preserves the mockup hierarchy
+     (UX v3 feed card / story view) at accessible reading sizes. base = 16px.     */
+  --fs-kicker:    0.69rem;   /* ~11px · uppercase, tracked */
+  --fs-meta:      0.72rem;   /* ~11.5px · time / source line */
+  --fs-dek:       0.95rem;   /* ~15px */
+  --fs-headline:  1.35rem;   /* ~21.6px · feed card headline */
+  --fs-headline-breaking: 1.5rem;  /* ~24px */
+  --fs-lead:      1.7rem;    /* ~27px · lead card / story headline */
+  --fs-body:      1.0625rem; /* ~17px · reading body floor (AA-comfortable) */
+  --fs-number:    2.6rem;    /* big-number card figure */
+
+  --lh-headline:  1.12;
+  --lh-body:      1.65;
+  --tracking-kicker: 0.12em;
+
+  /* ---- Layout · column, spacing, the bar (§5 layout) ------------------------ */
+  --measure:      660px;     /* single centered column, master plan §3 */
+  --gutter:       20px;      /* mockup feed padding */
+  --radius:       10px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 28px;
+  --space-7: 40px;
+
+  /* The bar — brand signature line (§5 layout.bar).
+     Social canvas height is 12px @1080; the web header rule is 4px (UX v3 .obar).
+     color: orange on paper fields, paper on dark fields.                         */
+  --bar-height:   4px;
+  --bar-color:    var(--pn-orange);   /* on paper field */
+  --rule-orange:  var(--pn-orange);   /* story rule / card footer roof */
+  --rule-blue:    var(--pn-blue);     /* correction tell only */
+
+  /* Motion */
+  --ease-signal:  cubic-bezier(.6, 0, .3, 1);   /* the editions-bar cursor easing */
+  --dur-slide:    0.28s;
+
+  color-scheme: light dark;
+}
+
+/* ---- Dark theme · the Noir-adjacent variant (master plan §3) -----------------
+   Cheap + classy: page goes dark, "paper" cards become dark panels, text lifts
+   to paper; the two inks (blue/orange) stay as accents — they read on dark.
+   W2 finishes the full dark pass; this establishes the token contract.          */
+/* Dark = the Noir-adjacent variant. Reserved tells are preserved: the orange
+   breaking band, orange bar, and blue footer/structure stay recognizable — only
+   the paper/ink fields invert. Kept as one token set, shared by the media query
+   and the explicit [data-theme="dark"] override below. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:         #141519;
+    --surface:    #1f2025;
+    --ink:        #f2f2ef;
+    --ink-soft:   #c9c5b8;
+    --meta:       #96969e;
+    --hairline:   #2c2d33;
+    --field-line: #3a3b42;
+    --meta-link:  var(--pn-orange);   /* brand orange clears AA on the dark surface */
+    --bar-color:  var(--pn-orange);   /* orange still reads on dark */
+    --input-bg:   #26272d;
+    --input-ink:  #f2f2ef;
+    --chip-bg:    #202127;
+    --pop-bg:     #23242a;
+    --pop-border: #34353c;
+    --pop-hairline: #2c2d33;
+    --pop-hover:  #2c2d33;
+    --stamp-bg:   rgba(31, 32, 37, 0.92);
+  }
+}
+/* Explicit theme override wins over the OS signal (viewer toggle stamps :root) */
+:root[data-theme="light"] {
+  --bg: var(--pn-paper); --surface: var(--pn-paper); --ink: var(--pn-ink);
+  --ink-soft: #55534b; --meta: #6E6A5E; --meta-link: #C2410C; --hairline: #eee7d6; --field-line: #d9d2c0;
+  --input-bg: #ffffff; --input-ink: #2a2a26; --chip-bg: #ffffff;
+  --pop-bg: #ffffff; --pop-border: #e5dfce; --pop-hairline: #f0ebdd; --pop-hover: #f7f3e8;
+  --stamp-bg: rgba(251, 247, 238, 0.92);
+}
+:root[data-theme="dark"] {
+  --bg: #141519; --surface: #1f2025; --ink: #f2f2ef;
+  --ink-soft: #c9c5b8; --meta: #96969e; --meta-link: var(--pn-orange); --hairline: #2c2d33; --field-line: #3a3b42;
+  --input-bg: #26272d; --input-ink: #f2f2ef; --chip-bg: #202127;
+  --pop-bg: #23242a; --pop-border: #34353c; --pop-hairline: #2c2d33; --pop-hover: #2c2d33;
+  --stamp-bg: rgba(31, 32, 37, 0.92);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-slide: 0s; }
+}

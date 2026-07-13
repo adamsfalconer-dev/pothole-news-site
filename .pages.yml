@@ -1,0 +1,198 @@
+# Pages CMS configuration — https://pagescms.org  (copied to the repo root as
+# `.pages.yml` by tools/make-public-repo.js). Gives the Publisher a phone-friendly
+# editor for the whole site. Install the Pages CMS GitHub App on this repo, then
+# edit at https://app.pagescms.org. Flipping `draft` off publishes a story; the
+# newsroom's bridge never force-pushes, so your edits always win.
+#
+# The content model mirrors newsroom/phase-b/site/tools/lib/content-model.js and
+# what build-site.js reads. `place` drives the city channel; the region is derived
+# from it automatically, so you only pick a city. Leave `place` blank for a
+# countywide / valley-wide item.
+
+media:
+  input: theme/assets/uploads
+  output: /assets/uploads
+
+content:
+  # ---- Stories (the feed) -------------------------------------------------
+  - name: posts
+    label: Stories
+    type: collection
+    path: content
+    filename: '{fields.slug}.md'
+    view:
+      fields: [title, place, type, date, draft]
+      primary: title
+      sort: [date, title, place]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Headline
+        type: string
+        required: true
+      - name: slug
+        label: URL slug
+        type: string
+        required: true
+        pattern:
+          regex: '^[a-z0-9]+(?:-[a-z0-9]+)*$'
+          message: lowercase letters, numbers and hyphens only
+      - name: draft
+        label: Draft (unpublished)
+        type: boolean
+        default: true
+        description: Turn OFF to publish. The empty feed at launch is all-drafts by design.
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: place
+        label: City / community
+        type: select
+        description: The primary place — drives the city channel. Leave blank for a countywide item.
+        options:
+          values:
+            # WEST SGV
+            - { value: alhambra, label: "Alhambra" }
+            - { value: monterey-park, label: "Monterey Park" }
+            - { value: san-gabriel, label: "San Gabriel" }
+            - { value: rosemead, label: "Rosemead" }
+            - { value: temple-city, label: "Temple City" }
+            - { value: san-marino, label: "San Marino" }
+            - { value: south-pasadena, label: "South Pasadena" }
+            # PASADENA & FOOTHILLS
+            - { value: pasadena, label: "Pasadena" }
+            - { value: altadena, label: "Altadena" }
+            - { value: la-canada-flintridge, label: "La Cañada Flintridge" }
+            - { value: sierra-madre, label: "Sierra Madre" }
+            - { value: arcadia, label: "Arcadia" }
+            - { value: monrovia, label: "Monrovia" }
+            - { value: bradbury, label: "Bradbury" }
+            - { value: duarte, label: "Duarte" }
+            # CENTRAL SGV
+            - { value: el-monte, label: "El Monte" }
+            - { value: south-el-monte, label: "South El Monte" }
+            - { value: baldwin-park, label: "Baldwin Park" }
+            - { value: irwindale, label: "Irwindale" }
+            - { value: azusa, label: "Azusa" }
+            - { value: covina, label: "Covina" }
+            - { value: west-covina, label: "West Covina" }
+            - { value: glendora, label: "Glendora" }
+            - { value: charter-oak, label: "Charter Oak" }
+            - { value: valinda, label: "Valinda" }
+            # EAST SGV
+            - { value: la-puente, label: "La Puente" }
+            - { value: city-of-industry, label: "City of Industry" }
+            - { value: hacienda-heights, label: "Hacienda Heights" }
+            - { value: rowland-heights, label: "Rowland Heights" }
+            - { value: walnut, label: "Walnut" }
+            - { value: diamond-bar, label: "Diamond Bar" }
+            - { value: avocado-heights, label: "Avocado Heights" }
+            - { value: bassett, label: "Bassett" }
+            - { value: south-san-jose-hills, label: "South San Jose Hills" }
+            # POMONA VALLEY
+            - { value: pomona, label: "Pomona" }
+            - { value: claremont, label: "Claremont" }
+            - { value: la-verne, label: "La Verne" }
+            - { value: san-dimas, label: "San Dimas" }
+            # CHINO / WEST VALLEY
+            - { value: chino, label: "Chino" }
+            - { value: chino-hills, label: "Chino Hills" }
+            - { value: montclair, label: "Montclair" }
+            - { value: ontario, label: "Ontario" }
+            - { value: upland, label: "Upland" }
+      - name: type
+        label: Story type
+        type: select
+        default: news
+        options:
+          values:
+            - { value: news, label: News }
+            - { value: watchdog, label: Watchdog }
+            - { value: explainer, label: Explainer }
+            - { value: meeting, label: Meeting }
+            - { value: money, label: Money }
+            - { value: elections, label: Elections }
+            - { value: schools, label: Schools }
+      - name: excerpt
+        label: Dek (one-sentence summary)
+        type: text
+      - name: thread
+        label: Thread (slug — groups related stories; optional)
+        type: string
+      - name: breaking
+        label: Breaking (orange band)
+        type: boolean
+        default: false
+      - name: corrected
+        label: Corrected
+        type: boolean
+        default: false
+      - name: correction_note
+        label: Correction note (shown on /corrections/)
+        type: text
+      - name: read_time
+        label: Read time (e.g. "2 min read")
+        type: string
+      - name: whats_next
+        label: What's next
+        type: text
+      - name: sources
+        label: Sources
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Citation, type: string }
+          - { name: url, label: "Link (https://…)", type: string }
+      - name: body
+        label: Story
+        type: rich-text
+      # --- derived / advanced (usually auto; edit only if needed) ---
+      - name: place_name
+        label: Place label (auto from city — leave blank)
+        type: string
+      - name: region
+        label: Region slug (auto from city — leave blank)
+        type: string
+      - name: region_name
+        label: Region label (auto — leave blank)
+        type: string
+
+  # ---- The week ahead (/meetings/) ---------------------------------------
+  - name: this_week
+    label: The week ahead
+    type: file
+    path: content/this-week.md
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: date, label: Week of, type: date, options: { format: yyyy-MM-dd } }
+      - name: type
+        label: Type
+        type: select
+        default: meeting
+        options: { values: [{ value: meeting, label: Meeting }] }
+      - { name: draft, label: Draft, type: boolean, default: true }
+      - { name: body, label: This week's meetings, type: rich-text }
+
+  # ---- Static pages -------------------------------------------------------
+  - name: about
+    label: Page — About
+    type: file
+    path: content/pages/about.md
+    fields:
+      - { name: body, label: About (markdown), type: text }
+  - name: ethics
+    label: Page — Ethics & Standards
+    type: file
+    path: content/pages/ethics.md
+    fields:
+      - { name: body, label: Ethics (markdown), type: text }
+  - name: privacy
+    label: Page — Privacy
+    type: file
+    path: content/pages/privacy.md
+    fields:
+      - { name: body, label: Privacy (markdown), type: text }
