@@ -1,25 +1,29 @@
 ---
 title: What a 1-cent Chino Hills sales tax would actually do
 slug: chino-hills-sales-tax-explainer
-date: "2026-07-11"
+draft: false
+date: 2026-07-11
 place: chino-hills
+type: explainer
+excerpt: "A penny per dollar, ~$11.5M a year, and one unconfirmed word —
+  'general' or 'special' — that decides where the money can go: the questions to
+  ask before Tuesday's vote."
+thread: chinohills-taxmeasure
+breaking: false
+corrected: true
+read_time: 2 min read
+whats_next: The ballot-resolution text becomes public with Tuesday's 7/14
+  council action (Item 19). Read it for one word — "general" or "special" — and
+  the threshold and the spending strings follow from it.
+sources:
+  - text: City sales-tax information page
+    url: https://www.chinohills.org/227/Sales-Tax-Information
+  - text: Champion, Napoles, 6/13 — measure framing
+    url: https://www.championnewspapers.com/community_news/article_ebba2bbf-ddf0-410b-b5b7-ea6609aa11ec.html
 place_name: Chino Hills
 region: region-chino-valley
 region_name: Chino / West Valley
-type: explainer
-thread: chinohills-taxmeasure
-excerpt: "A penny per dollar, ~$11.5M a year, and one unconfirmed word — 'general' or 'special' — that decides where the money can go: the questions to ask before Tuesday's vote."
-corrected: true
-read_time: "2 min read"
-whats_next: "The ballot-resolution text becomes public with Tuesday's 7/14 council action (Item 19). Read it for one word — \"general\" or \"special\" — and the threshold and the spending strings follow from it."
-sources:
-  - text: City sales-tax information page
-    url: "https://www.chinohills.org/227/Sales-Tax-Information"
-  - text: Champion, Napoles, 6/13 — measure framing
-    url: "https://www.championnewspapers.com/community_news/article_ebba2bbf-ddf0-410b-b5b7-ea6609aa11ec.html"
-draft: true
 ---
-
 If Chino Hills sends a 1-cent sales tax to the November ballot on Tuesday, voters will spend the fall hearing round numbers — $11.5 million a year, a penny per dollar. Here is what those numbers mean, and the question the round numbers hide.
 
 **What it is.** The measure is a *transactions-and-use tax* — a local surcharge added on top of California's base sales-tax rate. You would pay it on most taxable purchases made in the city: a $100 purchase costs an extra $1. The city estimates it raises about $11.5 million a year, roughly $144 per resident.
