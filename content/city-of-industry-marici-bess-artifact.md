@@ -2,7 +2,7 @@
 title: "Found: the paper behind the 'data center' fight — a 400-megawatt battery
   plant on Gale Avenue"
 slug: city-of-industry-marici-bess-artifact
-draft: true
+draft: false
 date: 2026-07-12
 place: city-of-industry
 type: news
