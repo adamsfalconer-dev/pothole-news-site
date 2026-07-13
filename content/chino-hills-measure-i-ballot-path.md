@@ -1,24 +1,33 @@
 ---
-title: A half-cent tax is aiming for Chino Hills' November ballot — through a board with an empty calendar
+title: A half-cent tax is aiming for Chino Hills' November ballot — through a
+  board with an empty calendar
 slug: chino-hills-measure-i-ballot-path
-date: "2026-07-12"
+draft: false
+date: 2026-07-12
 place: chino-hills
+type: news
+excerpt: SBCTA wants San Bernardino County supervisors to put a Measure I
+  extension before voters. The board that must act has zero meetings posted for
+  July or August.
+thread: chinohills-measurei
+breaking: false
+corrected: false
+read_time: 1 min read
+whats_next: We watch the county clerk of the board and Legistar for any posted
+  meeting, and confirm the placement deadline at the ROV. Chino Hills' own
+  tax-measure vote is Tuesday, July 14.
+sources:
+  - text: "SBCTA's own release: board voted unanimously 6/10 to recommend the SB
+      County BOS place a Measure I extension on the Nov 3 ballot; Measure I
+      history per the release"
+    url: https://www.gosbcta.com/sbcta-board-recommends-measure-i-extension-for-november-2026-ballot/
+  - text: SB County Legistar web API — zero board events on/after 7/1, re-verified
+      7/12
+    url: https://webapi.legistar.com/v1/sanbernardino/Events
 place_name: Chino Hills
 region: region-chino-valley
 region_name: Chino / West Valley
-type: news
-thread: chinohills-measurei
-excerpt: SBCTA wants San Bernardino County supervisors to put a Measure I extension before voters. The board that must act has zero meetings posted for July or August.
-read_time: "1 min read"
-whats_next: We watch the county clerk of the board and Legistar for any posted meeting, and confirm the placement deadline at the ROV. Chino Hills' own tax-measure vote is Tuesday, July 14.
-sources:
-  - text: "SBCTA's own release: board voted unanimously 6/10 to recommend the SB County BOS place a Measure I extension on the Nov 3 ballot; Measure I history per the release"
-    url: "https://www.gosbcta.com/sbcta-board-recommends-measure-i-extension-for-november-2026-ballot/"
-  - text: SB County Legistar web API — zero board events on/after 7/1, re-verified 7/12
-    url: "https://webapi.legistar.com/v1/sanbernardino/Events"
-draft: true
 ---
-
 Chino Hills voters may face a second tax question this November — not from their council, but from their county. The San Bernardino County Transportation Authority's board voted unanimously on June 10 to recommend that county supervisors place an extension of Measure I, the county's half-cent transportation sales tax, on the November 3 ballot.
 
 There's a procedural catch: the body that must act, the San Bernardino County Board of Supervisors, currently has **no meetings posted** — its public calendar shows zero board events on or after July 1, re-verified today. Whether that's summer recess or a posting lag is unknown; either way, a ballot recommendation is now waiting on a board with no posted date to receive it. Exactly what deadline governs November placement is a fact we haven't yet confirmed with the Registrar of Voters, so we won't guess it — but ballot calendars are unforgiving, and the clock is real.
