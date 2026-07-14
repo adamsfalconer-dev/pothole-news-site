@@ -18,7 +18,7 @@ sources:
     url: "https://www.cityofglendora.gov/files/assets/city/v/1/public-works/environmental-services/documents/glendora-2026-prop-218-final.pdf"
   - text: City of Glendora's council agenda portal — the posted agenda for the July 14, 2026 general session, where the rate hearing is Item 4
     url: "https://horizon.agendalink.app/engage-v2/glendoraca/agendas"
-draft: true
+draft: false
 ---
 
 Glendora's City Council holds a public hearing at 7 tonight on maximum trash and recycling rates for the next five years — and under the city's notice, written protests count only if the city clerk has them before the hearing closes.
