@@ -1,7 +1,8 @@
 ---
-title: Two days out from Chino Hills' tax vote, the budget roadshow isn't stopping
+title: "Two days out from Chino Hills' tax vote, the budget roadshow 1% sales
+  tax hike continues "
 slug: chino-hills-tax-vote-eve-update
-draft: true
+draft: false
 date: 2026-07-12
 place: chino-hills
 type: news
