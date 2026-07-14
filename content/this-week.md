@@ -1,16 +1,17 @@
 ---
 title: The week ahead across the Pomona Valley
 slug: this-week
-date: "2026-07-13"
+draft: false
+date: 2026-07-13
 type: meeting
-draft: true
+breaking: false
+corrected: false
 ---
-
 ## Monday, July 13
 
 - **Rowland Heights Coordinating Council** — general meeting, 7 p.m., Pathfinder Park. Its first meeting since the council's spring resolution opposing a local data center.
 
-## Tuesday, July 14 — the busy day
+## Tuesday, July 14
 
 - **Chino Hills City Council**, 6 p.m. — the council decides whether to place a 1-cent sales tax on the November 3 ballot (about $11.5 million a year by the city's own estimate). The city's new meeting-video system debuts this night.
 - **Los Angeles County Board of Supervisors**, 9:30 a.m. — a vote on a binding-arbitration charter amendment that, if adopted, goes to the countywide November 3 ballot.
@@ -33,4 +34,4 @@ draft: true
 - **Walnut Valley Water District board** — Monday, July 20, 5 p.m.
 - **Diamond Bar candidate filing** closes Friday, August 7.
 
-Times and locations are drawn from the bodies' posted agendas; confirm details on each agency's site before you go.
+Times and locations are drawn from the bodies' posted agendas; check each agency's site for final details before you go.
