@@ -24,7 +24,7 @@ sources:
     url: "https://ecode360.com/44540346"
   - text: City of South El Monte Municipal Code, Chapter 2.04 (City Council) — Section 2.04.080, the mayor's duty to sign resolutions and ordinances the council adopts in her presence
     url: "https://ecode360.com/44540268"
-draft: true
+draft: false
 ---
 
 > *Reported July 2026 as part of our founding archive — this account documents the March 2026 censure and the sanctions it imposed.*
