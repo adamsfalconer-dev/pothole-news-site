@@ -18,7 +18,7 @@ sources:
     url: "https://www.pomonaca.gov/government/departments/city-clerk/elections-information"
   - text: Official Pomona mayor and city council roster — Victor Preciado listed as the District 2 councilmember
     url: "https://www.pomonaca.gov/government/mayor-city-council"
-draft: true
+draft: false
 ---
 
 Pomona's District 2 council seat is going to a November runoff. No candidate won a majority in the June 2 primary, so the top two finishers — incumbent Victor Preciado and challenger Jacky Elizalde — will meet again on the Nov. 3 ballot.
