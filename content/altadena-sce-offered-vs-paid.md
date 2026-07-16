@@ -24,7 +24,7 @@ sources:
     url: "https://pasadenanow.com/main/edison-reports-700-million-in-eaton-fire-offers-sets-tuesday-community-meeting"
   - text: Utility Dive, February 2026 — SCE chief executive Pedro Pizarro's statement to investors about the utility's equipment and the fire's ignition
     url: "https://www.utilitydive.com/news/southern-california-edison-eix-wildfire-costs-earnings/812656/"
-draft: true
+draft: false
 ---
 
 Southern California Edison says it has now offered Eaton Fire victims nearly $730 million to settle their losses directly, without a lawsuit. By the same accounting, it has paid out nearly $300 million — roughly two-fifths of what it has offered.
