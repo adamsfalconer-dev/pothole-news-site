@@ -24,7 +24,7 @@ sources:
     url: "https://elections.cdn.sos.ca.gov/county-city-school-district-election-results/school_district_report_2000.pdf"
   - text: Los Angeles County Registrar-Recorder/County Clerk 2026 measure-filing calendar — the Aug. 7 resolution-filing deadline and the ballot-letter assignment date
     url: "https://content.lavote.gov/docs/rrcc/documents/2026-measure-information-booklet-v-4.pdf"
-draft: true
+draft: false
 ---
 
 Claremont Unified is asking voters for $77 million in November to repair the roofs, heating and plumbing of its aging schools — and it says the measure would not raise the tax rate residents already pay.
