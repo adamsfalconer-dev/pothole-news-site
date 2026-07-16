@@ -52,8 +52,25 @@ const PAGES_DIR = path.resolve(args.pages ||
   firstExisting([path.join(CONTENT_DIR, 'pages'), path.join(ROOT, 'page-content')]) ||
   path.join(CONTENT_DIR, 'pages'));
 const OUT_DIR = path.resolve(args.out || path.join(ROOT, 'dist'));
+// Canonical base URL resolution (single source of truth for the domain):
+//   1. --base-url flag   2. SITE_URL env   3. CF_PAGES_URL env
+//   4. site.config.json {"siteUrl": …} committed at the repo root — the ONE
+//      configurable place the desk edits. A domain transfer (see
+//      PLACEHOLDERS-FOR-TJ.md) is a one-line edit to that file + redirects.
+//   5. a last-resort hardcoded fallback, kept only so a build never crashes if
+//      the config file is missing — the live domain is NOT re-hardcoded here.
+function readSiteConfigUrl() {
+  try {
+    const p = path.join(ROOT, 'site.config.json');
+    if (fs.existsSync(p)) {
+      const u = JSON.parse(fs.readFileSync(p, 'utf8')).siteUrl;
+      if (u && /^https?:\/\//i.test(u)) return u;
+    }
+  } catch (e) { /* malformed config → fall through to the fallback */ }
+  return null;
+}
 const BASE_URL = String(args['base-url'] || process.env.SITE_URL || process.env.CF_PAGES_URL ||
-  'https://potholenews.pages.dev').replace(/\/+$/, '');
+  readSiteConfigUrl() || 'https://potholenews.pages.dev').replace(/\/+$/, '');
 const INCLUDE_DRAFTS = !!args.drafts;
 // Optional Cloudflare Web Analytics (cookieless). Off unless the Pages build env
 // sets CF_ANALYTICS_TOKEN; Cloudflare's "automatic" dashboard mode injects its own
