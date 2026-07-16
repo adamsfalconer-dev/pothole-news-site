@@ -16,7 +16,7 @@ sources:
     url: "https://resources.finalsite.net/images/v1782748851/hlpschoolsorg/hi6zsnm277blvmroglqx/2026-2027AdoptedBudget.pdf"
   - text: Hacienda La Puente Unified BoardDocs — June 25, 2026 board meeting and the budget-adoption item; board roster
     url: "https://go.boarddocs.com/ca/hlpusd/board.nsf/public"
-draft: true
+draft: false
 ---
 
 > *Reported in July 2026 as part of Pothole News's founding archive; it documents the district's June 25, 2026 budget adoption.*
