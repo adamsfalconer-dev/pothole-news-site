@@ -20,7 +20,7 @@ sources:
     url: "https://netfile.com/Connect2/api/public/image/216806675"
   - text: FPPC Form 496 (independent-expenditure report) for Pomona Kids First — $10,815.02 on literature and postage opposing Measure Z, cumulative $21,987.73
     url: "https://netfile.com/Connect2/api/public/image/216806422"
-draft: true
+draft: false
 ---
 
 Pomona's fund for children and youth programs will now draw from a fixed slice of the city's sales tax rather than a share of its general budget. Voters made the change on the June 2 primary ballot, approving Measure Z 14,250 to 6,986 — more than two to one.
