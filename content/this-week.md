@@ -2,36 +2,44 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-07-13
+date: 2026-07-16
 type: meeting
 breaking: false
 corrected: false
 ---
-## Monday, July 13
-
-- **Rowland Heights Coordinating Council** — general meeting, 7 p.m., Pathfinder Park. Its first meeting since the council's spring resolution opposing a local data center.
-
-## Tuesday, July 14
-
-- **Chino Hills City Council**, 6 p.m. — the council decides whether to place a 1-cent sales tax on the November 3 ballot (about $11.5 million a year by the city's own estimate). The city's new meeting-video system debuts this night.
-- **Los Angeles County Board of Supervisors**, 9:30 a.m. — a vote on a binding-arbitration charter amendment that, if adopted, goes to the countywide November 3 ballot.
-- **Pomona Police Oversight Commission**, 6:30 p.m. — a year of Internal Affairs case-log data and a proposal for automated license-plate cameras.
-- **Diamond Bar Planning Commission**, 6:30 p.m.
-- **Rowland Water District board**, 6 p.m. — a closed session on state water litigation and a sponsorship request from the Rowland Heights Coordinating Council.
-
-## Wednesday, July 15
-
-- **Pomona Library Board of Trustees**, 5 p.m. — records repatriation and LA28 planning.
-- **Los Angeles County Regional Planning Commission** meets.
+_Desk-maintained listings. Every meeting below was confirmed at the body's own posted agenda or official
+meeting calendar as of Thursday, July 16, 2026; meetings a body lists only by cadence, or that were posted
+as canceled, are not included. Times and locations are the agenda's; confirm final details at the agency's
+site before you go._
 
 ## Thursday, July 16
 
-- **Pomona Parks & Recreation Commission**, 6 p.m. — the city's camping ordinance.
-- **San Gabriel Valley Council of Governments** Governing Board meets.
+- **Glendora Community Services Commission** — 6 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
+
+## Monday, July 20
+
+- **Pomona City Council** (with the Housing Authority) — 7 p.m. (closed session 5:30 p.m.), Council Chambers, City Hall, 505 S. Garey Ave. Agenda: pomona.legistar.com
+- **La Verne City Council** — regular session 6:30 p.m. (study/closed session 5:30 p.m.), Council Chambers, 3660 D Street. Agenda: laverneca.gov/AgendaCenter
+- **Walnut Valley Water District Board of Directors** — 5 p.m., District Board Room, 235 S. Brea Canyon Rd., Walnut. Agenda: walnutvalleywater.gov/about-us/meetings-minutes-and-agendas
+
+## Tuesday, July 21
+
+- **Los Angeles County Board of Supervisors** — 9:30 a.m., Kenneth Hahn Hall of Administration, 500 W. Temple St., Los Angeles. Agenda: bos.lacounty.gov/board-meeting-agendas
+- **Diamond Bar City Council** — 6:30 p.m., SCAQMD Main Auditorium, 21865 Copley Dr. Agenda: diamondbarca.portal.civicclerk.com
+- **Glendora City Council** (special meeting) — 5:30 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
+- **Glendora City Council** (special meeting) — 6 p.m., Glendora Public Library, Bidwell Forum, 140 Glendora Ave. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
+
+## Thursday, July 23
+
+- **Glendora Water Commission** — 6 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
+- **Diamond Bar Parks & Recreation Commission** — 6:30 p.m., City Hall, Windmill Community Room, 21810 Copley Dr. Agenda: diamondbarca.portal.civicclerk.com
 
 ## Looking ahead
 
-- **Walnut Valley Water District board** — Monday, July 20, 5 p.m.
-- **Diamond Bar candidate filing** closes Friday, August 7.
+- **Diamond Bar Planning Commission** — Tuesday, July 28, 6:30 p.m., City Hall, Windmill Community Room, 21810 Copley Dr.
+- **Los Angeles County Regional Planning Commission** — Wednesday, July 29, 9 a.m.; see the posted agenda at lacdrp.legistar.com for the location.
 
-Times and locations are drawn from the bodies' posted agendas; check each agency's site for final details before you go.
+_Not meeting as their cadence might suggest: the Los Angeles County Regional Planning Commission's July 22
+meeting and Glendora's July 28 regular City Council meeting are both posted as canceled; Walnut's City
+Council has no July 22 agenda posted; and the San Gabriel Valley Council of Governments has no July meeting
+posted._
