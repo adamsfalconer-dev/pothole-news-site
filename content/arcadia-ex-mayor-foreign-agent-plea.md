@@ -20,7 +20,7 @@ sources:
     url: "https://www.justice.gov/usao-cdca/pr/political-operative-sentenced-4-years-federal-prison-acting-covert-agent-peoples"
   - text: City of Arcadia's account of filling the District 3 seat, with John Han appointed June 16
     url: "https://www.arcadiaca.gov/government/city_council/vacant.php"
-draft: true
+draft: false
 ---
 
 > *Reported July 2026 as part of our founding archive.*
