@@ -28,7 +28,7 @@ sources:
     url: "https://www.law.cornell.edu/regulations/california/23-CCR-3939.41"
   - text: The state rule requiring a lead agency to answer comments in writing before it can certify a final environmental report
     url: "https://www.law.cornell.edu/regulations/california/14-CCR-15088"
-draft: true
+draft: false
 ---
 
 The state agency that regulates water quality in the Los Angeles River watershed has told Pasadena that its draft environmental study for the Arroyo Seco Water Reuse Project is wrong in several places, and that a permit the project needs could be refused.
