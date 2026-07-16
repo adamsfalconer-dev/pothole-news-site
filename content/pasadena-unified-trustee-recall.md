@@ -24,7 +24,7 @@ sources:
     url: "https://pasadenanow.com/main/pusd-rejects-brown-act-challenge-to-vote-that-set-stage-for-school-closures"
   - text: Pasadena Now — Fredericks's defense ('personal notes'; lawful due diligence), Harden's and Kenne's explanations, and the district's budget framing
     url: "https://pasadenanow.com/main/pusd-board-president-disputes-brown-act-violation-accusations-describes-consolidation-research-as-due-diligence"
-draft: true
+draft: false
 ---
 
 Six Pasadena Unified schools that a consultant's report had marked for possible closure or merger will stay open — and two of the trustees who set that process in motion are now the targets of a recall.
