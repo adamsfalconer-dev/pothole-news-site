@@ -16,7 +16,7 @@ sources:
     url: "https://public.destinyhosted.com/westcdocs/2026/CC/20260707_834/3146_Reso_2026-66_Citywide_Sewer_Resolution_of_Intention_-_Revised.pdf"
   - text: West Covina City Council agenda packet for July 7, 2026, including staff reports for the sewer charge (Item 5), the Lighting & Maintenance District (Item 6), landscape districts (Item 4), and the Auto Plaza business district (Item 3)
     url: "https://public.destinyhosted.com/westcdocs/2026/CC/20260707_834/AGENDApacket__07-07-26_0345_833.pdf"
-draft: true
+draft: false
 ---
 
 West Covina's City Council holds a public hearing Tuesday, July 21, on collecting the city's sewer service charge through the Los Angeles County property-tax roll for the coming year — and, for most homeowners, the takeaway is that the charge is not changing.
