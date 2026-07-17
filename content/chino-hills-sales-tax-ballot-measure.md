@@ -24,7 +24,7 @@ sources:
     url: "https://chinohillsca.new.swagit.com/videos/393508"
   - text: California Elections Code section 9285, the rebuttal-argument rules the council adopted for this measure
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9285"
-draft: true
+draft: false
 ---
 
 Shoppers in Chino Hills pay 7.75% in sales tax today. If voters approve the measure their council placed on the November ballot Tuesday, they would pay 8.75% — and there is no date on which it stops.
