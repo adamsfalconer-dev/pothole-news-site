@@ -21,7 +21,7 @@ sources:
     url: "https://cdtfa.ca.gov/formspubs/cdtfa823.pdf"
   - text: Los Angeles County's official explanation of the half-cent county sales tax measure that went before voters in June, including its Oct. 1 start date
     url: "https://file.lacounty.gov/SDSInter/lac/1202661_EssentialServicesRestorationActforLosAngelesCountyGeneralSalesTaxMeasureFAQ_FINAL.pdf"
-draft: true
+draft: false
 ---
 
 Diamond Bar wants a penny on every taxable dollar spent inside the city, and on Tuesday its council decides whether to put that question to voters in November.
