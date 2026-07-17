@@ -22,7 +22,7 @@ sources:
     url: "https://pomona.legistar.com/View.ashx?M=F&ID=15693013&GUID=C29F53DA-6688-4E11-BDE5-B23CB82A7A15"
   - text: The July 20 Pomona City Council agenda, with the public-comment rules
     url: "https://pomona.legistar.com/View.ashx?M=A&ID=1362564&GUID=8A72908E-7D48-448C-B856-D62C02F4EB0A"
-draft: true
+draft: false
 ---
 
 Pomona's city council decides Monday whether to hand up to five years of citywide tree work to Mariposa Tree Management — over the written objections of two companies that bid against it.
