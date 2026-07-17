@@ -22,7 +22,7 @@ sources:
     url: "https://riversideca.gov/cedd/sites/riversideca.gov.cedd/files/Final%20EIR%20-%20Mission%20Grove%20Apartments.pdf"
   - text: CEQAnet listing for the Mission Grove Apartments EIR (SCH 2022100610), Riverside
     url: "https://ceqanet.lci.ca.gov/2022100610/2"
-draft: true
+draft: false
 ---
 
 Chino's draft environmental study for rebuilding Euclid Avenue over Chino Creek is open for public comment until Thursday, July 23 — and the section that answers one of the questions the study records the public asking at its scoping meetings is headed with a different city's project on all ten of its pages.
