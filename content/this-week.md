@@ -19,13 +19,14 @@ site before you go._
 ## Monday, July 20
 
 - **Pomona City Council** (with the Housing Authority) — 7 p.m. (closed session 5:30 p.m.), Council Chambers, City Hall, 505 S. Garey Ave. Agenda: pomona.legistar.com
-- **La Verne City Council** — regular session 6:30 p.m. (study/closed session 5:30 p.m.), Council Chambers, 3660 D Street. Agenda: laverneca.gov/AgendaCenter
+- **La Verne City Council** — regular session 6:30 p.m. (study/closed session 5:30 p.m.), Council Chambers, 3660 D Street. Item 13 asks the council to consider a Proposition 218 process to raise the Measure GG paramedic fee to $14 a month. Agenda: laverneca.gov/AgendaCenter
 - **Walnut Valley Water District Board of Directors** — 5 p.m., District Board Room, 235 S. Brea Canyon Rd., Walnut. Agenda: walnutvalleywater.gov/about-us/meetings-minutes-and-agendas
 
 ## Tuesday, July 21
 
 - **Los Angeles County Board of Supervisors** — 9:30 a.m., Kenneth Hahn Hall of Administration, 500 W. Temple St., Los Angeles. Agenda: bos.lacounty.gov/board-meeting-agendas
 - **Diamond Bar City Council** — 6:30 p.m., SCAQMD Main Auditorium, 21865 Copley Dr. Agenda: diamondbarca.portal.civicclerk.com
+- **West Covina City Council** — 7 p.m., Council Chambers, 1444 W. Garvey Ave. South. The agenda includes public hearings on placing the city's unchanged sewer service charge, and its lighting and landscape assessments, on the county property-tax roll. Agenda: westcovina.org
 - **Glendora City Council** (special meeting) — 5:30 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
 - **Glendora City Council** (special meeting) — 6 p.m., Glendora Public Library, Bidwell Forum, 140 Glendora Ave. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
 
