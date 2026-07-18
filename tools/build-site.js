@@ -162,6 +162,7 @@ function head(opts) {
 <title>${esc(title)}</title>
 <meta name="description" content="${escA(desc)}">
 <link rel="canonical" href="${escA(canonical)}">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
 <meta property="og:type" content="${escA(ogType)}">
 <meta property="og:site_name" content="${escA(SITE_NAME)}">
 <meta property="og:title" content="${escA(opts.ogTitle || title)}">
@@ -186,7 +187,7 @@ ${CF_ANALYTICS ? `<script defer src="https://static.cloudflareinsights.com/beaco
 function masthead() {
   return `<header class="masthead" role="banner">
     <div class="masthead__row">
-      <a class="wordmark" href="/"><b>POTHOLE</b><em class="wordmark__news"> news</em><span class="u-visually-hidden"> — home</span></a>
+      <a class="wordmark" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News — home</span></a>
       <div class="masthead__actions"><a class="btn btn--newsletter" href="#request">Newsletter</a></div>
     </div>
     <nav class="eds" aria-label="Your editions" data-editions>
@@ -213,7 +214,7 @@ function footer() {
     <div class="site-footer__inner">
       ${atlas()}
       <div class="site-footer__bar">
-        <a class="wordmark wordmark--reverse" href="/"><b>POTHOLE</b><em class="wordmark__news"> news</em></a>
+        <a class="wordmark wordmark--reverse" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News — home</span></a>
         <nav class="site-footer__links" aria-label="About this site">
           <a href="/about/">About</a><a href="/ethics/">Ethics</a><a href="/tips/">Tips</a><a href="/corrections/">Corrections</a><a href="/privacy/">Privacy</a>
         </nav>

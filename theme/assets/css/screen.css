@@ -43,9 +43,13 @@ button { font: inherit; cursor: pointer; }
   white-space: nowrap;
 }
 .wordmark b { color: var(--pn-blue); font-weight: inherit; }
+.wordmark__punch {
+  display: inline-block; width: 0.58em; height: 0.58em; border-radius: 50%;
+  background: var(--pn-orange); margin: 0 0.015em; vertical-align: 0.01em;
+}
 .wordmark__news { font-family: var(--font-emphasis); font-style: italic; font-weight: 400; }
 .wordmark--reverse { color: var(--pn-paper); }
-.wordmark--reverse b { color: #7f92f5; }
+.wordmark--reverse b { color: var(--pn-paper); }  /* 8c reverse law: letters go paper; the punch stays orange */
 
 /* ---- masthead ------------------------------------------------------------- */
 .masthead {
@@ -483,7 +487,11 @@ button { font: inherit; cursor: pointer; }
 .pagination .page-number { color: var(--meta); }
 
 /* ---- footer + atlas ------------------------------------------------------- */
-.site-footer { background: var(--pn-ink); color: #c9c5b8; margin-top: 40px; }
+.site-footer {
+  background: var(--pn-ink); color: #c9c5b8; margin-top: 40px;
+  background-image: radial-gradient(circle, rgba(251, 247, 238, 0.06) 1px, transparent 1.4px);
+  background-size: 7px 7px;  /* 8c halftone — dark fields only, ≤6% */
+}
 .site-footer__inner { max-width: var(--measure); margin: 0 auto; padding: 32px var(--gutter) 40px; }
 .atlas__title {
   font-family: var(--font-body); font-weight: 700; font-size: 0.7rem;
@@ -494,7 +502,7 @@ button { font: inherit; cursor: pointer; }
   font-family: var(--font-body); font-weight: 800; font-size: 0.66rem;
   letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 6px;
 }
-.atlas__region a { color: #7f92f5; text-decoration: none; }
+.atlas__region a { color: #aab6ef; text-decoration: none; }  /* 8c dark-field structure tint */
 .atlas__list li { margin: 3px 0; }
 .atlas__list a { color: #c9c5b8; text-decoration: none; font-size: 0.82rem; }
 .atlas__list a:hover, .atlas__region a:hover { color: var(--pn-paper); text-decoration: underline; }

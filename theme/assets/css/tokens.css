@@ -1,9 +1,10 @@
 /* ============================================================================
    POTHOLE NEWS — signal-theme · tokens.css
    The single source of truth for brand tokens on the web.
-   Transcribed VERBATIM from the frozen C1-SIGNAL brand system, §5 BRAND-TOKENS
-   (design/POTHOLE-BRAND-SYSTEM-C1-SIGNAL-v1.html). No invented colors, no new
-   fonts. Companion doc with the JSON block + this mapping: phase-b/BRAND-TOKENS.md
+   Transcribed VERBATIM from the frozen 8C-SIGNAL-HOLE brand system v1.1, §7
+   (design/POTHOLE-BRAND-SYSTEM-8C-SIGNAL-HOLE-v1.html) + the approved cover
+   variant set. No invented colors, no new fonts. Re-skinned from C1-SIGNAL per
+   Publisher FINAL 2026-07-17. Companion doc: phase-b/BRAND-TOKENS.md (v2 pending).
    ============================================================================ */
 
 :root {
@@ -15,14 +16,17 @@
        verdicts = NONE (votes are filled/outlined paper, never colored)          */
   --pn-ink:        #111111;
   --pn-paper:      #FBF7EE;
-  --pn-blue:       #2447F0;
+  --pn-blue:       #1B33AC;   /* 8c primary structure · #2447F0 RETIRED (v1.1) */
   --pn-orange:     #E8590C;
   --pn-stone:      #9B968A;
-  --pn-blue-deep:  #1B33AC;   /* hover / pressed states ONLY */
+  --pn-blue-deep:  #14286E;   /* hover / pressed states ONLY (8c) */
 
-  /* Reserved expansion set — brand-package future only. NEVER used in production
-     until a Publisher order releases it. Listed here for provenance, not for use.
-       emerald #0E8A6D · magenta #D91E75 · navy #14284B                          */
+  /* Palette packs (8c §5b, Publisher order 2026-07-17): interchangeable
+     STRUCTURE-color skins. Pack A = --pn-blue (site default). B/C ship as vars
+     for future franchise surfaces; ink, paper, stone and ALL orange heat jobs
+     never re-skin. New reserve: navy #14284B · marigold #F2B701.                */
+  --pn-pack-b:     #0E8A6D;   /* LEDGER GREEN — weekend + community roundups */
+  --pn-pack-c:     #D91E75;   /* VALLEY MAGENTA — special projects / election countdown */
 
   /* Working aliases the theme reads (light theme = paper is home) */
   --bg:            var(--pn-paper);   /* page field */
