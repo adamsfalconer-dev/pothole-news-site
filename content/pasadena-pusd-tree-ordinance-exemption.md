@@ -24,7 +24,7 @@ sources:
     url: "https://www.pasadenastarnews.com/2026/07/16/pasadena-unified-school-district-trustees-ok-legal-action-say-campuses-are-exempt-from-citys-tree-protection-ordinance/"
   - text: Pasadena Now, July 17, Gab Apo — the closed-session announcement and trustee remarks
     url: "https://pasadenanow.com/main/pusd-board-authorizes-litigation-exempts-itself-from-city-tree-protection-ordinance-rules"
-draft: true
+draft: false
 ---
 
 Pasadena Unified's school board voted Thursday night to declare the City of Pasadena's zoning ordinances inapplicable at 10 of its properties — the rules behind the stop-work orders the city has posted over campus tree removals — and, separately, authorized a lawsuit against a defendant the district declined to name.
