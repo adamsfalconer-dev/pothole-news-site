@@ -22,7 +22,7 @@ sources:
     url: "https://www.montereypark.ca.gov/687/Independence-Day-Celebration"
   - text: Los Angeles Fire Department incident release ('Los Palos IC') — the warehouse's address at 1400 S. Los Palos Street, the June 17 start, and the June 25 knockdown
     url: "https://lafd.org/news/boyle-heights-commercial-structure-fire-los-palos-ic"
-draft: true
+draft: false
 ---
 
 Monterey Park residents who bought an air purifier while smoke from the Boyle Heights warehouse fire hung over the city can claim part of the cost back. They have until July 31, and the city says the money may not last that long.
