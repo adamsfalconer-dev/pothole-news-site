@@ -24,7 +24,7 @@ sources:
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9217."
   - text: California Government Code section 65860 — zoning must stay consistent with the general plan, residents may sue to enforce that, and the rule applies to charter cities
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=65860."
-draft: true
+draft: false
 ---
 
 The data-center ban Monterey Park voters approved on June 2 took effect Saturday, July 11 — written into the city's General Plan, where no City Council, now or later, can repeal or amend it. Undoing it would take another public vote.
