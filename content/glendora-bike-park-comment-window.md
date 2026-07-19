@@ -19,7 +19,7 @@ sources:
     url: "https://ceqanet.lci.ca.gov/2025120441/2"
   - text: Response-to-comments appendix containing the Fish and Wildlife and State Parks comments
     url: "https://ceqanet.lci.ca.gov/2025120441/2/Attachment/_M8EpO"
-draft: true
+draft: false
 ---
 
 Glendora residents have through Friday, July 31, to comment — for a second time — on the city's plan to build a bike park and a new trail network in the South Hills Wilderness.
