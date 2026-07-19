@@ -17,7 +17,7 @@ sources:
     url: "https://www.azusaca.gov/DocumentCenter/View/50970/For-Posting_Public-Hearing-Notice---2026-August-Refuse-Rate-Adjustment"
   - text: Athens Services customer letter on the July 2025 rate adjustment
     url: "https://www.azusaca.gov/DocumentCenter/View/49429/07012025-Notification-Letter"
-draft: true
+draft: false
 ---
 
 Azusa property owners and the tenants who pay their trash bills have until the close of Monday night's public hearing to protest a rate increase that would set the single-family cart rate at $49.07 a month starting with bills issued on or after Aug. 1 — and allow annual increases for the five years after that with no further public hearing.
