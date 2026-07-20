@@ -18,7 +18,7 @@ sources:
     url: "https://bos.lacounty.gov/board-meeting-agendas/"
   - text: County page for submitting written public comment
     url: "https://publiccomment.bos.lacounty.gov"
-draft: true
+draft: false
 ---
 
 Los Angeles County supervisors are scheduled to vote Tuesday, July 21, on creating a $1 million Altadena Soil Remediation Program, with the county's development authority running the work.
