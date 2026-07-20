@@ -2,20 +2,21 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-07-17
+date: 2026-07-19
 type: meeting
 breaking: false
 corrected: false
 ---
 _Desk-maintained listings. Every meeting below was confirmed at the body's own posted agenda or official
-meeting calendar as of Friday, July 17, 2026; meetings a body lists only by cadence, or that were posted
-as canceled, are not included. Times and locations are the agenda's; confirm final details at the agency's
-site before you go._
+meeting calendar as of Friday, July 17, 2026, except the Azusa hearing, confirmed at its posted agenda
+Sunday, July 19; meetings a body lists only by cadence, or that were posted as canceled, are not included.
+Times and locations are the agenda's; confirm final details at the agency's site before you go._
 
 ## Monday, July 20
 
 - **Pomona City Council** (with the Housing Authority) — 7 p.m. (closed session 5:30 p.m.), Council Chambers, City Hall, 505 S. Garey Ave. Item 12 asks the council to award up to five years of citywide tree maintenance, over formal protests from two bidders; it is on the discussion calendar, so the council takes it up in the open. Agenda: pomona.legistar.com
 - **La Verne City Council** — regular session 6:30 p.m. (study/closed session 5:30 p.m.), Council Chambers, 3660 D Street. Item 13 asks the council to consider a Proposition 218 process to raise the Measure GG paramedic fee to $14 a month. Agenda: laverneca.gov/AgendaCenter
+- **Azusa City Council** — 7:30 p.m., Azusa Auditorium, 213 E. Foothill Blvd. Public-hearing item D-1 asks the council to raise trash rates by about 5 percent and allow automatic annual increases through 2031; written protests count until the hearing closes. Agenda: azusaca.gov
 - **Walnut Valley Water District Board of Directors** — 5 p.m., District Board Room, 235 S. Brea Canyon Rd., Walnut. Agenda: walnutvalleywater.gov/about-us/meetings-minutes-and-agendas
 
 ## Tuesday, July 21
