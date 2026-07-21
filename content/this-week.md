@@ -2,14 +2,15 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-07-19
+date: 2026-07-20
 type: meeting
 breaking: false
 corrected: false
 ---
 _Desk-maintained listings. Every meeting below was confirmed at the body's own posted agenda or official
 meeting calendar as of Friday, July 17, 2026, except the Azusa hearing, confirmed at its posted agenda
-Sunday, July 19; meetings a body lists only by cadence, or that were posted as canceled, are not included.
+Sunday, July 19, and the Chino council meeting, confirmed at the city's official meeting calendar Monday,
+July 20; meetings a body lists only by cadence, or that were posted as canceled, are not included.
 Times and locations are the agenda's; confirm final details at the agency's site before you go._
 
 ## Monday, July 20
@@ -26,6 +27,7 @@ Times and locations are the agenda's; confirm final details at the agency's site
 - **West Covina City Council** — 7 p.m., Council Chambers, 1444 W. Garvey Ave. South. The agenda includes public hearings on placing the city's unchanged sewer service charge, and its lighting and landscape assessments, on the county property-tax roll. Agenda: westcovina.org
 - **Glendora City Council** (special meeting) — 5:30 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
 - **Glendora City Council** (special meeting) — 6 p.m., Glendora Public Library, Bidwell Forum, 140 Glendora Ave. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
+- **Chino City Council** — 6 p.m., City Hall Council Chambers, 13220 Central Ave. The agenda includes public hearings on an amendment to the city's master schedule of user fees and on the 2026-27 landscape and lighting maintenance district assessment. Agenda: chino.legistar.com
 
 ## Thursday, July 23
 
