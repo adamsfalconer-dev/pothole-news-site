@@ -23,7 +23,7 @@ sources:
     url: "https://www.sangabrielcity.com/AgendaCenter/ViewFile/Agenda/_06022026-1448"
   - text: State tax department's city sales-tax table listing San Gabriel's current rate
     url: "https://cdtfa.ca.gov/taxes-and-fees/rates.aspx"
-draft: true
+draft: false
 ---
 
 San Gabriel property owners — and tenants who pay the trash bill directly — have until just before noon today to get a written protest against the city's proposed new trash rates to City Hall, at 425 S. Mission Dr., by mail or drop-off. After that, they can still hand one to the city clerk in person until tonight's hearing closes. The City Council opens the Proposition 218 hearing at its 6:30 p.m. meeting; if a majority of affected customers file written protests, the council cannot approve the rates.
