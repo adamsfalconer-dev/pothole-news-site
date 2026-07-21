@@ -23,7 +23,7 @@ sources:
     url: "https://chino.legistar.com/View.ashx?M=F&ID=15701610&GUID=88179B1B-2FCB-4508-8719-B048F09738FD&G=FCED2B78-20F3-40ED-B45D-72741543B315"
   - text: Consent item 11 — Chino Valley Unified school-resource-officer agreement for 2026-27
     url: "https://chino.legistar.com/LegislationDetail.aspx?ID=8140827&GUID=18FCF90A-8CFA-4ABA-B83B-C2D5CC6D50F9&G=FCED2B78-20F3-40ED-B45D-72741543B315&Options=&Search="
-draft: true
+draft: false
 ---
 
 The Chino City Council holds its last regular meeting before September tonight, and much of the agenda is what people pay the city: public hearings on new fees and this year's landscape assessments, plus a vote on sending a new business tax to the November ballot.
