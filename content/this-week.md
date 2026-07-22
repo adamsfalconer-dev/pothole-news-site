@@ -2,32 +2,29 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-07-20
+date: 2026-07-21
 type: meeting
 breaking: false
 corrected: false
 ---
 _Desk-maintained listings. Every meeting below was confirmed at the body's own posted agenda or official
-meeting calendar as of Friday, July 17, 2026, except the Azusa hearing, confirmed at its posted agenda
-Sunday, July 19, and the Chino council meeting, confirmed at the city's official meeting calendar Monday,
-July 20; meetings a body lists only by cadence, or that were posted as canceled, are not included.
-Times and locations are the agenda's; confirm final details at the agency's site before you go._
-
-## Monday, July 20
-
-- **Pomona City Council** (with the Housing Authority) — 7 p.m. (closed session 5:30 p.m.), Council Chambers, City Hall, 505 S. Garey Ave. Item 12 asks the council to award up to five years of citywide tree maintenance, over formal protests from two bidders; it is on the discussion calendar, so the council takes it up in the open. Agenda: pomona.legistar.com
-- **La Verne City Council** — regular session 6:30 p.m. (study/closed session 5:30 p.m.), Council Chambers, 3660 D Street. Item 13 asks the council to consider a Proposition 218 process to raise the Measure GG paramedic fee to $14 a month. Agenda: laverneca.gov/AgendaCenter
-- **Azusa City Council** — 7:30 p.m., Azusa Auditorium, 213 E. Foothill Blvd. Public-hearing item D-1 asks the council to raise trash rates by about 5 percent and allow automatic annual increases through 2031; written protests count until the hearing closes. Agenda: azusaca.gov
-- **Walnut Valley Water District Board of Directors** — 5 p.m., District Board Room, 235 S. Brea Canyon Rd., Walnut. Agenda: walnutvalleywater.gov/about-us/meetings-minutes-and-agendas
+meeting calendar: the standing listings as of Friday, July 17, 2026; the Chino council meeting at the city's
+official meeting calendar Monday, July 20; and the El Monte and Walnut council meetings at their posted
+agendas Tuesday, July 21. Meetings a body lists only by cadence, or that were posted as canceled, are not
+included. Times and locations are the agenda's; confirm final details at the agency's site before you go._
 
 ## Tuesday, July 21
 
-- **Los Angeles County Board of Supervisors** — 9:30 a.m., Kenneth Hahn Hall of Administration, 500 W. Temple St., Los Angeles. Agenda: bos.lacounty.gov/board-meeting-agendas
 - **Diamond Bar City Council** — 6:30 p.m. (closed session 5:30 p.m.), SCAQMD Main Auditorium, 21865 Copley Dr. Item 9.1 asks the council to place a 1% sales-tax measure on the November ballot. Agenda: diamondbarca.portal.civicclerk.com
 - **West Covina City Council** — 7 p.m., Council Chambers, 1444 W. Garvey Ave. South. The agenda includes public hearings on placing the city's unchanged sewer service charge, and its lighting and landscape assessments, on the county property-tax roll. Agenda: westcovina.org
 - **Glendora City Council** (special meeting) — 5:30 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
 - **Glendora City Council** (special meeting) — 6 p.m., Glendora Public Library, Bidwell Forum, 140 Glendora Ave. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
 - **Chino City Council** — 6 p.m., City Hall Council Chambers, 13220 Central Ave. The agenda includes public hearings on an amendment to the city's master schedule of user fees and on the 2026-27 landscape and lighting maintenance district assessment. Agenda: chino.legistar.com
+
+## Wednesday, July 22
+
+- **El Monte City Council** — 6 p.m., City Council Chambers, El Monte City Hall – East, 11333 Valley Blvd. The agenda includes public hearings on re-levying special taxes in the Gateway and Mountain View community facilities districts, and a proposed contract for outside code-enforcement counsel capped at $350,000 a year — $1.05 million over its initial term. Agenda: elmonteca.gov/agendacenter
+- **Walnut City Council** (with the Housing Authority) — 7 p.m., Council Chambers, 21201 La Puente Road. The council selects a mayor and mayor pro tem in its annual reorganization, and takes up a $205,000 first-phase contract for renovating the Walnut Ranch Park soccer fields. Agenda: walnutca.gov/My-Government/Meetings-Agendas/City-Council/2026-Agendas
 
 ## Thursday, July 23
 
