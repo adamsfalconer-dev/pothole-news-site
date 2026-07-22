@@ -5,9 +5,14 @@
   "scripts": {
     "verify": "node tools/verify-clean.js .",
     "build": "node tools/verify-clean.js . && node tools/build-site.js",
-    "serve": "node tools/serve-dist.js"
+    "serve": "node tools/serve-dist.js",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "^4.113.0"
   }
 }
