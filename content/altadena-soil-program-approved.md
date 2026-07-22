@@ -20,7 +20,7 @@ sources:
     url: "https://file.lacounty.gov/SDSInter/bos/supdocs/218794.pdf"
   - text: Board of Supervisors July 21 agenda — items 13, 1-D and 2-D
     url: "https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/f75e7033-760c-46cd-bd3c-ea9c9bf0f90d/072126_Agenda.html"
-draft: true
+draft: false
 ---
 
 Los Angeles County supervisors on Tuesday, July 21, approved the $1 million Altadena Soil Remediation Program, putting the county's development authority in charge of cleaning lead-contaminated soil at properties hit by the Eaton Fire. The vote was unanimous, according to Supervisor Kathryn Barger's office and LAist.
