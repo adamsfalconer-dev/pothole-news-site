@@ -15,7 +15,7 @@ Most of these places share almost no dedicated coverage of their city halls, sch
 
 ## How we work
 
-We're a small operation that uses **AI tools under human editorial control** to monitor far more public meetings and records than a newsroom our size otherwise could. A human is responsible for every published word. We're transparent about exactly how that works on our [Ethics & Standards](/ethics/) page.
+We're a small operation built to monitor far more public meetings and records than a newsroom our size otherwise could. Our sourcing, verification and corrections standards are on our [Ethics & Standards](/ethics/) page.
 
 Our weekly roundup lands in your inbox free. **[Subscribe](/#/portal/signup)** — no cost, no ads, unsubscribe anytime.
 
