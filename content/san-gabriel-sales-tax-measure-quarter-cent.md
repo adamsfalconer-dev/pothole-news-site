@@ -20,7 +20,7 @@ sources:
     url: "https://www.sangabrielcity.com/DocumentCenter/View/25005/Reso-No-26-30"
   - text: State tax department's schedule of city and county sales-tax rates in effect July 1, 2026
     url: "https://www.cdtfa.ca.gov/taxes-and-fees/SalesTaxRates07-01-26.xlsx"
-draft: true
+draft: false
 ---
 
 San Gabriel shoppers are being asked in November to add a penny to every dollar they spend in the city. The city's own report to the council says that under current state law it can collect a quarter of it.
