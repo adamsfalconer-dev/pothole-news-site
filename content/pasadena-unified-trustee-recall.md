@@ -8,17 +8,19 @@ region: region-foothills
 region_name: Pasadena & Foothills
 type: schools
 thread: pasadena-unified-consolidation
-excerpt: The board rejected a $230,000 consolidation study in May. The fight has since moved to whether Tina Fredericks and Scott Harden keep their seats.
+excerpt: The board rejected the consolidation study in May, 6-1. The fight has since moved to whether Tina Fredericks and Scott Harden keep their seats.
+corrected: true
+correction_note: An earlier version of this story's summary line included a dollar figure for the consolidation study that had been reported by a single outlet and did not meet our sourcing standard. It has been removed.
 read_time: "5 min read"
 whats_next: A trial-setting conference in Fredericks's lawsuit is set for September 8 in Los Angeles Superior Court. No recall election involving the two trustees has qualified for a ballot; the county registrar's calendar of upcoming elections lists none. Whether the recall petitions against Fredericks and Harden are cleared to gather signatures — and how many valid signatures each would need to reach a ballot — turns on the county registrar and, for Fredericks, on the court.
 sources:
-  - text: "Los Angeles Superior Court, Civil Case Access — case No. 26STCP02505, Tina Fredericks v. Los Angeles County Registrar-Recorder/County Clerk: the docket, the July 2 filing, the assignment to Dept. 834, and the Sept. 8 trial-setting conference (no ruling on the request to block circulation)"
+  - text: "Los Angeles Superior Court, Civil Case Access (search by case number; the court offers no direct link) — case No. 26STCP02505, Tina Fredericks v. Los Angeles County Registrar-Recorder/County Clerk: the docket, the July 2 filing, the assignment to Dept. 834, and the Sept. 8 trial-setting conference (no ruling on the request to block circulation)"
     url: "https://www.lacourt.ca.gov/pages/lp/access-a-case"
   - text: Pasadena Unified board minutes, May 28, 2026 — the 6-1 vote (Fredericks the lone no) to reject receipt of the equity analysis, and the recall notices delivered in public comment
     url: "https://pusd.granicus.com/MinutesViewer.php?view_id=15&clip_id=966&doc_id=53e26849-5fb7-11f1-9b4d-005056a89546"
   - text: "Pasadena Now, May 29 — the May 28 board meeting: the rejected consolidation analysis, the six schools, and the recall notices served that night"
     url: "https://pasadenanow.com/main/pusd-board-halts-school-closure-plan-two-trustees-served-with-recalls"
-  - text: Los Angeles County Registrar-Recorder/County Clerk, upcoming-elections calendar — lists no Pasadena Unified recall election (nothing has qualified for a ballot)
+  - text: Los Angeles County Registrar-Recorder/County Clerk, upcoming-elections calendar — lists no Pasadena Unified recall election (nothing has qualified for a ballot; re-checked July 25)
     url: "https://www.lavote.gov/home/voting-elections/current-elections/upcoming-elections"
   - text: "Pasadena Now, June 12 — the district's response: its legal counsel's finding that no Brown Act violation occurred, and the trustees' explanations"
     url: "https://pasadenanow.com/main/pusd-rejects-brown-act-challenge-to-vote-that-set-stage-for-school-closures"
