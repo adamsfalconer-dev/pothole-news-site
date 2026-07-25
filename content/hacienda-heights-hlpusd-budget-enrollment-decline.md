@@ -8,20 +8,22 @@ region: region-east-sgv
 region_name: East SGV
 type: news
 thread: sgv-enrollment-decline
-excerpt: The district adopted a roughly $354 million budget on June 25 with the state's healthiest fiscal rating, even as falling enrollment leads it to plan a reduction of 25 certificated positions and about $15 million in deficit spending.
+excerpt: The district adopted a roughly $351.2 million budget on June 25 with the state's healthiest fiscal rating, even as falling enrollment leads it to plan a reduction of 25 certificated positions and about $15 million in deficit spending.
+corrected: true
+correction_note: This story originally said the district adopted a roughly $354 million budget. The district's adopted budget totals $351.2 million. We added the budget's spending categories by hand and missed a negative entry; the wrong total appeared in the summary and the story's opening.
 read_time: "3 min read"
 whats_next: Because the state budget was signed after the district adopted its own, California law requires Hacienda La Puente to file a revised budget within 45 days — by mid-August — the first checkpoint on whether the enacted, higher state funding changes its projections. The First Interim report in December is the next, and the clearest early test of whether a district planning to be roughly 1,000 students smaller can shrink its staffing on schedule without deeper cuts.
 sources:
   - text: Hacienda La Puente Unified 2026-27 Adopted Budget (PDF) — enrollment and funded-ADA projections, general-fund revenue and expenditure detail, the Form 01CS Criteria and Standards Review (including the deficit-spending criterion), COLA assumptions, and the positive certification
     url: "https://resources.finalsite.net/images/v1782748851/hlpschoolsorg/hi6zsnm277blvmroglqx/2026-2027AdoptedBudget.pdf"
-  - text: Hacienda La Puente Unified BoardDocs — June 25, 2026 board meeting and the budget-adoption item; board roster
-    url: "https://go.boarddocs.com/ca/hlpusd/board.nsf/public"
+  - text: "Hacienda La Puente Unified BoardDocs — item 7.05.a of the June 25, 2026 board meeting: Approve adoption of the 2026-27 Annual Budget"
+    url: "https://go.boarddocs.com/ca/hlpusd/Board.nsf/goto?open&id=DUML4V53E9C3"
 draft: false
 ---
 
 > *Reported in July 2026 as part of Pothole News's founding archive; it documents the district's June 25, 2026 budget adoption.*
 
-Hacienda La Puente Unified is planning for a smaller future — and its 2026-27 budget shows what that starts to cost. On June 25, its board adopted a roughly $354 million spending plan built on the assumption that enrollment will keep sliding, from 15,184 students last year to a projected 14,123 by 2028-29, a loss of more than 1,000 children in three years. To match spending to that shrinking student body, the budget builds in savings from a planned reduction of 25 certificated positions — teachers and other credentialed staff — which the district says it intends to reach "through attrition and retirements where feasible."
+Hacienda La Puente Unified is planning for a smaller future — and its 2026-27 budget shows what that starts to cost. On June 25, its board adopted a roughly $351.2 million spending plan built on the assumption that enrollment will keep sliding, from 15,184 students last year to a projected 14,123 by 2028-29, a loss of more than 1,000 children in three years. To match spending to that shrinking student body, the budget builds in savings from a planned reduction of 25 certificated positions — teachers and other credentialed staff — which the district says it intends to reach "through attrition and retirements where feasible."
 
 At the same time, the district is not in fiscal distress. The budget carries a "positive certification," the state's healthiest designation, meaning Hacienda La Puente projects it can meet its financial obligations this year and the two that follow. It ends the year with a projected fund balance of about $144 million and holds its reserve for economic uncertainties at the state-required 3% minimum.
 
