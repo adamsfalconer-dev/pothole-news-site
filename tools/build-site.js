@@ -555,8 +555,40 @@ ${body}
 </urlset>
 `;
 }
+/* ---------------------------------------------------------------------------
+   robots.txt — INDEXING FOLLOWS THE DOMAIN, and it is driven off the config
+   value rather than hardcoded, so the correct behaviour returns automatically
+   at migration with no edit to this file.
+
+   The paper launches at potholenews.org. Until BASE_URL says so, every build is
+   a TEST HOST — right now pothole-news-site.adamsfalconer.workers.dev — and a
+   test host that invites crawlers is a throwaway domain quietly accumulating
+   the search index for content meant to live somewhere else. The bill for that
+   arrives on launch day as a duplicate-content cleanup and a redirect map.
+
+   So: any host that is not the canonical domain emits `Disallow: /` and no
+   Sitemap line. **Publishing is completely unaffected** — the site builds,
+   deploys and renders exactly as before, RSS still works, and a human with the
+   URL sees everything. Only crawlers are told to stay out.
+
+   Added 2026-07-25 (build-expansion A9).
+   --------------------------------------------------------------------------- */
+const CANONICAL_HOST = 'potholenews.org';
+function isCanonicalHost(url) {
+  try {
+    const h = new URL(url).hostname.toLowerCase().replace(/^www\./, '');
+    return h === CANONICAL_HOST;
+  } catch { return false; }
+}
+const INDEXABLE = isCanonicalHost(BASE_URL);
+
 function robotsTxt() {
-  return `User-agent: *\nAllow: /\n\nSitemap: ${BASE_URL}/sitemap.xml\n`;
+  if (INDEXABLE) return `User-agent: *\nAllow: /\n\nSitemap: ${BASE_URL}/sitemap.xml\n`;
+  return `# Pothole News is not published at its permanent address yet.\n` +
+    `# This build's base URL is ${BASE_URL}, which is not ${CANONICAL_HOST},\n` +
+    `# so this host asks not to be indexed. When site.config.json points at\n` +
+    `# ${CANONICAL_HOST}, indexing turns itself back on — no code change needed.\n` +
+    `User-agent: *\nDisallow: /\n`;
 }
 
 /* ---- writing -------------------------------------------------------------- */
@@ -730,7 +762,8 @@ function build() {
   console.log(`  articles: ${articles.length} live${INCLUDE_DRAFTS ? '' : ` · ${drafts.length} drafts excluded`}` +
     ` · week post: ${weekPost ? 'yes' : 'none'}`);
   console.log(`  pages: home + ${articles.length} stories + ${M.places.cities.length} cities + ${M.places.regions.length} regions + tips/corrections/meetings + 3 static + 404`);
-  console.log(`  feeds: rss.xml (${Math.min(articles.length, 30)} items) · sitemap.xml (${sitemap.length} urls) · robots.txt`);
+  console.log(`  feeds: rss.xml (${Math.min(articles.length, 30)} items) · sitemap.xml (${sitemap.length} urls) · robots.txt ` +
+    `[${INDEXABLE ? 'Allow: / — canonical domain' : `Disallow: / — TEST HOST, not ${CANONICAL_HOST}`}]`);
   console.log(`  hardening: _headers (CSP + security + caching) · _redirects`);
   console.log(`  base url: ${BASE_URL}`);
 }
