@@ -23,7 +23,7 @@ sources:
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54964"
   - text: The city's own page for the measure, with its fact sheet, its frequently-asked-questions document and the council presentation
     url: "https://www.cityofchino.org/1777/Business-License-Reform-Small-Business-P"
-draft: true
+draft: false
 ---
 
 > *Reported in July 2026 from the City of Chino's own resolution, staff report and election notices, covering the council's July 21 action, as part of our founding archive.*
