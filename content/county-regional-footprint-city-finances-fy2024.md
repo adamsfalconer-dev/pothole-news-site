@@ -12,7 +12,7 @@ sources:
     url: "https://bythenumbers.sco.ca.gov/"
   - text: The Controller's cities raw data file for fiscal year 2023-24, including governmental revenues, expenditures and population by city
     url: "https://bythenumbers.sco.ca.gov/d/wjvf-fpdc"
-draft: true
+draft: false
 ---
 
 > *Compiled in July 2026 from State Controller filings for the 2023-24 fiscal year, the most recent published, as part of our founding archive.*
