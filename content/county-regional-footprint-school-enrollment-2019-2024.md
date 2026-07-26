@@ -18,7 +18,7 @@ sources:
     url: "https://ceqanet.lci.ca.gov/2026050622"
   - text: California Education Code section 42238.05, which sets the attendance figure a school district's state funding is calculated on
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=42238.05"
-draft: true
+draft: false
 ---
 
 > *Reported from federal enrollment files covering the 2019-20 through 2024-25 school years, published as part of our founding archive.*
