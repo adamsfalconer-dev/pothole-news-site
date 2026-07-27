@@ -22,7 +22,7 @@ sources:
     url: "https://content.lavote.gov/docs/rrcc/documents/calendar-of-events10f93bf2-ec45-4ca8-a9f3-06303edf7304.pdf"
   - text: California Elections Code section 9160, which sets who prepares a county measure's fiscal impact statement and impartial analysis, and when
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=ELEC&sectionNum=9160."
-draft: true
+draft: false
 ---
 
 A charter amendment on the November 3 ballot would take the last word on what Los Angeles County pays the workers in 14 public-safety bargaining units, from sheriff's deputies to lifeguards, away from the five elected supervisors and hand it to three arbitrators. It is on the ballot because the county's charter is its founding document, and only voters can change it.
