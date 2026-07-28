@@ -187,7 +187,7 @@ ${CF_ANALYTICS ? `<script defer src="https://static.cloudflareinsights.com/beaco
 function masthead() {
   return `<header class="masthead" role="banner">
     <div class="masthead__row">
-      <a class="wordmark" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News — home</span></a>
+      <a class="wordmark" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News, home</span></a>
       <div class="masthead__actions"><a class="btn btn--newsletter" href="#request">Newsletter</a></div>
     </div>
     <nav class="eds" aria-label="Your editions" data-editions>
@@ -214,7 +214,7 @@ function footer() {
     <div class="site-footer__inner">
       ${atlas()}
       <div class="site-footer__bar">
-        <a class="wordmark wordmark--reverse" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News — home</span></a>
+        <a class="wordmark wordmark--reverse" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News, home</span></a>
         <nav class="site-footer__links" aria-label="About this site">
           <a href="/about/">About</a><a href="/coverage/">Coverage</a><a href="/ethics/">Ethics</a><a href="/tips/">Tips</a><a href="/corrections/">Corrections</a><a href="/privacy/">Privacy</a>
         </nav>
@@ -401,7 +401,7 @@ function correctionsPage(posts) {
     <p class="corrections__policy">Spot an error? Email <a href="mailto:corrections@pothole.news">corrections@pothole.news</a>. Every correction is made in every edition the story ran in.</p>
   </div>`;
   return shell({ body, bodyClass: 'page-template', title: `Corrections | ${SITE_NAME}`,
-    description: 'The Pothole News corrections log — every correction, publicly recorded.', pathUrl: '/corrections/' });
+    description: 'The Pothole News corrections log: every correction, publicly recorded.', pathUrl: '/corrections/' });
 }
 
 function meetingsPage(weekPost) {
@@ -418,7 +418,7 @@ function meetingsPage(weekPost) {
     ${inner}
   </div>`;
   return shell({ body, bodyClass: 'page-template', title: `The week ahead | ${SITE_NAME}`,
-    description: 'Every agenda, meeting, and deadline across the Pomona Valley — refreshed weekly.', pathUrl: '/meetings/' });
+    description: 'Every agenda, meeting, and deadline across the Pomona Valley, refreshed weekly.', pathUrl: '/meetings/' });
 }
 
 function tipCityButtons() {
@@ -468,7 +468,7 @@ function tipsPage() {
     </form>
   </div>`;
   return shell({ body, bodyClass: 'page-template', title: `Report a Pothole | ${SITE_NAME}`,
-    description: 'Report a pothole — the Pothole News tip line. Confidential, no account, no CAPTCHA.',
+    description: 'Report a pothole: the Pothole News tip line. Confidential, no account, no CAPTCHA.',
     pathUrl: '/tips/', footScripts: ['/assets/js/tips.js'] });
 }
 
@@ -505,7 +505,7 @@ function cityPage(city, posts, weekPost, allPosts) {
   if (posts.length) body = `<div class="feed-wrap"><div data-onboarding-slot></div>${feed(posts, weekPost)}</div>`;
   else body = `<div class="feed-wrap"><div data-onboarding-slot></div>${emptyState(city, allPosts)}</div>`;
   return shell({ body, bodyClass: 'tag-template', title: `${city.name} | ${SITE_NAME}`,
-    description: `${city.name} local government coverage — agendas, votes, money, and meetings, from ${SITE_NAME}.`,
+    description: `${city.name} local government coverage: agendas, votes, money, and meetings, from ${SITE_NAME}.`,
     pathUrl: `/${city.slug}/` });
 }
 function regionPage(region, posts, weekPost) {
