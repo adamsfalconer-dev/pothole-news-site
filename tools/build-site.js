@@ -205,7 +205,7 @@ function atlas() {
     return `<div class="atlas__col"><h3 class="atlas__region"><a href="/${r.slug}/">${esc(r.label)}</a></h3><ul class="atlas__list">${links}</ul></div>`;
   }).join('');
   return `<nav class="atlas" aria-label="All cities and communities">
-    <h2 class="atlas__title">The whole valley &mdash; 43 places, two counties</h2>
+    <h2 class="atlas__title">The whole valley: 43 places, two counties</h2>
     <div class="atlas__grid">${cols}</div></nav>`;
 }
 
@@ -277,7 +277,7 @@ function moduleRequest() {
     <dl class="req__rows">
       <div class="req__row"><dt>Records sought</dt><dd>the whole valley, weekly</dd></div>
       <div class="req__row"><dt>Delivery</dt><dd>your inbox &middot; free</dd></div>
-      <div class="req__row"><dt>Statutory fee</dt><dd>$0.00 &mdash; forever</dd></div>
+      <div class="req__row"><dt>Statutory fee</dt><dd>$0.00, forever</dd></div>
     </dl>
     <form class="req__form" data-signup>
       <label class="u-visually-hidden" for="req-email">Your email address</label>
@@ -300,7 +300,7 @@ function onboardingCard() {
   }).join('');
   return `<div class="onb">` +
     `<h2 class="onb__title">Where do you live? <em>Pick up to three.</em></h2>` +
-    `<p class="onb__sub">We cover 43 cities and communities across the San Gabriel &amp; Pomona Valleys. Choose yours &mdash; the feed remembers.</p>` +
+    `<p class="onb__sub">We cover 43 cities and communities across the San Gabriel &amp; Pomona Valleys. Choose yours. The feed remembers.</p>` +
     groups +
     `<div><button class="onb__go" type="button" data-onb-go>BUILD MY FEED &rarr;</button>` +
     `<span class="onb__count" data-onb-count></span></div></div>`;
@@ -331,7 +331,7 @@ function emptyState(city, allPosts) {
   const regionDisp = M.regionName(regionSlug);
   const nearby = allPosts.filter(p => p.region && p.region.slug === regionSlug).slice(0, 3);
   let html = `<section class="empty">
-    <p class="empty__lead">Nothing from <em class="sig">${esc(city.name)}</em> in the last few days &mdash; we&rsquo;re watching its agendas. Coverage is growing.</p>`;
+    <p class="empty__lead">Nothing from <em class="sig">${esc(city.name)}</em> in the last few days. We&rsquo;re watching its agendas, and coverage is growing.</p>`;
   if (nearby.length) {
     html += `<p class="empty__nearby-label">Nearby, in ${esc(regionDisp)}:</p><div class="feed">${nearby.map(card).join('')}</div>`;
   }
@@ -353,7 +353,7 @@ function storyPage(p, threadCount) {
   const threadLine = threadCount > 1
     ? `<span class="story__endline-item"><b>Thread:</b> <a href="${threadLink}">${threadCount} stories &rarr;</a></span><span class="story__endline-sep" aria-hidden="true">&middot;</span>`
     : '';
-  const corr = p.corrected ? '<a href="/corrections/">logged &mdash; see below</a>' : 'none';
+  const corr = p.corrected ? '<a href="/corrections/">logged, see below</a>' : 'none';
   const whats = p.whatsNext ? `<aside class="whats-next"><b>What&rsquo;s next:</b> ${md.inline(p.whatsNext)}</aside>` : '';
   const placeName = p.place ? p.place.name : (p.region ? p.region.name : 'The valley');
   const metaBits = [M.displayDate(p.date)];
@@ -396,7 +396,7 @@ function correctionsPage(posts) {
     (p.correctionNote ? `<span class="corrections__note">${esc(p.correctionNote)}</span>` : '') +
     `</li>`).join('');
   const body = `<div class="feed-wrap">
-    ${listingHead('Corrections', 'We log every correction &mdash; publicly, on the same page as the story. When we get something wrong, we mark the change and record it here. We do not silently edit.', false)}
+    ${listingHead('Corrections', 'We log every correction publicly, on the same page as the story. When we get something wrong, we mark the change and record it here. We do not silently edit.', false)}
     ${items.length ? `<ol class="corrections">${list}</ol>` : '<p class="empty__lead">No corrections on the record yet — and we&rsquo;d rather keep it that way.</p>'}
     <p class="corrections__policy">Spot an error? Email <a href="mailto:corrections@pothole.news">corrections@pothole.news</a>. Every correction is made in every edition the story ran in.</p>
   </div>`;
@@ -411,10 +411,10 @@ function meetingsPage(weekPost) {
       <p class="meetings__foot">Refreshed every Sunday.</p>`;
   } else {
     inner = `${moduleWeek(null)}
-      <p class="placeholder-note">The live week-ahead post (slug <code>this-week</code>) hasn&rsquo;t been published yet &mdash; the calendar refreshes every Sunday.</p>`;
+      <p class="placeholder-note">The live week-ahead post (slug <code>this-week</code>) hasn&rsquo;t been published yet. The calendar refreshes every Sunday.</p>`;
   }
   const body = `<div class="feed-wrap">
-    ${listingHead('The week ahead', 'Every agenda, meeting, and deadline across the valley &mdash; one pinned post, refreshed each Sunday.', false)}
+    ${listingHead('The week ahead', 'Every agenda, meeting, and deadline across the valley: one pinned post, refreshed each Sunday.', false)}
     ${inner}
   </div>`;
   return shell({ body, bodyClass: 'page-template', title: `The week ahead | ${SITE_NAME}`,
@@ -431,7 +431,7 @@ function tipsPage() {
   const body = `<div class="feed-wrap">
     <header class="listing-head">
       <h1 class="listing-head__title" data-emphasize>Report a Pothole *— the tip line*</h1>
-      <p class="listing-head__note">Something broken where you live? Tips, documents, meeting whispers. Confidential by default &mdash; no CAPTCHA, no account, a hunch is enough.</p>
+      <p class="listing-head__note">Something broken where you live? Tips, documents, meeting whispers. Confidential by default: no CAPTCHA, no account, a hunch is enough.</p>
     </header>
     <form class="tip" data-tip novalidate>
       <ol class="tip__steps" aria-hidden="true">
@@ -446,7 +446,7 @@ function tipsPage() {
       <fieldset class="tip__step" data-tip-step="2" hidden>
         <legend class="tip__q">How deep does it go?</legend>
         <div class="tip__opts tip__opts--sev" role="group" aria-label="Choose a severity">
-          <button class="tip__opt tip__sev" type="button" data-tip-sev="surface crack"><span class="tip__ico" aria-hidden="true">&#12316;</span><span class="tip__sev-t">Surface crack</span><span class="tip__sev-s">something looks off &mdash; worth a look</span></button>
+          <button class="tip__opt tip__sev" type="button" data-tip-sev="surface crack"><span class="tip__ico" aria-hidden="true">&#12316;</span><span class="tip__sev-t">Surface crack</span><span class="tip__sev-s">something looks off, worth a look</span></button>
           <button class="tip__opt tip__sev" type="button" data-tip-sev="pothole"><span class="tip__ico" aria-hidden="true">&#128371;&#65039;</span><span class="tip__sev-t">Pothole</span><span class="tip__sev-s">I&rsquo;ve seen or heard something specific</span></button>
           <button class="tip__opt tip__sev" type="button" data-tip-sev="sinkhole"><span class="tip__ico" aria-hidden="true">&#9888;&#65039;</span><span class="tip__sev-t">Sinkhole</span><span class="tip__sev-s">I have documents / I was in the room</span></button>
         </div>
@@ -456,14 +456,14 @@ function tipsPage() {
         <legend class="tip__q">Tell us what you know. <em class="sig">We read everything.</em></legend>
         <textarea class="tip__textarea" id="tip-details" name="details" required placeholder="What happened, who was involved, when. Paste links. Attach documents after submitting — we'll send a secure upload link."></textarea>
         <input class="tip__contact" id="tip-contact" name="contact" type="text" autocomplete="off" placeholder="Email or phone (optional — for follow-up only)">
-        <p class="tip__meta">&#128274; Confidential by default. We never name a source without permission. No CAPTCHA, no account, no minimum &mdash; a hunch is enough. If it&rsquo;s urgent, write URGENT and we triage same-day.</p>
+        <p class="tip__meta">&#128274; Confidential by default. We never name a source without permission. No CAPTCHA, no account, no minimum, and a hunch is enough. If it&rsquo;s urgent, write URGENT and we triage same-day.</p>
         <p class="tip__error" data-tip-error role="alert" hidden></p>
         <div class="tip__nav"><button class="tip__back" type="button" data-tip-back="2">&larr; Back</button><button class="tip__send" type="submit" data-tip-send>Send the tip &rarr;</button></div>
       </fieldset>
       <div class="tip__done" data-tip-done hidden role="status">
         <div class="tip__done-ico" aria-hidden="true">&#128679;</div>
         <p class="tip__done-big" data-emphasize>Got it. *Crew dispatched.*</p>
-        <p class="tip__meta tip__done-note">Your tip is in the assignment desk&rsquo;s queue. If you left contact info, a human replies within a day &mdash; even if it&rsquo;s just &ldquo;we&rsquo;re digging.&rdquo;</p>
+        <p class="tip__meta tip__done-note">Your tip is in the assignment desk&rsquo;s queue. If you left contact info, a human replies within a day, even if it&rsquo;s just &ldquo;we&rsquo;re digging.&rdquo;</p>
       </div>
     </form>
   </div>`;
@@ -484,7 +484,7 @@ function staticPage(slug, title, bodyHtml) {
 function notFoundPage() {
   const body = `<div class="feed-wrap">
     <section class="empty">
-      <p class="empty__lead">That page isn&rsquo;t here &mdash; but the whole valley is.</p>
+      <p class="empty__lead">That page isn&rsquo;t here, but the whole valley is.</p>
       <p class="empty__region-link"><a href="/">Back to the feed &rarr;</a> &middot; <a href="#atlas">browse all 43 places</a></p>
     </section>
   </div>`;
@@ -512,7 +512,7 @@ function regionPage(region, posts, weekPost) {
   const disp = M.regionName(region.slug);
   let inner;
   if (posts.length) inner = feed(posts, weekPost);
-  else inner = `<section class="empty"><p class="empty__lead">No coverage in <em class="sig">${esc(disp)}</em> in the last few days &mdash; coverage is growing across the valley.</p></section>${moduleRequest()}`;
+  else inner = `<section class="empty"><p class="empty__lead">No coverage in <em class="sig">${esc(disp)}</em> in the last few days. Coverage is growing across the valley.</p></section>${moduleRequest()}`;
   const body = `<div class="feed-wrap"><div data-onboarding-slot></div>${inner}</div>`;
   return shell({ body, bodyClass: 'tag-template', title: `${disp} | ${SITE_NAME}`,
     description: `${disp} local government coverage from ${SITE_NAME}.`, pathUrl: `/${region.slug}/` });
