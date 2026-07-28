@@ -20,8 +20,8 @@ draft: true
 
 The San Gabriel Valley Council of Governments filed notice on July 9 for bicycle and pedestrian work on about half a mile of Glendora Avenue and a mile and a half of Foothill Boulevard, aimed at the walk and ride between those streets and the Metro A Line's Glendora station.
 
-The filing describes new Class II, Class III and Class IV bikeway facilities — respectively a striped bike lane, a shared-route marking, and a physically separated bike lane — along with a roundabout, protected intersections, traffic signal modifications and high-visibility crosswalks.
+The filing describes new Class II, Class III and Class IV bikeway facilities (respectively a striped bike lane, a shared-route marking, and a physically separated bike lane), along with a roundabout, protected intersections, traffic signal modifications and high-visibility crosswalks.
 
 The regional agency, not the city, is the lead agency on the filing. The document places the work within the Glendora People Movement Project, described as a city initiative.
 
-The project is exempt from environmental review under CEQA Guidelines sections 15301 and 15304 — Existing Facilities and Minor Alterations to Land. The stated reason turns on a condition worth noticing: the existing-facilities exemption covers adding bike lanes and pedestrian crossings to existing streets "provided that the alterations do not create additional automobile lanes."
+The project is exempt from environmental review under CEQA Guidelines sections 15301 and 15304: Existing Facilities and Minor Alterations to Land. The stated reason turns on a condition worth noticing: the existing-facilities exemption covers adding bike lanes and pedestrian crossings to existing streets "provided that the alterations do not create additional automobile lanes."
