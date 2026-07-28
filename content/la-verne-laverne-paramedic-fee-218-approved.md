@@ -18,7 +18,7 @@ sources:
     url: "https://laverneca.new.swagit.com/videos/393995"
   - text: City of La Verne's Measure GG program page, listing the current $6.90 monthly charge and describing the council as still weighing a potential ballot measure
     url: "https://laverneca.gov/730/Measure-GG---Paramedic-and-Ambulance-Tra"
-draft: true
+draft: false
 ---
 
 La Verne's City Council has chosen who gets to decide whether the fee that pays for the city's paramedics more than doubles, and it is not the city's voters.
