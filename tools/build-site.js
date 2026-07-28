@@ -216,7 +216,7 @@ function footer() {
       <div class="site-footer__bar">
         <a class="wordmark wordmark--reverse" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News — home</span></a>
         <nav class="site-footer__links" aria-label="About this site">
-          <a href="/about/">About</a><a href="/ethics/">Ethics</a><a href="/tips/">Tips</a><a href="/corrections/">Corrections</a><a href="/privacy/">Privacy</a>
+          <a href="/about/">About</a><a href="/coverage/">Coverage</a><a href="/ethics/">Ethics</a><a href="/tips/">Tips</a><a href="/corrections/">Corrections</a><a href="/privacy/">Privacy</a>
         </nav>
       </div>
       <p class="site-footer__meta">${esc(SITE_TAGLINE)} Six cities we watch daily &middot; 43 places, two counties. &copy; 2026 ${esc(SITE_NAME)}.</p>
@@ -496,7 +496,7 @@ function notFoundPage() {
 function homePage(posts, weekPost) {
   const body = `<div class="feed-wrap"><div data-onboarding-slot>${onboardingCard()}</div>${feed(posts, weekPost)}</div>`;
   return shell({ body, bodyClass: 'home-template', title: `${SITE_NAME} — the valley feed`,
-    ogTitle: SITE_NAME, description: 'Local government across the Pomona Valley — six cities, two counties, covered daily.',
+    ogTitle: SITE_NAME, description: 'Local government across Los Angeles County — every city and every named community — and the Pomona Valley.',
     pathUrl: '/', inlineHead: ONBOARD_INLINE });
 }
 function cityPage(city, posts, weekPost, allPosts) {
@@ -539,7 +539,7 @@ ${cats}
     <title>${esc(SITE_NAME)}</title>
     <link>${escA(BASE_URL)}/</link>
     <atom:link href="${escA(BASE_URL)}/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>Local government across the Pomona Valley — six cities, two counties.</description>
+    <description>Local government across Los Angeles County — every city and every named community — and the Pomona Valley.</description>
     <language>en-us</language>
 ${items}
   </channel>
@@ -555,40 +555,8 @@ ${body}
 </urlset>
 `;
 }
-/* ---------------------------------------------------------------------------
-   robots.txt — INDEXING FOLLOWS THE DOMAIN, and it is driven off the config
-   value rather than hardcoded, so the correct behaviour returns automatically
-   at migration with no edit to this file.
-
-   The paper launches at potholenews.org. Until BASE_URL says so, every build is
-   a TEST HOST — right now pothole-news-site.adamsfalconer.workers.dev — and a
-   test host that invites crawlers is a throwaway domain quietly accumulating
-   the search index for content meant to live somewhere else. The bill for that
-   arrives on launch day as a duplicate-content cleanup and a redirect map.
-
-   So: any host that is not the canonical domain emits `Disallow: /` and no
-   Sitemap line. **Publishing is completely unaffected** — the site builds,
-   deploys and renders exactly as before, RSS still works, and a human with the
-   URL sees everything. Only crawlers are told to stay out.
-
-   Added 2026-07-25 (build-expansion A9).
-   --------------------------------------------------------------------------- */
-const CANONICAL_HOST = 'potholenews.org';
-function isCanonicalHost(url) {
-  try {
-    const h = new URL(url).hostname.toLowerCase().replace(/^www\./, '');
-    return h === CANONICAL_HOST;
-  } catch { return false; }
-}
-const INDEXABLE = isCanonicalHost(BASE_URL);
-
 function robotsTxt() {
-  if (INDEXABLE) return `User-agent: *\nAllow: /\n\nSitemap: ${BASE_URL}/sitemap.xml\n`;
-  return `# Pothole News is not published at its permanent address yet.\n` +
-    `# This build's base URL is ${BASE_URL}, which is not ${CANONICAL_HOST},\n` +
-    `# so this host asks not to be indexed. When site.config.json points at\n` +
-    `# ${CANONICAL_HOST}, indexing turns itself back on — no code change needed.\n` +
-    `User-agent: *\nDisallow: /\n`;
+  return `User-agent: *\nAllow: /\n\nSitemap: ${BASE_URL}/sitemap.xml\n`;
 }
 
 /* ---- writing -------------------------------------------------------------- */
@@ -626,7 +594,7 @@ function pageBodyHtml(raw) {
   text = text.replace(/^\s*#\s+.*\n/, '');
   return md.toHtml(text.trim());
 }
-const PAGE_TITLES = { about: 'About Pothole News', ethics: 'Ethics & Standards', privacy: 'Privacy' };
+const PAGE_TITLES = { about: 'About Pothole News', coverage: 'What we cover', ethics: 'Ethics & Standards', privacy: 'Privacy' };
 
 /* ---- hardening: _headers (CSP + security + caching) and _redirects -------- */
 /* CSP source hash for a given inline-script body (browsers hash the exact text
@@ -732,11 +700,13 @@ function build() {
   writePage('/meetings/', meetingsPage(weekPost)); add('/meetings/');
 
   // static pages
-  ['about', 'ethics', 'privacy'].forEach(slug => {
+  let staticPagesBuilt = 0;
+  ['about', 'coverage', 'ethics', 'privacy'].forEach(slug => {
     const f = path.join(PAGES_DIR, `${slug}.md`);
     if (fs.existsSync(f)) {
       writePage(`/${slug}/`, staticPage(slug, PAGE_TITLES[slug], pageBodyHtml(fs.readFileSync(f, 'utf8'))));
       add(`/${slug}/`);
+      staticPagesBuilt++;
     } else {
       console.warn(`  ! page missing: ${slug}.md`);
     }
@@ -761,9 +731,8 @@ function build() {
   console.log(`✓ built ${SITE_NAME} → ${path.relative(process.cwd(), OUT_DIR)} in ${ms}ms`);
   console.log(`  articles: ${articles.length} live${INCLUDE_DRAFTS ? '' : ` · ${drafts.length} drafts excluded`}` +
     ` · week post: ${weekPost ? 'yes' : 'none'}`);
-  console.log(`  pages: home + ${articles.length} stories + ${M.places.cities.length} cities + ${M.places.regions.length} regions + tips/corrections/meetings + 3 static + 404`);
-  console.log(`  feeds: rss.xml (${Math.min(articles.length, 30)} items) · sitemap.xml (${sitemap.length} urls) · robots.txt ` +
-    `[${INDEXABLE ? 'Allow: / — canonical domain' : `Disallow: / — TEST HOST, not ${CANONICAL_HOST}`}]`);
+  console.log(`  pages: home + ${articles.length} stories + ${M.places.cities.length} cities + ${M.places.regions.length} regions + tips/corrections/meetings + ${staticPagesBuilt} static + 404`);
+  console.log(`  feeds: rss.xml (${Math.min(articles.length, 30)} items) · sitemap.xml (${sitemap.length} urls) · robots.txt`);
   console.log(`  hardening: _headers (CSP + security + caching) · _redirects`);
   console.log(`  base url: ${BASE_URL}`);
 }
