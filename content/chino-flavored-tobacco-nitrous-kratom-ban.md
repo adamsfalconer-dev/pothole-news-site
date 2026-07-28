@@ -22,10 +22,10 @@ draft: true
 
 > *Reported from the Chino city council record of July 21, 2026, as part of our founding archive.*
 
-Chino's city council voted unanimously on July 21 to adopt Ordinance 2026-010, adding a new Chapter 9.90 — "Flavored Tobacco; Nitrous Oxide; Kratom Products" — to Title 9 of the municipal code, the title covering public peace, morals and welfare.
+Chino's city council voted unanimously on July 21 to adopt Ordinance 2026-010, adding a new Chapter 9.90 ("Flavored Tobacco; Nitrous Oxide; Kratom Products") to Title 9 of the municipal code, the title covering public peace, morals and welfare.
 
 The ordinance prohibits the sale of flavored tobacco products, nitrous oxide products and certain kratom products within the city.
 
 The vote was the second reading. The council introduced the ordinance on July 7, when a lieutenant and the deputy police chief presented it and a speaker from the organization Reach Out raised concerns about 7-OH products. The city attorney read the ordinance by number and title, waiving further reading.
 
-The adoption was on the consent calendar — the block of items a council passes in one motion — so the vote below is the vote on the block, not a separate vote on the tobacco ordinance. Voting for that block on July 21: Mayor Eunice M. Ulloa, Mayor Pro Tem Curtis Burton, Karen C. Comstock, Christopher Flores and Marc Lucio. The motion was made by Marc Lucio and seconded by Karen C. Comstock.
+The adoption was on the consent calendar, the block of items a council passes in one motion. The vote below is the vote on the block, not a separate vote on the tobacco ordinance. Voting for that block on July 21: Mayor Eunice M. Ulloa, Mayor Pro Tem Curtis Burton, Karen C. Comstock, Christopher Flores and Marc Lucio. The motion was made by Marc Lucio and seconded by Karen C. Comstock.
