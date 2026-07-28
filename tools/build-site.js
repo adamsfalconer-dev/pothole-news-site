@@ -659,10 +659,23 @@ const RETIRED_SLUGS = [
   ['/west-covina-west-covina-assessments-adopted', '/west-covina-assessments-adopted'],
   ['/la-verne-laverne-paramedic-fee-218-approved', '/la-verne-paramedic-fee-218-approved'],
 ];
+/* 🔴 TRAILING SLASHES ARE NOT CANONICALIZED, MEASURED LIVE 2026-07-28. This
+   comment used to read "Pages canonicalizes trailing slashes automatically."
+   It does not, on this deployment: with the retired page removed,
+   `/west-covina-west-covina-assessments-adopted` returned 301 and
+   `/west-covina-west-covina-assessments-adopted/` returned 404, on the same
+   build, one second apart. Every internal link and every URL a reader can copy
+   out of the address bar carries the trailing slash, so a bare-path-only rule
+   redirects the one form nobody shares. Each retired slug therefore emits BOTH
+   source forms, and both point at the canonical trailing-slash target. */
 function redirectsFile() {
-  const retired = RETIRED_SLUGS.map(([from, to]) => `${from}    ${to}    301`).join('\n');
+  const retired = RETIRED_SLUGS.flatMap(([from, to]) => {
+    const bare = from.replace(/\/$/, '');
+    const dest = to.endsWith('/') ? to : `${to}/`;
+    return [`${bare}    ${dest}    301`, `${bare}/    ${dest}    301`];
+  }).join('\n');
   return `# Cloudflare Pages redirects:  from  to  status
-# Pages canonicalizes trailing slashes automatically. Add rules as needed.
+# Trailing slashes are NOT canonicalized here (measured 2026-07-28) — list both forms.
 /feed    /rss.xml    301
 /rss     /rss.xml    301
 
