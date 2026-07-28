@@ -496,7 +496,7 @@ function notFoundPage() {
 function homePage(posts, weekPost) {
   const body = `<div class="feed-wrap"><div data-onboarding-slot>${onboardingCard()}</div>${feed(posts, weekPost)}</div>`;
   return shell({ body, bodyClass: 'home-template', title: `${SITE_NAME} — the valley feed`,
-    ogTitle: SITE_NAME, description: 'Local government across Los Angeles County — every city and every named community — and the Pomona Valley.',
+    ogTitle: SITE_NAME, description: 'Independent local-government coverage of Los Angeles County and the Pomona Valley, from the public record.',
     pathUrl: '/', inlineHead: ONBOARD_INLINE });
 }
 function cityPage(city, posts, weekPost, allPosts) {
@@ -539,7 +539,7 @@ ${cats}
     <title>${esc(SITE_NAME)}</title>
     <link>${escA(BASE_URL)}/</link>
     <atom:link href="${escA(BASE_URL)}/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>Local government across Los Angeles County — every city and every named community — and the Pomona Valley.</description>
+    <description>Independent local-government coverage of Los Angeles County and the Pomona Valley, from the public record.</description>
     <language>en-us</language>
 ${items}
   </channel>
