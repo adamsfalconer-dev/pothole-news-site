@@ -642,11 +642,32 @@ function headersFile() {
   Cache-Control: public, max-age=1800
 `;
 }
+/* 🔴 RETIRED STORY URLS. Publisher ruling 2026-07-28, ORDERS/2026-07-28-PUBLISHER-
+   RULINGS-7-sweep-completion.md §1 (queue row nd-031): when a live story is
+   republished at a corrected slug, "shared links keep working; the doubled slug
+   dies." That is a permanent redirect, and it lives here because _redirects is
+   generated on every build and a hand-edit would be erased by the next one.
+
+   These two rows are promote.js's doubled-jurisdiction defect, fixed at the root
+   the same day: both stories went live at 07:15Z on 2026-07-28 with the city name
+   printed twice, and both were republished at the clean slug. The text never
+   changed; only the URL did, so neither carries a §9 note.
+
+   ROWS ARE NEVER DELETED. A 301 that is removed is a shared link that breaks a
+   second time, which is the whole thing this table exists to prevent. */
+const RETIRED_SLUGS = [
+  ['/west-covina-west-covina-assessments-adopted', '/west-covina-assessments-adopted'],
+  ['/la-verne-laverne-paramedic-fee-218-approved', '/la-verne-paramedic-fee-218-approved'],
+];
 function redirectsFile() {
+  const retired = RETIRED_SLUGS.map(([from, to]) => `${from}    ${to}    301`).join('\n');
   return `# Cloudflare Pages redirects:  from  to  status
 # Pages canonicalizes trailing slashes automatically. Add rules as needed.
 /feed    /rss.xml    301
 /rss     /rss.xml    301
+
+# Retired story URLs (see RETIRED_SLUGS in tools/build-site.js). Never removed.
+${retired}
 `;
 }
 
