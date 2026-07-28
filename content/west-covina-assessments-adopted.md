@@ -18,7 +18,7 @@ sources:
     url: "https://public.destinyhosted.com/agenda_publish.cfm?id=93782&mt=CC&dsp=ag&seq=834"
   - text: West Covina City Council agenda packet for July 7, 2026, with the sewer and Lighting and Maintenance District staff reports and the district's Engineer's Report, including the FY2026-27 cost estimate, the rate methodology and the 15-year single-family rate history
     url: "https://public.destinyhosted.com/westcdocs/2026/CC/20260707_834/AGENDApacket__07-07-26_0345_833.pdf"
-draft: true
+draft: false
 ---
 
 The assessment West Covina property owners pay for streetlights and street trees goes up 2 percent this year, to $62.42 for a single-family home from $61.20. It is the largest increase the city is allowed to make, and it is not close to enough.
