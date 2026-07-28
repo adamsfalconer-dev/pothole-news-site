@@ -8,12 +8,14 @@ region: region-east-sgv
 region_name: East SGV
 type: money
 excerpt: The 1% sales tax would raise about $6 million a year, never expire, and take the city's rate to 11.25%.
+corrected: true
+correction_note: "Corrected July 28, 2026: this story was re-punctuated to match our house style, which does not use em dashes. Some sentences were split as a result. No fact, figure, name or quotation was changed."
 read_time: "3 min read"
 whats_next: "The council takes up Item 9.1 on Tuesday, July 21 at 6:30 p.m. at the South Coast AQMD Main Auditorium, 21865 Copley Dr. Arguments for and against are due to the city clerk by 5 p.m. Friday, Aug. 14."
 sources:
   - text: Diamond Bar's agendas and minutes page
     url: "https://www.diamondbarca.gov/129/Agendas-and-Minutes"
-  - text: The July 21, 2026 Diamond Bar council agenda packet, 117 pages — Item 9.1, Resolution 2026-28, the draft tax ordinance and the staff report
+  - text: "The July 21, 2026 Diamond Bar council agenda packet, 117 pages: Item 9.1, Resolution 2026-28, the draft tax ordinance and the staff report"
     url: "https://diamondbarca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6542,plainText=false)"
   - text: California Department of Tax and Fee Administration, city and county sales and use tax rates, operative April 1, 2026
     url: "https://cdtfa.ca.gov/formspubs/cdtfa95.pdf"
@@ -26,9 +28,9 @@ draft: false
 
 Diamond Bar wants a penny on every taxable dollar spent inside the city, and on Tuesday its council decides whether to put that question to voters in November.
 
-The measure would add 1% to the sales tax — about $6 million a year, by the city's estimate, going into the general fund with no strings on how it is spent. It has no expiration date. The ballot question voters would see says the tax runs "until ended by voters."
+The measure would add 1% to the sales tax, about $6 million a year by the city's estimate, going into the general fund with no strings on how it is spent. It has no expiration date. The ballot question voters would see says the tax runs "until ended by voters."
 
-Shoppers in Diamond Bar now pay 9.75%. One change to that is already settled: on Thursday, Oct. 1, the half-cent county tax that Los Angeles County voters approved in June — Measure ER, for county general and health services — takes effect, lifting the rate to 10.25%. Diamond Bar's penny would land on top of that, and the rate would reach 11.25%.
+Shoppers in Diamond Bar now pay 9.75%. One change to that is already settled: on Thursday, Oct. 1, the half-cent county tax that Los Angeles County voters approved in June, Measure ER for county general and health services, takes effect, lifting the rate to 10.25%. Diamond Bar's penny would land on top of that, and the rate would reach 11.25%.
 
 The city's own report addresses how much room state law leaves: it puts the ceiling at 11.25% and says that with it, "the City may consider a measure with an increase of up to one percent." A full penny is what staff is recommending.
 
@@ -42,4 +44,4 @@ If the measure passes, an independent audit of the money would be due each year 
 
 Tuesday's vote is not the tax. It takes four of five council members to place the measure on the ballot; passing it takes a simple majority of voters on Nov. 3, the same ballot that will decide three council seats.
 
-The window that closes first belongs to residents, and it is short. Anyone who wants to write the argument for or against the measure — the one printed in the sample ballot that lands in every Diamond Bar mailbox — has until 5 p.m. on Friday, Aug. 14 to file it with the city clerk. Any registered voter can file one, as can a council member or a bona fide association of citizens.
+The window that closes first belongs to residents, and it is short. Anyone who wants to write the argument for or against the measure, the one printed in the sample ballot that lands in every Diamond Bar mailbox, has until 5 p.m. on Friday, Aug. 14 to file it with the city clerk. Any registered voter can file one, as can a council member or a bona fide association of citizens.
