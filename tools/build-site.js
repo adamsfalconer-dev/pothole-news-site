@@ -430,7 +430,7 @@ function tipCityButtons() {
 function tipsPage() {
   const body = `<div class="feed-wrap">
     <header class="listing-head">
-      <h1 class="listing-head__title" data-emphasize>Report a Pothole *— the tip line*</h1>
+      <h1 class="listing-head__title" data-emphasize>Report a Pothole *(the tip line)*</h1>
       <p class="listing-head__note">Something broken where you live? Tips, documents, meeting whispers. Confidential by default: no CAPTCHA, no account, a hunch is enough.</p>
     </header>
     <form class="tip" data-tip novalidate>
@@ -454,8 +454,8 @@ function tipsPage() {
       </fieldset>
       <fieldset class="tip__step" data-tip-step="3" hidden>
         <legend class="tip__q">Tell us what you know. <em class="sig">We read everything.</em></legend>
-        <textarea class="tip__textarea" id="tip-details" name="details" required placeholder="What happened, who was involved, when. Paste links. Attach documents after submitting — we'll send a secure upload link."></textarea>
-        <input class="tip__contact" id="tip-contact" name="contact" type="text" autocomplete="off" placeholder="Email or phone (optional — for follow-up only)">
+        <textarea class="tip__textarea" id="tip-details" name="details" required placeholder="What happened, who was involved, when. Paste links. Attach documents after submitting; we'll send a secure upload link."></textarea>
+        <input class="tip__contact" id="tip-contact" name="contact" type="text" autocomplete="off" placeholder="Email or phone (optional, for follow-up only)">
         <p class="tip__meta">&#128274; Confidential by default. We never name a source without permission. No CAPTCHA, no account, no minimum, and a hunch is enough. If it&rsquo;s urgent, write URGENT and we triage same-day.</p>
         <p class="tip__error" data-tip-error role="alert" hidden></p>
         <div class="tip__nav"><button class="tip__back" type="button" data-tip-back="2">&larr; Back</button><button class="tip__send" type="submit" data-tip-send>Send the tip &rarr;</button></div>
