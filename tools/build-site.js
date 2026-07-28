@@ -371,7 +371,7 @@ function storyPage(p, threadCount) {
   return shell({
     body: `<div class="feed-wrap">${article}</div>`,
     bodyClass: 'post-template',
-    title: `${p.titleClean} — ${SITE_NAME}`,
+    title: `${p.titleClean} | ${SITE_NAME}`,
     ogTitle: p.titleClean,
     description: p.excerpt,
     ogType: 'article',
@@ -400,7 +400,7 @@ function correctionsPage(posts) {
     ${items.length ? `<ol class="corrections">${list}</ol>` : '<p class="empty__lead">No corrections on the record yet — and we&rsquo;d rather keep it that way.</p>'}
     <p class="corrections__policy">Spot an error? Email <a href="mailto:corrections@pothole.news">corrections@pothole.news</a>. Every correction is made in every edition the story ran in.</p>
   </div>`;
-  return shell({ body, bodyClass: 'page-template', title: `Corrections — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'page-template', title: `Corrections | ${SITE_NAME}`,
     description: 'The Pothole News corrections log — every correction, publicly recorded.', pathUrl: '/corrections/' });
 }
 
@@ -417,7 +417,7 @@ function meetingsPage(weekPost) {
     ${listingHead('The week ahead', 'Every agenda, meeting, and deadline across the valley &mdash; one pinned post, refreshed each Sunday.', false)}
     ${inner}
   </div>`;
-  return shell({ body, bodyClass: 'page-template', title: `The week ahead — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'page-template', title: `The week ahead | ${SITE_NAME}`,
     description: 'Every agenda, meeting, and deadline across the Pomona Valley — refreshed weekly.', pathUrl: '/meetings/' });
 }
 
@@ -467,7 +467,7 @@ function tipsPage() {
       </div>
     </form>
   </div>`;
-  return shell({ body, bodyClass: 'page-template', title: `Report a Pothole — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'page-template', title: `Report a Pothole | ${SITE_NAME}`,
     description: 'Report a pothole — the Pothole News tip line. Confidential, no account, no CAPTCHA.',
     pathUrl: '/tips/', footScripts: ['/assets/js/tips.js'] });
 }
@@ -477,8 +477,8 @@ function staticPage(slug, title, bodyHtml) {
     <header class="listing-head"><h1 class="listing-head__title">${esc(title)}</h1></header>
     <div class="page__body gh-content">${bodyHtml}</div>
   </div>`;
-  return shell({ body, bodyClass: 'page-template', title: `${title} — ${SITE_NAME}`,
-    description: `${title} — ${SITE_NAME}.`, pathUrl: `/${slug}/` });
+  return shell({ body, bodyClass: 'page-template', title: `${title} | ${SITE_NAME}`,
+    description: `${title} | ${SITE_NAME}.`, pathUrl: `/${slug}/` });
 }
 
 function notFoundPage() {
@@ -488,14 +488,14 @@ function notFoundPage() {
       <p class="empty__region-link"><a href="/">Back to the feed &rarr;</a> &middot; <a href="#atlas">browse all 43 places</a></p>
     </section>
   </div>`;
-  return shell({ body, bodyClass: 'error-template', title: `Not found — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'error-template', title: `Not found | ${SITE_NAME}`,
     description: 'Page not found.', pathUrl: '/404.html' });
 }
 
 /* ---- feed pages (home / city / region) ------------------------------------ */
 function homePage(posts, weekPost) {
   const body = `<div class="feed-wrap"><div data-onboarding-slot>${onboardingCard()}</div>${feed(posts, weekPost)}</div>`;
-  return shell({ body, bodyClass: 'home-template', title: `${SITE_NAME} — the valley feed`,
+  return shell({ body, bodyClass: 'home-template', title: `${SITE_NAME} | the valley feed`,
     ogTitle: SITE_NAME, description: 'Independent local-government coverage of Los Angeles County and the Pomona Valley, from the public record.',
     pathUrl: '/', inlineHead: ONBOARD_INLINE });
 }
@@ -504,7 +504,7 @@ function cityPage(city, posts, weekPost, allPosts) {
   let body;
   if (posts.length) body = `<div class="feed-wrap"><div data-onboarding-slot></div>${feed(posts, weekPost)}</div>`;
   else body = `<div class="feed-wrap"><div data-onboarding-slot></div>${emptyState(city, allPosts)}</div>`;
-  return shell({ body, bodyClass: 'tag-template', title: `${city.name} — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'tag-template', title: `${city.name} | ${SITE_NAME}`,
     description: `${city.name} local government coverage — agendas, votes, money, and meetings, from ${SITE_NAME}.`,
     pathUrl: `/${city.slug}/` });
 }
@@ -514,7 +514,7 @@ function regionPage(region, posts, weekPost) {
   if (posts.length) inner = feed(posts, weekPost);
   else inner = `<section class="empty"><p class="empty__lead">No coverage in <em class="sig">${esc(disp)}</em> in the last few days &mdash; coverage is growing across the valley.</p></section>${moduleRequest()}`;
   const body = `<div class="feed-wrap"><div data-onboarding-slot></div>${inner}</div>`;
-  return shell({ body, bodyClass: 'tag-template', title: `${disp} — ${SITE_NAME}`,
+  return shell({ body, bodyClass: 'tag-template', title: `${disp} | ${SITE_NAME}`,
     description: `${disp} local government coverage from ${SITE_NAME}.`, pathUrl: `/${region.slug}/` });
 }
 
