@@ -1,5 +1,5 @@
 ---
-title: Chino adopted a new fee schedule — and the council said it did not want to charge for an appeal
+title: Chino adopted a new fee schedule. The council said it did not want to charge for an appeal
 slug: chino-user-fee-schedule-appeal-fee
 date: "2026-07-21"
 place: chino
@@ -20,9 +20,9 @@ draft: true
 
 > *Reported from the Chino city council record of July 21, 2026, as part of our founding archive.*
 
-Chino's city council adopted Resolution 2026-050 on July 21, amending the city's master user fee schedule — the list of what the city charges for permits, inspections, applications and other services. The recommended action was to establish new fees, revise Community Services fees on updated cost calculations and market analysis, and adjust select fees needing more than the annual inflation adjustment.
+Chino's city council adopted Resolution 2026-050 on July 21, amending the city's master user fee schedule, the list of what the city charges for permits, inspections, applications and other services. The recommended action was to establish new fees, revise Community Services fees on updated cost calculations and market analysis, and adjust select fees needing more than the annual inflation adjustment.
 
-The clerk's record of the discussion carries one thing the schedule itself does not. The record attributes to city manager Linda Reich the point that a citizen appeal fee "is not considered here; we will bring it back for discussion with council," and then records that the council "did not feel appropriate to charge an appeal fee," that an exemption applies to a resident fee, and that this was — in the clerk's capitals — "PART OF THE MOTION."
+The clerk's record of the discussion carries one thing the schedule itself does not. The record attributes to city manager Linda Reich the point that a citizen appeal fee "is not considered here; we will bring it back for discussion with council," and then records that the council "did not feel appropriate to charge an appeal fee," that an exemption applies to a resident fee, and that this was, in the clerk's capitals, "PART OF THE MOTION."
 
 Revenue manager Lisa Conlon presented the item. A member of the public also spoke.
 
