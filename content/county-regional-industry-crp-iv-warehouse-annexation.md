@@ -21,4 +21,4 @@ The applicant is CRP IV Valley Center, LLC. Its application to Industry seeks fo
 
 Annexation is the piece worth noticing. The other three are decisions a city makes about land it already governs; annexation moves the city's boundary, and the land arrives with the zoning the city gives it.
 
-The state's record lists the site under two place names, Avocado Heights and Industry, and the ZIP code on the filing is 91746 — Avocado Heights is unincorporated Los Angeles County territory adjoining Industry.
+The state's record lists the site under two place names, Avocado Heights and Industry, and the ZIP code on the filing is 91746. Avocado Heights is unincorporated Los Angeles County territory adjoining Industry.
