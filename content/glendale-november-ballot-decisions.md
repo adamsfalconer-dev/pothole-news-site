@@ -14,7 +14,7 @@ sources:
     url: "https://glendaleca.primegov.com/Portal/Meeting?meetingTemplateId=41715"
   - text: Article XXIV of the Glendale city charter, the civil service article the measures would amend, including the hiring rule, the probation limit, the for-cause discharge protection and the list of jobs that sit outside it
     url: "https://ecode360.com/43357947"
-draft: true
+draft: false
 ---
 
 Glendale's City Council decides tonight whether to pay about $68,700 more so that voters can vote separately on taking the city's department heads out of civil service, instead of accepting or rejecting the whole civil service package in one question.
