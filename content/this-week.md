@@ -2,42 +2,52 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-07-21
+date: 2026-07-29
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings. Every meeting below was confirmed at the body's own posted agenda or official
-meeting calendar: the standing listings as of Friday, July 17, 2026; the Chino council meeting at the city's
-official meeting calendar Monday, July 20; and the El Monte and Walnut council meetings at their posted
-agendas Tuesday, July 21. Meetings a body lists only by cadence, or that were posted as canceled, are not
-included. Times and locations are the agenda's; confirm final details at the agency's site before you go._
+_Desk-maintained listings for Thursday, July 30 through Wednesday, August 5. Every meeting below was
+confirmed by reading the body's own posted agenda, retrieved between July 27 and July 29. Meetings a
+body lists only by cadence are not included, and a meeting the paper has a cancellation notice for is
+listed as canceled rather than dropped. Times and locations are the agenda's; confirm final details at
+the agency's site before you go._
 
-## Tuesday, July 21
+**This is a short list, and the reason is worth saying plainly.** Most cities in the Pomona Valley take
+the first week of August lightly, and several posted nothing at all for it. Where a body's agenda could
+not be read this week, it is left off rather than guessed at from its usual schedule. If a meeting you
+expect is missing here, check that body's own site.
 
-- **Diamond Bar City Council**: 6:30 p.m. (closed session 5:30 p.m.), SCAQMD Main Auditorium, 21865 Copley Dr. Item 9.1 asks the council to place a 1% sales-tax measure on the November ballot. Agenda: diamondbarca.portal.civicclerk.com
-- **West Covina City Council**: 7 p.m., Council Chambers, 1444 W. Garvey Ave. South. The agenda includes public hearings on placing the city's unchanged sewer service charge, and its lighting and landscape assessments, on the county property-tax roll. Agenda: westcovina.org
-- **Glendora City Council** (special meeting): 5:30 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
-- **Glendora City Council** (special meeting): 6 p.m., Glendora Public Library, Bidwell Forum, 140 Glendora Ave. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
-- **Chino City Council**: 6 p.m., City Hall Council Chambers, 13220 Central Ave. The agenda includes public hearings on an amendment to the city's master schedule of user fees and on the 2026-27 landscape and lighting maintenance district assessment. Agenda: chino.legistar.com
+## Monday, August 3
 
-## Wednesday, July 22
+- **Pomona Public Financing Authority**: 4:30 p.m., Administration Board Room, 505 S. Garey Ave. The
+  board is asked to adopt the authority's 2026-27 annual budget by Resolution 2026-01, to confirm the
+  appointment of Karla Shipman to the board, and to approve minutes from its last meeting, which was
+  held August 4, 2025. Agenda: pomona.legistar.com
 
-- **El Monte City Council**: 6 p.m., City Council Chambers, El Monte City Hall – East, 11333 Valley Blvd. The agenda includes public hearings on re-levying special taxes in the Gateway and Mountain View community facilities districts, and a proposed contract for outside code-enforcement counsel capped at $350,000 a year, $1.05 million over its initial term. Agenda: elmonteca.gov/agendacenter
-- **Walnut City Council** (with the Housing Authority): 7 p.m., Council Chambers, 21201 La Puente Road. The council selects a mayor and mayor pro tem in its annual reorganization, and takes up a $205,000 first-phase contract for renovating the Walnut Ranch Park soccer fields. Agenda: walnutca.gov/My-Government/Meetings-Agendas/City-Council/2026-Agendas
+- **La Verne City Council**: closed session 5:30 p.m., study session 6 p.m., regular meeting 6:30 p.m.,
+  City Hall Council Chambers, 3660 D Street. The study session is a report from Los Angeles County
+  Fire and the county Agricultural Commissioner on the goldspotted oak borer, the beetle that kills
+  oaks, and its spread in the city. The consent calendar carries the minutes of the July 20 meeting,
+  where the council voted 5-0 to pursue a Proposition 218 assessment on the Measure GG paramedic fee;
+  those minutes are the first written record of that vote the city will have published. Also on
+  consent: a $115,947 storm drain screen retrofit contract, a $168,380 bus pad project on Durward Way
+  funded by Foothill Transit and Proposition C money, and a resolution canceling the council's
+  August 17 meeting for lack of business. Written comment goes to cityclerk@LaVerneCA.gov by noon on
+  the day of the meeting. Agenda: laverneca.gov/AgendaCenter
 
-## Thursday, July 23
+## Canceled this week
 
-- **City of Industry City Council**: 9 a.m., Council Chambers, 15651 Mayor Dave Way. The agenda carries six consent items and no public hearings, and the council is scheduled to go into closed session on eight matters. Agenda: industryca.portal.civicclerk.com
-- **Pomona Ethics Commission**: 6:30 p.m., Council Chambers, City Hall, 505 S. Garey Ave. Agenda: pomona.legistar.com
-- **Glendora Water Commission**: 6 p.m., City Hall Council Chamber, 116 E. Foothill Blvd. Agenda: horizon.agendalink.app/engage-v2/glendoraca/agendas
-- **Diamond Bar Parks & Recreation Commission**: 6:30 p.m., City Hall, Windmill Community Room, 21810 Copley Dr. Agenda: diamondbarca.portal.civicclerk.com
+- **San Gabriel City Council**, Tuesday, August 4. The city clerk posted a cancellation notice dated
+  July 23. The next regular meeting is Tuesday, August 18 at 6:30 p.m.
 
-## Looking ahead
+## Windows closing Friday, July 31
 
-- **Diamond Bar Planning Commission**: Tuesday, July 28, 6:30 p.m., City Hall, Windmill Community Room, 21810 Copley Dr. The agenda is not posted yet.
-- **Los Angeles County Regional Planning Commission**: Wednesday, July 29, 9 a.m., 320 W. Temple St., Room 150, Los Angeles, and by Zoom. Agenda: lacdrp.legistar.com
+Two things the paper has covered close at the end of this week.
 
-_Posted as canceled: the Los Angeles County Regional Planning Commission's July 22 meeting, whose items carry
-over to July 29; Pomona's Planning Commission on July 22; Glendora's regular City Council meeting on July 28;
-and West Covina's July 21 closed session, though its 7 p.m. regular meeting is still on._
+- **Glendora South Hills Bike Park**: the comment period on the recirculated environmental study
+  closes July 31. See [the paper's account of what the study changed and how to
+  comment](/glendora-bike-park-comment-window/).
+- **Monterey Park air purifier reimbursements**: applications close July 31, and the city awards them
+  first come, first served. See [the paper's account of who qualifies and what it
+  pays](/monterey-park-air-purifier-reimbursement/).
