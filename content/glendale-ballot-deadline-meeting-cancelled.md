@@ -18,7 +18,7 @@ sources:
     url: "https://glendaleca.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=62604"
   - text: The city's public meeting portal, where agendas and cancellation notices are posted
     url: "https://www.glendaleca.gov/government/public-meeting-portal"
-draft: true
+draft: false
 ---
 
 Glendale has cancelled the August 4 City Council meeting that the city's own staff report names as the last day it can put charter amendments on the November 3 ballot. The next regular meeting is August 11, a week after that date.
