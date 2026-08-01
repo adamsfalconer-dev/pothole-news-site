@@ -48,6 +48,14 @@ not published anywhere the paper could find them.
   appointment of Karla Shipman to the board, and to approve minutes from its last meeting, which was
   held August 4, 2025. Agenda: pomona.legistar.com
 
+- **Pomona City Council and Housing Authority**: 7 p.m., Council Chambers, 505 S. Garey Ave. The
+  council is asked to adopt its 2026-27 priorities and to take a second reading on a change to City
+  Code section 34-221. The consent calendar carries contract awards including $851,050 to Gentry
+  Brothers for street rehabilitation and $465,970.75 to Pavement Coatings for a Complete Streets
+  project, along with elevator maintenance, insurance brokerage, third-party claims administration,
+  a public safety dispatch and records system renewal, and elderly nutrition catering. Agenda:
+  pomona.legistar.com
+
 - **La Verne City Council**: closed session 5:30 p.m., study session 6 p.m., regular meeting 6:30 p.m.,
   City Hall Council Chambers, 3660 D Street. The study session is a report from Los Angeles County
   Fire and the county Agricultural Commissioner on the goldspotted oak borer, the beetle that kills
