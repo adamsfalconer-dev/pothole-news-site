@@ -30,7 +30,7 @@ sources:
     url: "https://elections.sbcounty.gov/elections/2026/1103/measures/"
   - text: The City of Baldwin Park's own published contact block, giving City Hall's street address and the hours it is open, read July 31
     url: "https://www.baldwinpark.com/"
-draft: true
+draft: false
 ---
 
 A San Gabriel voter who wants to make the case for or against the one-cent sales tax on the November 3 ballot has until 5 p.m. Tuesday to have it received by the city clerk. In Baldwin Park the same window shuts the next afternoon at 4. In South Pasadena it stays open until August 14. In Monterey Park it closed on July 16.
