@@ -2,13 +2,13 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-01
+date: 2026-08-02
 type: meeting
 breaking: false
 corrected: false
 ---
 _Desk-maintained listings for Saturday, August 1 through Saturday, August 8. Every meeting below was
-confirmed by reading the body's own posted agenda, retrieved between July 27 and July 30. Meetings a
+confirmed by reading the body's own posted agenda, retrieved between July 27 and August 2. Meetings a
 body lists only by cadence are not included, and a meeting the paper has a cancellation notice for is
 listed as canceled rather than dropped. Ballot-argument deadlines are taken from the city's own signed
 notice or council resolution. Times and locations are the record's; confirm final details at the
@@ -86,3 +86,9 @@ not published anywhere the paper could find them.
 - **San Gabriel City Council**, Tuesday, August 4. The city clerk posted a cancellation notice dated
   July 23. The next regular meeting is Tuesday, August 18 at 6:30 p.m. The city's ballot-argument
   deadline is that same Tuesday and does not move with the meeting.
+
+- **South El Monte City Council**, Tuesday, August 4. The city has posted its August 4 meeting as
+  canceled on its own agenda portal, and it has posted the August 18 meeting as canceled as well.
+  The county's last day to receive a measure for the November 3 ballot is Friday, August 7, which
+  falls between the two canceled dates. The city has not posted a reason for either cancellation,
+  and no special meeting was posted as of August 2.
