@@ -86,8 +86,9 @@ not published anywhere the paper could find them.
 
 ## Canceled or not meeting this week
 
-- **Glendale Charter Review Committee**, Thursday, August 6, and **Glendale Civil Service
-  Commission**, Wednesday, August 12. Both carry notices of cancellation on the city's meeting portal.
+- **Glendale Charter Review Committee**, Thursday, August 6.
+  Both this committee and the **Glendale Civil Service Commission**, which was to meet Wednesday,
+  August 12, carry notices of cancellation on the city's meeting portal.
 
 - **San Gabriel City Council**, Tuesday, August 4. The city clerk posted a cancellation notice dated
   July 23. The next regular meeting is Tuesday, August 18 at 6:30 p.m. The city's ballot-argument
