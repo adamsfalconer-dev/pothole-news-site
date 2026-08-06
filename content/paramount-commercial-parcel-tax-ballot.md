@@ -15,7 +15,7 @@ sources:
     url: "https://www.paramountcity.gov/government/property-parcel-tax/"
   - text: "The agenda for the July 28 City Council meeting, whose item 10 public hearing put three resolutions before the council: calling the election, asking the county to consolidate it, and approving the measure and ordering it onto the ballot"
     url: "https://paramountcity.primegov.com/Portal/Meeting?meetingTemplateId=918"
-draft: true
+draft: false
 ---
 
 Paramount will ask voters on November 3 to tax commercial and industrial property by the square foot, a charge the city says would raise about $4 million a year and that it says no owner of a single-family home, condominium, apartment building or mobile home park, and no residential renter, would owe.
