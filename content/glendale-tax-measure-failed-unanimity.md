@@ -19,7 +19,7 @@ sources:
     url: "https://glendaleca.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=63048"
   - text: The City of Glendale's published list of its upcoming public meetings
     url: "https://glendaleca.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings"
-draft: true
+draft: false
 ---
 
 Glendale's City Council did not place a quarter-cent sales tax increase on the November 3 ballot at a special meeting Tuesday morning, and the two charter amendments the city had prepared alongside it were never moved.
