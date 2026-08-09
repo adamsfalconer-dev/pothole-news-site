@@ -22,7 +22,7 @@ sources:
     url: "https://results.lavote.gov/text-results/4338"
   - text: The Los Angeles County Registrar-Recorder's list of measures appearing on the November 3, 2026 ballot, revision of July 31, 2026
     url: "https://content.lavote.gov/docs/rrcc/documents/measures-appearing-on-the-ballot-7-31-2026-lira.pdf"
-draft: true
+draft: false
 ---
 
 Monterey Park's City Council voted 5-0 on Wednesday night to place a housing measure on the November 3 ballot, asking voters for permission to allow homes on land the city now reserves for stores, offices and industry.
