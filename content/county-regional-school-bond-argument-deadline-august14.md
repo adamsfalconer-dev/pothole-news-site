@@ -14,7 +14,7 @@ sources:
     url: "https://content.lavote.gov/docs/rrcc/documents/calendar-of-events10f93bf2-ec45-4ca8-a9f3-06303edf7304.pdf"
   - text: The registrar's 2026 Measure Information booklet for schools, general districts and special districts, prepared by its Election Coordination Unit, which gives the word limits, the signature limit, the office that receives ballot argument materials and the rule on faxed copies and original signatures
     url: "https://content.lavote.gov/docs/rrcc/documents/2026-measure-information-booklet-v-4.pdf"
-draft: true
+draft: false
 ---
 
 A voter in Glendora Unified who thinks $86 million is too much to borrow, and one in Claremont Unified who thinks $77 million is not enough, have the same five days left to say so in the argument that prints beside the measure in the sample ballot booklet. Friday, August 14 is the last day the Los Angeles County registrar's calendar allows a written argument for or against any county, school or district measure on the November 3 ballot. After Friday the only writing left is a rebuttal, and rebuttals may be filed only by the authors of arguments for and against the measure.
