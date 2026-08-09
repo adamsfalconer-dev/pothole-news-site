@@ -31,8 +31,9 @@ offices, under two different counties. Nothing here is a single county-wide date
 
 ## Friday, August 14: the county's one line, and it prints no hour
 
-This is the date the Los Angeles County registrar's calendar fixes for arguments on **any county,
-school or district measure**, all of them at once. The calendar gives the day and **no time of day**,
+This is the date the Los Angeles County registrar's calendar fixes for arguments on
+**any county, school or district measure,** all of them at once. The calendar gives the day and
+**no time of day,**
 even though it prints an hour at other entries. An argument filed Friday morning is safe in a way one
 filed at 4:55 p.m. may not be.
 
@@ -77,9 +78,10 @@ Tuesday, August 4. Monterey Park's closed July 16.
 [Every deadline, address and rebuttal rule the paper has established](/county-regional-november-ballot-argument-deadlines/),
 including the cities whose dates are not published anywhere it could find them.
 
-**Friday, August 7 was the last day a city or the county could place a measure on the November 3
-ballot** under Elections Code section 9222. That date has passed. **The paper has not established
-what reached the county by the cutoff.** The registrar's list of measures has not been revised since
+**Friday, August 7 was the last day a city or the county could place a measure on the November 3 ballot**
+under Elections Code section 9222. That date has passed.
+**The paper has not established what reached the county by the cutoff.**
+The registrar's list of measures has not been revised since
 July 31, which is a week before the deadline, and its index does not render in a form this desk can
 read. Where a city's own outcome is on a record, it is below. Where it is not, the paper is not
 guessing.
