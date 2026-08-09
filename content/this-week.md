@@ -13,11 +13,11 @@ calendar, and each one names which. Meetings a body lists only by cadence are no
 meeting whose agenda the paper could not read this week is left off rather than guessed at. Times and
 locations are the record's; confirm final details at the agency's site before you go._
 
-**Almost everything on this page is a clock, and the nearest one is tomorrow.** Nine days of
+**Almost everything on this page is a clock, and the nearest one closes Monday.** Nine days of
 argument deadlines run from Monday to a week Monday, on five different dates, in five different
 offices, under two different counties. Nothing here is a single county-wide date.
 
-## Tomorrow, Monday, August 10: Chino, 5:30 p.m.
+## Monday, August 10: Chino, 5:30 p.m.
 
 - **The last day to file a written argument for or against Chino's business license tax measure.**
   Arguments go to the Chino city clerk and must be in by 5:30 p.m. Rebuttals are due at 5:30 p.m. on
