@@ -47,7 +47,7 @@ One thing to know before searching the county's list. Its heading for one distri
 
 Baldwin Park's clerk fixed 4 p.m. for arguments on its city measure. San Gabriel's council resolution fixed 5 p.m. for its own. The registrar's entry for county, school and district measures gives August 14 and stops there.
 
-That is not an artifact of a document that never states hours. The same calendar prints a 5 p.m. hour at four other entries, including the water agency nominee deadline three days later. It can print an hour and at the argument deadline it does not. Neither does the registrar's own 2026 booklet for school and district measures, which gives the deadline by date and points back to the calendar for "the applicable dates and times." So an argument filed Friday morning is safe in a way one filed at 4:55 p.m. may not be.
+That is not an artifact of a document that never states hours. The same calendar prints a 5 p.m. hour at three other entries, including the water agency nominee deadline three days later. It can print an hour and at the argument deadline it does not. Neither does the registrar's own 2026 booklet for school and district measures, which gives the deadline by date and points back to the calendar for "the applicable dates and times." So an argument filed Friday morning is safe in a way one filed at 4:55 p.m. may not be.
 
 ## Where the argument goes
 
