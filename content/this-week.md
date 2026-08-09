@@ -40,8 +40,8 @@ filed at 4:55 p.m. may not be.
   Unified ($75 million), Claremont Unified ($77 million), the Valle Lindo School District
   ($9.2 million) and the Pasadena Area Community College District ($485 million).
   [The full account, with what each is asking for and how to file](/county-regional-school-bond-argument-deadline-august14/).
-- **Hacienda La Puente Unified's board term-limit question** and the **countywide binding-arbitration
-  charter amendment** are on the same county line.
+- **Hacienda La Puente Unified's board term-limit question** is on the same county line, and so is
+  **the countywide binding-arbitration charter amendment.**
 - **South Pasadena: 5:00 p.m. Friday, August 14**, on its $80 million streets and 911 bond.
   Arguments to City Hall, 1414 Mission Street. That hour comes from the city clerk's own Notice to
   Voters, not from the county.
