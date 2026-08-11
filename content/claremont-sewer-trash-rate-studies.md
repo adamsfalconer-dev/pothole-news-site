@@ -21,7 +21,7 @@ sources:
     url: "https://claremontca.legistar1.com/claremontca/attachments/e11920a3-f89f-4a25-a2b8-6928fb8c7332.pdf"
   - text: The Community and Human Services Commission special meeting minutes of July 15, 2026, recording the commission's roll call vote to recommend the rate changes and the absence of any public comment on them
     url: "https://claremontca.legistar1.com/claremontca/attachments/01cc072d-09ca-4d9b-9bd8-d6a17c4838dd.pdf"
-draft: true
+draft: false
 ---
 
 A Claremont household with a 64-gallon trash cart pays the city $46.57 a month today for sewer collection, refuse and street sweeping. Under the rates the City Council will consider at a public hearing on Tuesday, September 22, that becomes $76.50 by July 2030, an increase of $29.93 a month, or about $359 a year.
