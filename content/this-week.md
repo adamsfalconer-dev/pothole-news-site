@@ -2,40 +2,28 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-09
+date: 2026-08-11
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings for Sunday, August 9 through Sunday, August 16. Ballot-argument deadlines
-below are taken from the city's own signed notice, council resolution or the county registrar's
-calendar, and each one names which. Meetings a body lists only by cadence are not included, and a
-meeting whose agenda the paper could not read this week is left off rather than guessed at. Times and
-locations are the record's; confirm final details at the agency's site before you go._
+_Desk-maintained listings, refreshed Tuesday, August 11. The clocks below run from today through
+Monday, August 24. Ballot-argument deadlines are taken from the city's own signed notice, council
+resolution or the county registrar's calendar, and each one names which. Meetings a body lists only
+by cadence are not included, and a meeting whose agenda the paper could not read is left off rather
+than guessed at. Times and locations are the record's; confirm final details at the agency's site
+before you go._
 
-**Almost everything on this page is a clock, and the nearest one closes Monday.** Nine days of
-argument deadlines run from Monday to a week Monday, on five different dates, in five different
-offices, under two different counties. Nothing here is a single county-wide date.
-
-## Monday, August 10: Chino, 5:30 p.m.
-
-- **The last day to file a written argument for or against Chino's business license tax measure.**
-  Arguments go to the Chino city clerk and must be in by 5:30 p.m. Rebuttals are due at 5:30 p.m. on
-  August 20. The date and the hour are the ones printed on the clerk's own published Notice of
-  Measure for Ordinance 2026-011, not inferred from a county calendar.
-  [What the measure would do](/chino-business-license-tax-measure-november/).
-
-- **Also Monday, at 11:00 a.m.:** San Bernardino County is scheduled to assign ballot letters to the
-  November 3 measures. Chino's measure has no letter yet. That is a labelling step, not a change to
-  anything a voter can act on.
+**Almost everything on this page is a clock, and the nearest one closes Friday.** The remaining
+argument and rebuttal deadlines run across five different dates, in five different offices, under two
+different counties. Nothing here is a single county-wide date.
 
 ## Friday, August 14: the county's one line, and it prints no hour
 
 This is the date the Los Angeles County registrar's calendar fixes for arguments on
 **any county, school or district measure,** all of them at once. The calendar gives the day and
-**no time of day,**
-even though it prints an hour at other entries. An argument filed Friday morning is safe in a way one
-filed at 4:55 p.m. may not be.
+**no time of day,** even though it prints an hour at other entries. An argument filed Friday morning
+is safe in a way one filed at 4:55 p.m. may not be.
 
 - **Five school and college bonds** run on that line: Glendora Unified ($86 million), Charter Oak
   Unified ($75 million), Claremont Unified ($77 million), the Valle Lindo School District
@@ -51,6 +39,13 @@ filed at 4:55 p.m. may not be.
   same certified resolution that set the city's August 4 direct-argument date. Rebuttals are open
   only to the authors of the arguments already filed.
 
+## Saturday, August 15 through Monday, August 24: you may read what everyone else filed
+
+The Los Angeles County public examination period opens Saturday. During it, the measure text, the
+filed arguments, the impartial analyses, the fiscal impact statement and the bond tax rate statements
+are open to anyone, and any person may file a writ of mandate or an injunction to have any of that
+material amended or deleted.
+
 ## Monday, August 17: Chino Hills at 11:30 a.m., and it is the easiest one to miss
 
 - **Chino Hills: 11:30 a.m. Monday, August 17.** This is the earliest hour of any deadline the paper
@@ -64,27 +59,23 @@ filed at 4:55 p.m. may not be.
 - **Baldwin Park rebuttals: 4 p.m. Monday, August 17**, on its cannabis tax measure, open only to the
   authors of the direct arguments.
 
-## Saturday, August 15 through Monday, August 24: you may read what everyone else filed
+## Thursday, August 20 and Friday, August 21: the two rebuttal windows still open
 
-The Los Angeles County public examination period opens Saturday. During it, the measure text, the
-filed arguments, the impartial analyses, the fiscal impact statement and the bond tax rate statements
-are open to anyone, and any person may file a writ of mandate or an injunction to have any of that
-material amended or deleted.
+- **Chino rebuttals: 5:30 p.m. Thursday, August 20**, on the city's business license tax measure, to
+  the Chino city clerk. The date and the hour are printed on the city's own Notice of Election
+  Measure, the same document that fixed the direct-argument date that has now passed. Rebuttals are
+  open only to the authors of the direct arguments already filed.
+  [What the measure would do](/chino-business-license-tax-measure-november/).
+- **Chino Hills rebuttals: 4:30 p.m. Friday, August 21**, from the resolution in the council's
+  July 14 agenda packet.
 
-## Already closed
+## The ballot letters have been drawn
 
-Baldwin Park's argument window closed at 4 p.m. Wednesday, August 5. San Gabriel's closed at 5 p.m.
-Tuesday, August 4. Monterey Park's closed July 16.
-[Every deadline, address and rebuttal rule the paper has established](/county-regional-november-ballot-argument-deadlines/),
-including the cities whose dates are not published anywhere it could find them.
-
-**Friday, August 7 was the last day a city or the county could place a measure on the November 3 ballot**
-under Elections Code section 9222. That date has passed.
-**The paper has not established what reached the county by the cutoff.**
-The registrar's list of measures has not been revised since
-July 31, which is a week before the deadline, and its index does not render in a form this desk can
-read. Where a city's own outcome is on a record, it is below. Where it is not, the paper is not
-guessing.
+San Bernardino County assigned letters to its November 3 measures on the morning of Monday,
+August 10. The county's letter table does not name Chino's measure in words, but the row lettered
+**F** links the full text of Chino Ordinance 2026-011, which is the business license tax. The city's
+own measure page does not print a letter. Lettering is a labelling step and changes nothing a voter
+can act on; the filing deadlines above are set by the city, not by the letter.
 
 ## What two councils actually decided
 
@@ -103,8 +94,31 @@ guessing.
   [The full account](/monterey-park-home-overlay-ballot/). Separately, the city's ten day public
   examination period on its hotel tax measure began August 5.
 
+## Already closed
+
+- **Chino's argument window closed at 5:30 p.m. Monday, August 10.** Its rebuttal window is above and
+  is still open.
+- Baldwin Park's argument window closed at 4 p.m. Wednesday, August 5. San Gabriel's closed at 5 p.m.
+  Tuesday, August 4. Monterey Park's closed July 16.
+  [Every deadline, address and rebuttal rule the paper has established](/county-regional-november-ballot-argument-deadlines/),
+  including the cities whose dates are not published anywhere it could find them.
+
+**Friday, August 7 was the last day a city or the county could place a measure on the November 3 ballot**
+under Elections Code section 9222. That date has passed.
+**The paper has not established what reached the county by the cutoff.**
+The registrar's list of measures has not been revised since
+July 31, which is a week before the deadline, and its index does not render in a form this desk can
+read. Where a city's own outcome is on a record, it is above. Where it is not, the paper is not
+guessing.
+
 ## Canceled, and not meeting
 
+- **Claremont City Council is dark until September.** The council's August 11 and August 25 regular
+  meetings are both cancelled, and the next regular meeting is September 8 at 6:30 p.m. That is
+  printed in capitals on the adjournment page of the council's own agenda. It matters for one thing
+  in particular: the city has mailed a Proposition 218 notice on sewer and trash rates and set the
+  hearing for September 22, so the earliest a resident can speak to it in a council chamber is that
+  hearing. [What the rates would do and how a protest has to be filed](/claremont-sewer-trash-rate-studies/).
 - **San Gabriel City Council**, Tuesday, August 4, canceled by a clerk's notice dated July 23. The
   next regular meeting is Tuesday, August 18 at 6:30 p.m. The city's argument deadline did not move
   with the meeting.
@@ -113,9 +127,10 @@ guessing.
 - **Glendale Civil Service Commission**, Wednesday, August 12, carrying a notice of cancellation on
   the city's meeting portal.
 
-## Meetings the paper could not confirm this week
+## Meetings the paper could not confirm
 
 Several council and commission agendas that would ordinarily be listed here could not be retrieved
-when this page was refreshed: the posting pages for Glendale, Claremont and Duarte returned errors,
-and a body's usual schedule is not a confirmation that it is meeting. They are left off rather than
-printed on a guess. If a meeting you expect is missing here, check that body's own site.
+when this page was last refreshed against its sources: the posting pages for Glendale and Duarte
+returned errors, and a body's usual schedule is not a confirmation that it is meeting. They are left
+off rather than printed on a guess. If a meeting you expect is missing here, check that body's own
+site.
