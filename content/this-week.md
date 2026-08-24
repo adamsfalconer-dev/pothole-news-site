@@ -2,135 +2,115 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-11
+date: 2026-08-24
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Tuesday, August 11. The clocks below run from today through
-Monday, August 24. Ballot-argument deadlines are taken from the city's own signed notice, council
-resolution or the county registrar's calendar, and each one names which. Meetings a body lists only
-by cadence are not included, and a meeting whose agenda the paper could not read is left off rather
-than guessed at. Times and locations are the record's; confirm final details at the agency's site
-before you go._
+_Desk-maintained listings, refreshed Monday, August 24. The clocks below run from today through
+Tuesday, September 8, with one September date that is worth putting on a calendar now. Deadlines are
+taken from the agency's own signed notice, council resolution or the county registrar's calendar, and
+each entry names which. Meetings a body lists only by cadence are not included, and a meeting whose
+agenda the paper could not read is left off rather than guessed at. Times and locations are the
+record's; confirm final details at the agency's site before you go._
 
-**Almost everything on this page is a clock, and the nearest one closes Friday.** The remaining
-argument and rebuttal deadlines run across five different dates, in five different offices, under two
-different counties. Nothing here is a single county-wide date.
+**Two county clocks close today, and after today the November ballot booklet is closed to new
+writing.** What follows them is quieter: a homeless count Glendale is about to note and file, a
+transit service that shrinks September 1, a parking ordinance in Hawthorne, and a rate hearing in
+Claremont where the only objection that counts has to arrive on paper.
 
-## Friday, August 14: the county's one line, and it prints no hour
+## Monday, August 24: the last day to write anything for the sample ballot
 
-This is the date the Los Angeles County registrar's calendar fixes for arguments on
-**any county, school or district measure,** all of them at once. The calendar gives the day and
-**no time of day,** even though it prints an hour at other entries. An argument filed Friday morning
-is safe in a way one filed at 4:55 p.m. may not be.
+Both of these come from the Los Angeles County registrar's Calendar of Events for the November 3
+general election, and both end today.
 
-- **Five school and college bonds** run on that line: Glendora Unified ($86 million), Charter Oak
-  Unified ($75 million), Claremont Unified ($77 million), the Valle Lindo School District
-  ($9.2 million) and the Pasadena Area Community College District ($485 million).
-  [The full account, with what each is asking for and how to file](/county-regional-school-bond-argument-deadline-august14/).
-- **Hacienda La Puente Unified's board term-limit question** is on the same county line, and so is
-  **the countywide binding-arbitration charter amendment.**
-- **South Pasadena: 5:00 p.m. Friday, August 14**, on its $80 million streets and 911 bond.
-  Arguments to City Hall, 1414 Mission Street. That hour comes from the city clerk's own Notice to
-  Voters, not from the county.
-- **Diamond Bar: 5 p.m. Friday, August 14**, per the city's own record.
-- **San Gabriel rebuttals: 5:00 p.m. Friday, August 14**, on its one cent sales tax measure, in the
-  same certified resolution that set the city's August 4 direct-argument date. Rebuttals are open
-  only to the authors of the arguments already filed.
+- **Rebuttal arguments are due** on any county, school or district measure. Rebuttals are capped at
+  250 words and are open only to the authors of the direct arguments already filed for and against a
+  measure, so this is not a deadline most voters can use. The registrar's calendar gives the day and
+  no hour. Argument material, rebuttals included, goes to the Election Planning Section, 12400
+  Imperial Highway, Room 2015, Norwalk 90650, (562) 462-2317, with a transmittal letter. A faxed
+  filing is allowed, but forms carrying original signatures must reach that office within 48 hours of
+  the fax.
+- **The public examination period ends.** It opened Saturday, August 15. Until it closes, the measure
+  text, the filed arguments, the impartial analyses, the fiscal impact statements and the bond tax
+  rate statements are open to anyone, and any person may file a writ of mandate or an injunction to
+  have any of that material amended or deleted. After today that door shuts.
+- **Diamond Bar's own rebuttal deadline is also today**, on its 1 percent local sales tax measure,
+  under Resolution No. 2026-28. The resolution sets the date; the staff report puts the hour at
+  5 p.m., at the city clerk's office, 21810 Copley Drive.
 
-## Saturday, August 15 through Monday, August 24: you may read what everyone else filed
+The five school and college bonds on the county line, and the two countywide questions that share it,
+are laid out with what each is asking for in
+[the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
+and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-The Los Angeles County public examination period opens Saturday. During it, the measure text, the
-filed arguments, the impartial analyses, the fiscal impact statement and the bond tax rate statements
-are open to anyone, and any person may file a writ of mandate or an injunction to have any of that
-material amended or deleted.
+## Tuesday, August 25: Glendale puts a number on its homeless count
 
-## Monday, August 17: Chino Hills at 11:30 a.m., and it is the easiest one to miss
+- **Glendale, 3:00 p.m.**, joint special meeting of the City Council and the Housing Authority,
+  Council Chamber, 613 E. Broadway, 2nd Floor. **Item 2 is a motion to note and file the city's 2026
+  Homeless Point-in-Time Count**, taken twice, once by the council and once by the housing authority.
+  A note-and-file is not a vote on policy, which is exactly why it is easy to miss: the count is the
+  number the city will be working from for the next year, and this is the meeting where it lands on
+  the record. The agenda was typed and posted August 20 and carries no attachment with the figures,
+  so the count itself is in the item's backup at the city's public meeting portal. **Written comment
+  must be submitted by 12:00 p.m. on the day of the meeting** to citycouncil@glendaleca.gov, with the
+  agenda item named; correspondence arriving later may not be distributed until the next business
+  day. Comment in person, by Zoom or by phone; the clerk's office is (818) 548-2090.
+- **Long Beach, 3:00 p.m.**, special meeting, Civic Chambers, 411 W. Ocean Boulevard. One item: a
+  continued budget hearing on the proposed fiscal year 2027 budget for Parks, Recreation and Marine
+  and for Library, Arts and Culture. Written comment goes to CityClerk@longbeach.gov.
 
-- **Chino Hills: 11:30 a.m. Monday, August 17.** This is the earliest hour of any deadline the paper
-  has found. Chino Hills votes through San Bernardino County, and that county's measure list carries
-  no date and tells voters to contact the city clerk. The city's own record has it: the resolution on
-  the filing of written arguments in the council's July 14 agenda packet requires arguments in the
-  clerk's office no later than 11:30 a.m. on August 17, with rebuttals no later than 4:30 p.m. on
-  August 21. The standard is receipt, not postmark. A voter working from noon or 5 p.m. hours would
-  have the right day and be half an hour late. The clerk and election official's office is
-  909-364-2620.
-- **Baldwin Park rebuttals: 4 p.m. Monday, August 17**, on its cannabis tax measure, open only to the
-  authors of the direct arguments.
+## Tuesday, September 1: San Dimas Dial-a-Cab stops running overnight
 
-## Thursday, August 20 and Friday, August 21: the two rebuttal windows still open
+Dial-a-Cab drops from 24-hour service to a 7:00 a.m. to 8:00 p.m. schedule on this date, under item
+OB1 of the July 28 San Dimas City Council and Housing Authority meeting. **A rider who uses the
+service for an early shift, a night shift, a dialysis appointment or a hospital discharge loses those
+trips that day.** Riders who depend on the overnight window are the people this change reaches first,
+and the change takes effect without any further vote.
 
-- **Chino rebuttals: 5:30 p.m. Thursday, August 20**, on the city's business license tax measure, to
-  the Chino city clerk. The date and the hour are printed on the city's own Notice of Election
-  Measure, the same document that fixed the direct-argument date that has now passed. Rebuttals are
-  open only to the authors of the direct arguments already filed.
-  [What the measure would do](/chino-business-license-tax-measure-november/).
-- **Chino Hills rebuttals: 4:30 p.m. Friday, August 21**, from the resolution in the council's
-  July 14 agenda packet.
+## Tuesday, September 8: Hawthorne's parking ordinances come up for adoption
 
-## The ballot letters have been drawn
+Four ordinances introduced on first reading July 14 are scheduled for the adoption vote, and the staff
+recommendation on each one names this date. **The one to read is No. 2267.** It amends chapter 10.36
+to modify designated paid parking zones, establish employee parking permits, authorize special-event
+parking management and authorize a residential driveway parking permit program, and it authorizes
+parking fees, permit fees, special-event rates **and parking citation penalties to be set by
+resolution.** Moving penalties to a resolution means a future council can change what a ticket costs
+without passing an ordinance. The other three: No. 2266 creates e-bike regulations in a new chapter
+10.78; No. 2268 repeals chapter 10.38 and replaces it with a residential parking permit program in a
+new chapter 10.39; No. 2269 establishes an employer parking permit program. **If you park on a
+Hawthorne street, the comment window is between now and that vote.**
 
-San Bernardino County assigned letters to its November 3 measures on the morning of Monday,
-August 10. The county's letter table does not name Chino's measure in words, but the row lettered
-**F** links the full text of Chino Ordinance 2026-011, which is the business license tax. The city's
-own measure page does not print a letter. Lettering is a labelling step and changes nothing a voter
-can act on; the filing deadlines above are set by the city, not by the letter.
+## Tuesday, September 8, 6:30 p.m.: Claremont's council comes back
 
-## What two councils actually decided
+The first regular meeting after the summer recess. The August 11 and August 25 regular meetings were
+cancelled, which is on page 8 of the July 28 agenda, so a resident checking the city's calendar in
+between would have found two empty Tuesdays and no explanation on the page itself.
 
-- **Glendale did not put its sales tax on the November ballot.** The council's August 4 special
-  meeting is now on a record the paper has read. A member moved to declare a fiscal emergency and put
-  a quarter percent sales tax increase to voters; the motion failed on a roll call. Glendale does not
-  elect its council in November, and under the state constitution a city may move a general tax to an
-  election other than its regular one only if the council unanimously declares a fiscal emergency, so
-  the measure needed every seat. The two charter questions the city had prepared were never moved.
-  **The August 10 Glendale argument deadline that would have followed does not apply**, because there
-  is no Glendale measure. [The full account](/glendale-tax-measure-failed-unanimity/).
+## Tuesday, September 22, 6:30 p.m.: the Claremont rate hearing, and the protest has to be on paper
 
-- **Monterey Park will ask voters to allow housing on its commercial and industrial land.** The
-  council voted 5-0 on August 5 to place the question on the November 3 ballot. The council could not
-  make the change itself: voters wrote that rule into the city's own general plan.
-  [The full account](/monterey-park-home-overlay-ballot/). Separately, the city's ten day public
-  examination period on its hotel tax measure began August 5.
+Putting this here two weeks early is deliberate, because the filing rule is the part that catches
+people out.
 
-## Already closed
+Claremont has mailed a Proposition 218 notice setting a public hearing on proposed sewer, sanitation
+and street-sweeping rate increases, in the Council Chamber at 225 W. Second Street. **A written
+protest must be signed and must be received by the City Clerk at 207 Harvard Avenue before the
+hearing opens, or handed to the clerk at the hearing before public comment closes. The notice says
+e-mail protests are expressly not accepted.** One protest is counted per parcel, and a majority
+protest of affected parcels defeats the rates. The notice does not say how many parcels are affected,
+so what a majority would take is not on the record.
 
-- **Chino's argument window closed at 5:30 p.m. Monday, August 10.** Its rebuttal window is above and
-  is still open.
-- Baldwin Park's argument window closed at 4 p.m. Wednesday, August 5. San Gabriel's closed at 5 p.m.
-  Tuesday, August 4. Monterey Park's closed July 16.
-  [Every deadline, address and rebuttal rule the paper has established](/county-regional-november-ballot-argument-deadlines/),
-  including the cities whose dates are not published anywhere it could find them.
+The full account of what the studies propose, and what about $30 a month by 2030 means on a household
+bill, is in
+[the paper's story on the rate studies](/claremont-sewer-trash-rate-studies/).
 
-**Friday, August 7 was the last day a city or the county could place a measure on the November 3 ballot**
-under Elections Code section 9222. That date has passed.
-**The paper has not established what reached the county by the cutoff.**
-The registrar's list of measures has not been revised since
-July 31, which is a week before the deadline, and its index does not render in a form this desk can
-read. Where a city's own outcome is on a record, it is above. Where it is not, the paper is not
-guessing.
+## Thursday, September 24: the money behind the measures becomes readable
 
-## Canceled, and not meeting
+The first pre-election campaign statements are due, covering July 1 through September 19, from any
+committee that raised or spent $500 or more. These are the filings that show who is funding the
+November measure campaigns, and they are public the day they land.
 
-- **Claremont City Council is dark until September.** The council's August 11 and August 25 regular
-  meetings are both cancelled, and the next regular meeting is September 8 at 6:30 p.m. That is
-  printed in capitals on the adjournment page of the council's own agenda. It matters for one thing
-  in particular: the city has mailed a Proposition 218 notice on sewer and trash rates and set the
-  hearing for September 22, so the earliest a resident can speak to it in a council chamber is that
-  hearing. [What the rates would do and how a protest has to be filed](/claremont-sewer-trash-rate-studies/).
-- **San Gabriel City Council**, Tuesday, August 4, canceled by a clerk's notice dated July 23. The
-  next regular meeting is Tuesday, August 18 at 6:30 p.m. The city's argument deadline did not move
-  with the meeting.
-- **South El Monte City Council**, Tuesday, August 4 and Tuesday, August 18, both posted as canceled
-  on the city's own agenda portal, with no reason given for either.
-- **Glendale Civil Service Commission**, Wednesday, August 12, carrying a notice of cancellation on
-  the city's meeting portal.
+---
 
-## Meetings the paper could not confirm
-
-Several council and commission agendas that would ordinarily be listed here could not be retrieved
-when this page was last refreshed against its sources: the posting pages for Glendale and Duarte
-returned errors, and a body's usual schedule is not a confirmation that it is meeting. They are left
-off rather than printed on a guess. If a meeting you expect is missing here, check that body's own
-site.
+_Corrections and tips: this page is maintained by the desk and is rebuilt when its clocks turn over.
+An entry appears here only when a document says so._
