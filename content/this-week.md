@@ -2,49 +2,35 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-24
+date: 2026-08-25
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Monday, August 24. The clocks below run from today through
-Tuesday, September 8, with one September date that is worth putting on a calendar now. Deadlines are
-taken from the agency's own signed notice, council resolution or the county registrar's calendar, and
-each entry names which. Meetings a body lists only by cadence are not included, and a meeting whose
-agenda the paper could not read is left off rather than guessed at. Times and locations are the
-record's; confirm final details at the agency's site before you go._
+_Desk-maintained listings, refreshed Tuesday, August 25. The clocks below run from today through
+Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
+or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
+are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
+at. Times and locations are the record's; confirm final details at the agency's site before you go._
 
-**Two county clocks close today, and after today the November ballot booklet is closed to new
-writing.** What follows them is quieter: a homeless count Glendale is about to note and file, a
-transit service that shrinks September 1, a parking ordinance in Hawthorne, and a rate hearing in
-Claremont where the only objection that counts has to arrive on paper.
+**The November ballot booklet closed to new writing yesterday.** Rebuttal arguments on county, school
+and district measures were due Monday, August 24, and the public examination window, the period in
+which any person could go to court to have measure text or an argument amended or deleted, closed the
+same day. Diamond Bar's own rebuttal deadline on its 1 percent sales tax measure closed at 5 p.m.
+Monday under Resolution No. 2026-28. Nothing on that list can still be filed, and the paper is saying
+so plainly rather than leaving a passed date on the page.
 
-## Monday, August 24: the last day to write anything for the sample ballot
-
-Both of these come from the Los Angeles County registrar's Calendar of Events for the November 3
-general election, and both end today.
-
-- **Rebuttal arguments are due** on any county, school or district measure. Rebuttals are capped at
-  250 words and are open only to the authors of the direct arguments already filed for and against a
-  measure, so this is not a deadline most voters can use. The registrar's calendar gives the day and
-  no hour. Argument material, rebuttals included, goes to the Election Planning Section, 12400
-  Imperial Highway, Room 2015, Norwalk 90650, (562) 462-2317, with a transmittal letter. A faxed
-  filing is allowed, but forms carrying original signatures must reach that office within 48 hours of
-  the fax.
-- **The public examination period ends.** It opened Saturday, August 15. Until it closes, the measure
-  text, the filed arguments, the impartial analyses, the fiscal impact statements and the bond tax
-  rate statements are open to anyone, and any person may file a writ of mandate or an injunction to
-  have any of that material amended or deleted. After today that door shuts.
-- **Diamond Bar's own rebuttal deadline is also today**, on its 1 percent local sales tax measure,
-  under Resolution No. 2026-28. The resolution sets the date; the staff report puts the hour at
-  5 p.m., at the city clerk's office, 21810 Copley Drive.
+What is still open is quieter and mostly practical: a homeless count Glendale notes and files this
+afternoon, a transit service that shrinks September 1, four parking ordinances in Hawthorne, a rate
+hearing in Claremont where the only objection that counts has to arrive on paper, and the September
+filings that show who is paying for the measure campaigns.
 
 The five school and college bonds on the county line, and the two countywide questions that share it,
 are laid out with what each is asking for in
 [the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
 and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-## Tuesday, August 25: Glendale puts a number on its homeless count
+## Tuesday, August 25, this afternoon: Glendale puts a number on its homeless count
 
 - **Glendale, 3:00 p.m.**, joint special meeting of the City Council and the Housing Authority,
   Council Chamber, 613 E. Broadway, 2nd Floor. **Item 2 is a motion to note and file the city's 2026
@@ -52,10 +38,9 @@ and in [the wider survey of every argument deadline in the footprint](/county-re
   A note-and-file is not a vote on policy, which is exactly why it is easy to miss: the count is the
   number the city will be working from for the next year, and this is the meeting where it lands on
   the record. The agenda was typed and posted August 20 and carries no attachment with the figures,
-  so the count itself is in the item's backup at the city's public meeting portal. **Written comment
-  must be submitted by 12:00 p.m. on the day of the meeting** to citycouncil@glendaleca.gov, with the
-  agenda item named; correspondence arriving later may not be distributed until the next business
-  day. Comment in person, by Zoom or by phone; the clerk's office is (818) 548-2090.
+  so the count itself is in the item's backup at the city's public meeting portal. **The window for
+  written comment closed at 12:00 p.m. today.** Comment in person, by Zoom or by phone is still open;
+  the clerk's office is (818) 548-2090.
 - **Long Beach, 3:00 p.m.**, special meeting, Civic Chambers, 411 W. Ocean Boulevard. One item: a
   continued budget hearing on the proposed fiscal year 2027 budget for Parks, Recreation and Marine
   and for Library, Arts and Culture. Written comment goes to CityClerk@longbeach.gov.
@@ -85,12 +70,14 @@ Hawthorne street, the comment window is between now and that vote.**
 
 The first regular meeting after the summer recess. The August 11 and August 25 regular meetings were
 cancelled, which is on page 8 of the July 28 agenda, so a resident checking the city's calendar in
-between would have found two empty Tuesdays and no explanation on the page itself.
+between would have found two empty Tuesdays and no explanation on the page itself. The September
+agenda is not posted yet; the clerk's office publishes agenda material generally on the Thursday
+before a meeting.
 
 ## Tuesday, September 22, 6:30 p.m.: the Claremont rate hearing, and the protest has to be on paper
 
-Putting this here two weeks early is deliberate, because the filing rule is the part that catches
-people out.
+Putting this here a month early is deliberate, because the filing rule is the part that catches people
+out.
 
 Claremont has mailed a Proposition 218 notice setting a public hearing on proposed sewer, sanitation
 and street-sweeping rate increases, in the Council Chamber at 225 W. Second Street. **A written
