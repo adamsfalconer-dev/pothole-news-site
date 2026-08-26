@@ -2,48 +2,56 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-25
+date: 2026-08-26
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Tuesday, August 25. The clocks below run from today through
+_Desk-maintained listings, refreshed Wednesday, August 26. The clocks below run from today through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
 at. Times and locations are the record's; confirm final details at the agency's site before you go._
 
-**The November ballot booklet closed to new writing yesterday.** Rebuttal arguments on county, school
-and district measures were due Monday, August 24, and the public examination window, the period in
-which any person could go to court to have measure text or an argument amended or deleted, closed the
-same day. Diamond Bar's own rebuttal deadline on its 1 percent sales tax measure closed at 5 p.m.
-Monday under Resolution No. 2026-28. Nothing on that list can still be filed, and the paper is saying
-so plainly rather than leaving a passed date on the page.
+**Two things on this page have already happened, and they are kept here in the past tense rather than
+deleted.** Rebuttal arguments on county, school and district measures were due Monday, August 24, and
+the public examination window, the period in which any person could go to court to have measure text
+or an argument amended or deleted, closed the same day. Diamond Bar's own rebuttal deadline on its
+1 percent sales tax measure closed at 5 p.m. that Monday under Resolution No. 2026-28. Nothing on that
+list can still be filed. On Tuesday, August 25, Glendale's council and housing authority met jointly at
+3 p.m. and took up the city's 2026 Homeless Point-in-Time Count, and Long Beach held a continued budget
+hearing on its parks and library departments. The paper has not yet reported what the Glendale count
+said, and it is not printing a figure it has not read at the record.
 
-What is still open is quieter and mostly practical: a homeless count Glendale notes and files this
-afternoon, a transit service that shrinks September 1, four parking ordinances in Hawthorne, a rate
-hearing in Claremont where the only objection that counts has to arrive on paper, and the September
-filings that show who is paying for the measure campaigns.
+What is still open is quieter and mostly practical: two consultant contracts in City of Industry
+tomorrow morning, a transit service that shrinks September 1, four parking ordinances in Hawthorne, a
+rate hearing in Claremont where the only objection that counts has to arrive on paper, and the
+September filings that show who is paying for the measure campaigns.
 
 The five school and college bonds on the county line, and the two countywide questions that share it,
 are laid out with what each is asking for in
 [the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
 and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-## Tuesday, August 25, this afternoon: Glendale puts a number on its homeless count
+## Thursday, August 27, 9:00 a.m.: City of Industry spends $190,000 on two consultants
 
-- **Glendale, 3:00 p.m.**, joint special meeting of the City Council and the Housing Authority,
-  Council Chamber, 613 E. Broadway, 2nd Floor. **Item 2 is a motion to note and file the city's 2026
-  Homeless Point-in-Time Count**, taken twice, once by the council and once by the housing authority.
-  A note-and-file is not a vote on policy, which is exactly why it is easy to miss: the count is the
-  number the city will be working from for the next year, and this is the meeting where it lands on
-  the record. The agenda was typed and posted August 20 and carries no attachment with the figures,
-  so the count itself is in the item's backup at the city's public meeting portal. **The window for
-  written comment closed at 12:00 p.m. today.** Comment in person, by Zoom or by phone is still open;
-  the clerk's office is (818) 548-2090.
-- **Long Beach, 3:00 p.m.**, special meeting, Civic Chambers, 411 W. Ocean Boulevard. One item: a
-  continued budget hearing on the proposed fiscal year 2027 budget for Parks, Recreation and Marine
-  and for Library, Arts and Culture. Written comment goes to CityClerk@longbeach.gov.
+City Council chambers, 15651 Mayor Dave Way. This is routine contract business and the paper is listing
+it rather than writing about it, but the money is public and the meeting is tomorrow.
+
+- **Item 6.2, on the consent calendar**, is Amendment No. 1 to the city's agreement with GHD, Inc.,
+  extending it through December 31, 2027 and adding **$90,000**. The original $50,000 agreement, signed
+  by the city manager in July 2025, bought a feasibility study of the intersection at Mayor Dave Way,
+  Glendora Avenue, Old Valley Boulevard and Main Street. The staff memo says more engineering was needed
+  to weigh alternative layouts against the Union Pacific right-of-way. **A consent item is approved in a
+  single block with everything else on it unless a councilmember pulls it.**
+- **Item 7.1** is Amendment No. 2 with On Track Solutions, LLC for on-call railroad coordination,
+  extending the term to September 10, 2029 and adding **$100,000**.
+- Also on the agenda: a closed-session performance evaluation of the city clerk, and the register of
+  demands.
+
+Public comment runs one minute per person. Register at publicinput.com/cityofindustry, or call
+(855) 925-2801 and use meeting code 6943. The next regular meeting after this one is Thursday,
+September 10.
 
 ## Tuesday, September 1: San Dimas Dial-a-Cab stops running overnight
 
@@ -70,9 +78,9 @@ Hawthorne street, the comment window is between now and that vote.**
 
 The first regular meeting after the summer recess. The August 11 and August 25 regular meetings were
 cancelled, which is on page 8 of the July 28 agenda, so a resident checking the city's calendar in
-between would have found two empty Tuesdays and no explanation on the page itself. The September
-agenda is not posted yet; the clerk's office publishes agenda material generally on the Thursday
-before a meeting.
+between would have found two empty Tuesdays and no explanation on the page itself. **Checked again
+today: the September agenda is still not posted.** The clerk's office publishes agenda material
+generally on the Thursday before a meeting, which puts this one around September 3.
 
 ## Tuesday, September 22, 6:30 p.m.: the Claremont rate hearing, and the protest has to be on paper
 
