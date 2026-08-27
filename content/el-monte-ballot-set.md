@@ -19,7 +19,7 @@ sources:
     url: "https://www.elmonteca.gov/DocumentCenter/View/7848/Notice-of-Extended-Nomination-Period---City-Treasurer"
   - text: The city's own City Council page, which lists Jessica Ancona as Mayor and Viviana Longoria as Mayor Pro Tem
     url: "https://www.elmonteca.gov/342/City-Council"
-draft: true
+draft: false
 ---
 
 Candidate filing has closed for El Monte's November 3 election, and the city clerk's roster of qualified candidates, last updated August 13, sets out the field. Mayor Jessica Ancona will defend her seat against two challengers, Mayor Pro Tem Viviana Longoria and Christine R. Sarmiento.
