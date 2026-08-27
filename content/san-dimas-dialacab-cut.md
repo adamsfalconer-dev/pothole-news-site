@@ -17,7 +17,7 @@ sources:
     url: "https://sandimasca.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=16979"
   - text: The city's transportation page, which as of August 27 still describes Dial-a-Cab as operating twenty-four hours a day, seven days a week
     url: "https://www.sandimasca.gov/departments/city_managers_office/transportation.php"
-draft: true
+draft: false
 ---
 
 Dial-a-Cab, the shared-ride taxi any resident can call, stops running overnight Tuesday. From September 1 it runs 7 a.m. to 8 p.m. daily, a change the City Council approved 5-0 on July 28, per the clerk-attested action minutes. A rider who depends on the overnight window loses those trips that day.
