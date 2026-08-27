@@ -16,7 +16,7 @@ sources:
     url: "https://longbeach.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=ec5abc82-51d6-4945-8fe5-608ddc741d56"
   - text: The department's hearing presentation, with the average bill impact, the capital projects the rates would fund, and the September 8 and October 1 dates that follow tonight
     url: "https://longbeach.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=b3ed5e35-9f48-4ebf-81df-e8d57d598763"
-draft: true
+draft: false
 ---
 
 Long Beach Utilities' proposed increases for the coming year, 6 percent on water rates and 8 percent on sewer, reach their Proposition 218 hearing at 7 tonight at the utilities administration building, 1800 East Wardlow Road. By the department's own arithmetic, the two together add $5.74 a month to the average single-family bill: $4.64 of it water, $1.10 sewer.
