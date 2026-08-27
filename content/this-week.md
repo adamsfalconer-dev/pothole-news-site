@@ -2,64 +2,86 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-26
+date: 2026-08-27
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Wednesday, August 26. The clocks below run from today through
+_Desk-maintained listings, refreshed Thursday, August 27. The clocks below run from today through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
-at. Times and locations are the record's; confirm final details at the agency's site before you go._
+at. Where an entry rests on a check made on an earlier day, this page says which day. Times and
+locations are the record's; confirm final details at the agency's site before you go._
 
-**Two things on this page have already happened, and they are kept here in the past tense rather than
-deleted.** Rebuttal arguments on county, school and district measures were due Monday, August 24, and
-the public examination window, the period in which any person could go to court to have measure text
-or an argument amended or deleted, closed the same day. Diamond Bar's own rebuttal deadline on its
-1 percent sales tax measure closed at 5 p.m. that Monday under Resolution No. 2026-28. Nothing on that
-list can still be filed. On Tuesday, August 25, Glendale's council and housing authority met jointly at
-3 p.m. and took up the city's 2026 Homeless Point-in-Time Count, and Long Beach held a continued budget
-hearing on its parks and library departments. The paper has not yet reported what the Glendale count
-said, and it is not printing a figure it has not read at the record.
+**One thing on this page is happening tonight, and it is the only item here with hours left on it.**
+Long Beach Utilities holds the single Proposition 218 hearing on its proposed water and sewer
+increases at 7 p.m. this evening, and a protest has to be written, signed and received before that
+hearing closes. Everything else below runs from September 1 through September 24.
 
-What is still open is quieter and mostly practical: two consultant contracts in City of Industry
-tomorrow morning, a transit service that shrinks September 1, four parking ordinances in Hawthorne, a
-rate hearing in Claremont where the only objection that counts has to arrive on paper, and the
-September filings that show who is paying for the measure campaigns.
+**Three things have already happened and are kept here in the past tense rather than deleted.**
+Rebuttal arguments on county, school and district measures were due Monday, August 24, and the public
+examination window, the period in which any person could go to court to have measure text or an
+argument amended or deleted, closed the same day. Diamond Bar's own rebuttal deadline on its 1 percent
+sales tax measure closed at 5 p.m. that Monday under Resolution No. 2026-28. Nothing on that list can
+still be filed. On Tuesday, August 25, Glendale's council and housing authority met jointly and took
+up the city's 2026 Homeless Point-in-Time Count, and Long Beach held a continued budget hearing on its
+parks and library departments. And this morning, Thursday, August 27, the City of Industry council met
+at 9 a.m. with two consultant contract amendments worth $190,000 on its agenda: $90,000 added to a GHD,
+Inc. traffic study on the consent calendar, and $100,000 added to an On Track Solutions railroad
+coordination agreement. The paper has not yet read what the council did with them, and it is not
+printing an outcome it has not seen.
+
+The September filings that show who is paying for the measure campaigns close out the window.
 
 The five school and college bonds on the county line, and the two countywide questions that share it,
 are laid out with what each is asking for in
 [the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
 and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-## Thursday, August 27, 9:00 a.m.: City of Industry spends $190,000 on two consultants
+## Tonight, Thursday, August 27, 7:00 p.m.: Long Beach's one protest hearing on water and sewer rates
 
-City Council chambers, 15651 Mayor Dave Way. This is routine contract business and the paper is listing
-it rather than writing about it, but the money is public and the meeting is tomorrow.
+Long Beach Utilities administration building, 1800 East Wardlow Road. The proposal is a 6 percent
+increase on water rates and 8 percent on sewer, which by the department's own arithmetic adds **$5.74
+a month to the average single-family bill**, $4.64 of it water and $1.10 sewer.
 
-- **Item 6.2, on the consent calendar**, is Amendment No. 1 to the city's agreement with GHD, Inc.,
-  extending it through December 31, 2027 and adding **$90,000**. The original $50,000 agreement, signed
-  by the city manager in July 2025, bought a feasibility study of the intersection at Mayor Dave Way,
-  Glendora Avenue, Old Valley Boulevard and Main Street. The staff memo says more engineering was needed
-  to weigh alternative layouts against the Union Pacific right-of-way. **A consent item is approved in a
-  single block with everything else on it unless a councilmember pulls it.**
-- **Item 7.1** is Amendment No. 2 with On Track Solutions, LLC for on-call railroad coordination,
-  extending the term to September 10, 2029 and adding **$100,000**.
-- Also on the agenda: a closed-session performance evaluation of the city clerk, and the register of
-  demands.
+**The rules are strict and they are what catch people out.** Only a written protest counts toward
+stopping the rates. It has to be signed by hand by the account holder and carry a name and a street
+address, an assessor's parcel number, or an account number. **Electronic signatures are not accepted,
+and speaking during public comment does not count as a protest unless a signed one is turned in with
+it.** One protest is counted per account, and a tenant who pays the water bill directly may file one,
+not only the property owner.
 
-Public comment runs one minute per person. Register at publicinput.com/cityofindustry, or call
-(855) 925-2801 and use meeting code 6943. The next regular meeting after this one is Thursday,
-September 10.
+A protest can be brought to the hearing itself, where blank forms will be available, emailed as a
+completed scan to commission@lbutilities.org, or mailed or hand-delivered to the executive assistant
+to the board at 1800 East Wardlow Road. **However it travels, it has to be received before the hearing
+closes.** The board's executive assistant tabulates protests as soon as it does and reports the result.
+If a majority of affected ratepayers file valid written protests, the board cannot adopt the increases.
+
+A separate door has already shut. Under a state law effective January 2025, only a ratepayer who filed
+a timely written objection by August 20 may later challenge these rates in court. The department
+received 203 such objections and its general manager has recommended the board proceed anyway.
+
+The full account, including what the money would build and where a household behind on its bill can
+call, is in
+[the paper's story on tonight's hearing](/long-beach-prop218-rate-hearing/).
+
+**What follows:** the City Council takes the rates up September 8. If approved they take effect
+October 1 and appear on bills issued after that date. A separate utilities commission special meeting
+is noticed for 6:30 p.m. tonight; it is not the Proposition 218 hearing.
 
 ## Tuesday, September 1: San Dimas Dial-a-Cab stops running overnight
 
-Dial-a-Cab drops from 24-hour service to a 7:00 a.m. to 8:00 p.m. schedule on this date, under item
-OB1 of the July 28 San Dimas City Council and Housing Authority meeting. **A rider who uses the
-service for an early shift, a night shift, a dialysis appointment or a hospital discharge loses those
-trips that day.** Riders who depend on the overnight window are the people this change reaches first,
-and the change takes effect without any further vote.
+Dial-a-Cab, the shared-ride taxi any resident can call, drops from 24-hour service to a 7 a.m. to
+8 p.m. schedule on this date, under item OB1 of the July 28 San Dimas City Council and Housing
+Authority meeting, approved 5-0. **A rider who uses the service for an early shift, a night shift, a
+dialysis appointment or a hospital discharge loses those trips that day.** The change takes effect
+without any further vote, and as of Thursday the city's own transportation page still described the
+service as running twenty-four hours a day.
+
+Get About, the book-ahead senior and disabled service, runs weekdays 8 to 5 and Saturdays 8 to 2.
+[The paper's story on the cut](/san-dimas-dialacab-cut/) has the costs behind it and the county
+evaluation that counted who rides overnight.
 
 ## Tuesday, September 8: Hawthorne's parking ordinances come up for adoption
 
@@ -78,9 +100,10 @@ Hawthorne street, the comment window is between now and that vote.**
 
 The first regular meeting after the summer recess. The August 11 and August 25 regular meetings were
 cancelled, which is on page 8 of the July 28 agenda, so a resident checking the city's calendar in
-between would have found two empty Tuesdays and no explanation on the page itself. **Checked again
-today: the September agenda is still not posted.** The clerk's office publishes agenda material
-generally on the Thursday before a meeting, which puts this one around September 3.
+between would have found two empty Tuesdays and no explanation on the page itself. **As of the paper's
+last reading of the clerk's agenda page on Wednesday, August 26, no September agenda was posted.** The
+clerk's office generally publishes agenda material on the Thursday before a meeting, which puts this
+one around September 3.
 
 ## Tuesday, September 22, 6:30 p.m.: the Claremont rate hearing, and the protest has to be on paper
 
