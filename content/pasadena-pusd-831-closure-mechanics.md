@@ -26,7 +26,7 @@ sources:
     url: "https://pusd.granicus.com/ViewPublisher.php?view_id=15"
   - text: The district's school directory, which lists Octavia E. Butler Magnet, Pasadena High School, John Muir High School Early College Magnet, Thurgood Marshall Secondary School, Blair School and the elementary schools named in the scenarios
     url: "https://www.pusd.us/schools"
-draft: true
+draft: false
 ---
 
 A worksheet attached to Pasadena Unified's Monday night agenda lists ten possible school consolidations. Each is written as an arrow. The school on the left is the one whose students would move; the school on the right is the one that would take them in.
