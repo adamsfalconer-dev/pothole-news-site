@@ -20,7 +20,7 @@ sources:
     url: "https://www.lavote.gov/Apps/CandidateList/Index?id=4300"
   - text: The county registrar's candidate list for the November 5, 2024 general election, on which Norwalk-La Mirada Unified board candidates filed by trustee area for Areas 1, 3 and 7
     url: "https://www.lavote.gov/Apps/CandidateList/Index?id=4324"
-draft: true
+draft: false
 ---
 
 Seven candidates are on the Los Angeles County registrar's list for Norwalk-La Mirada Unified's four November 3 school board contests, and the only name in Trustee Area 5 is Mark Copland, the sitting trustee the board itself appointed this year. The seat that appointment filled is not Area 5. It is Area 6, and Area 6 is a contested race on the same ballot.
