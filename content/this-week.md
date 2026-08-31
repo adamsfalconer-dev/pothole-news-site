@@ -2,21 +2,23 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-30
+date: 2026-08-31
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Sunday, August 30. The clocks below run from today through
+_Desk-maintained listings, refreshed Monday, August 31. The clocks below run from today through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
 at. Where an entry rests on a check made on an earlier day, this page says which day. Times and
 locations are the record's; confirm final details at the agency's site before you go._
 
-**The next thing a reader can act on is tomorrow, Monday, August 31,** when the Pasadena Unified
+**The next thing a reader can act on is tonight, Monday, August 31,** when the Pasadena Unified
 school board meets twice in one night, at 6 p.m. and again at 8:30 p.m., on the process that will
-decide which schools close. Public comment at both is limited to what is on those agendas. On
+decide which schools close. Both meetings were still listed on the district's meeting portal when
+the paper checked it at 2:20 p.m. today. Public comment at both is limited to what is on those
+agendas. On
 Tuesday, September 1, the South El Monte City Council takes up an item to reconsider pulling a
 measure off the November ballot, written comment due by 5 p.m. that evening, and San Dimas cuts
 overnight Dial-a-Cab service the same day. Everything else below runs from September 8 through
@@ -137,7 +139,10 @@ The proposal is a 6 percent increase on water rates and 8 percent on sewer, whic
 own arithmetic adds **$5.74 a month to the average single-family bill**, $4.64 of it water and $1.10
 sewer. The Proposition 218 protest window closed with the utilities commission hearing on the evening
 of Thursday, August 27, and **the paper has not yet read how many valid written protests were filed or
-what the commission did.** It has looked four times since and found only the agenda. If the council
+what the commission did.** It has looked five times since and found only the agenda. Long Beach has
+posted 231 sets of minutes across its 2026 meetings, and this body posted them for every regular
+meeting through July 16, so the gap is a real lag at the city rather than a page the paper cannot
+reach. If the council
 approves the rates on September 8 they take effect October 1 and appear on bills issued after that
 date.
 
