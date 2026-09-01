@@ -2,27 +2,30 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-08-31
+date: 2026-09-01
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Monday, August 31. The clocks below run from today through
+_Desk-maintained listings, refreshed Tuesday, September 1. The clocks below run from today through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
 at. Where an entry rests on a check made on an earlier day, this page says which day. Times and
 locations are the record's; confirm final details at the agency's site before you go._
 
-**The next thing a reader can act on is tonight, Monday, August 31,** when the Pasadena Unified
-school board meets twice in one night, at 6 p.m. and again at 8:30 p.m., on the process that will
-decide which schools close. Both meetings were still listed on the district's meeting portal when
-the paper checked it at 2:20 p.m. today. Public comment at both is limited to what is on those
-agendas. On
-Tuesday, September 1, the South El Monte City Council takes up an item to reconsider pulling a
-measure off the November ballot, written comment due by 5 p.m. that evening, and San Dimas cuts
-overnight Dial-a-Cab service the same day. Everything else below runs from September 8 through
-September 24.
+**The next thing a reader can act on is Tuesday, September 1,** when the South El Monte City Council
+takes up an item to reconsider pulling a measure off the November ballot. Written comment to the city
+clerk is due by 5 p.m. that evening and the meeting starts at 6 p.m.; the paper confirmed at the
+city's meeting portal at 2:09 p.m. on September 1 that the meeting is published and has not been
+cancelled. San Dimas cuts overnight Dial-a-Cab service the same day. Everything else below runs from
+September 8 through September 24.
+
+_A note on how this page states dates, added September 1 after the same sentence went wrong twice.
+Entries here are named by their date and weekday rather than by a word like "tonight" or "tomorrow."
+Those words are correct when the page is published and become false at midnight without anything
+changing on the page, which is what happened on August 30 and again on August 31. A date that has
+passed reads as a date that has passed. A relative word read a day late reads as a live deadline._
 
 **Four things have already happened and are kept here in the past tense rather than deleted.**
 Rebuttal arguments on county, school and district measures were due Monday, August 24, and the public
@@ -46,34 +49,42 @@ are laid out with what each is asking for in
 [the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
 and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-## Monday, August 31, 6:00 p.m. and 8:30 p.m.: Pasadena Unified meets twice on which schools close
+## Monday, August 31: Pasadena Unified met twice on which schools close, and the record of what it did has not posted
 
-Elbie J. Hickambottom Board Room #236, 351 S. Hudson Avenue, Pasadena. **Two separate special
-meetings, two separate agendas, two separate comment windows, and neither agenda names a school.**
+**These two meetings have happened. This section is kept in the past tense rather than deleted,
+because the September 3 date they point at is still ahead.** Elbie J. Hickambottom Board Room #236,
+351 S. Hudson Avenue, Pasadena. Two separate special meetings, two separate agendas, two separate
+comment windows, and neither agenda named a school.
 
-At **6 p.m.** the board sits as a committee of the whole with one item: continue defining the
+**The paper has not read an outcome and is not printing one.** As of the morning of September 1
+the district's meeting portal carried no video, no minutes and no archive entry for either meeting,
+and the 6 p.m. meeting was still listed as upcoming. The newest archived item on that portal is dated
+August 27. What follows is what the two agendas asked the board to do, not what the board did.
+
+At **6 p.m.** the board was to sit as a committee of the whole with one item: continue defining the
 district transformation process. Its own agenda says the committee will "develop a recommendation for
 consideration and approval by the Governing Board at the September 3rd, 2026, Special Board Meeting."
 
-At **8:30 p.m.** the board takes up six action items. Two ask it to reconsider matters it tabled on
-August 13, one of them the information the board says it needs to decide which schools to close. Four
-are new, and they ask the board to approve a modified transformation committee, to fold the closure
-data and the date of the closure vote into that committee's scope, and to approve the committee's
-next agenda and scope of work "including but not limited to removing some schools from the potential
-closure list and meeting dates."
+At **8:30 p.m.** the board was to take up six action items. Two asked it to reconsider matters it
+tabled on August 13, one of them the information the board says it needs to decide which schools to
+close. Four were new, and they asked the board to approve a modified transformation committee, to
+fold the closure data and the date of the closure vote into that committee's scope, and to approve
+the committee's next agenda and scope of work "including but not limited to removing some schools
+from the potential closure list and meeting dates."
 
 **Ten possible school consolidations are named in an attachment to that agenda, and not in the agenda
 itself.** [The paper's account of the packet](/pasadena-pusd-831-closure-mechanics/) lists all ten
 pairings, what the committee options are, and which one of the three has a seat for a member of the
 public.
 
-**Two dates a reader should hold onto.** The district's public meeting list carries only these two
-Monday meetings and then a regular board meeting on September 24. But both Monday agendas name a
-**special board meeting on Thursday, September 3**, which that list does not carry. No agenda for
-September 3 has been posted, so this page does not list it as a meeting; it is recorded here because
-the district's own posted agendas name the date twice.
+**The date a reader should hold onto.** The district's public meeting list carries these two August 31
+meetings and then a regular board meeting on September 24. Both August 31 agendas name a **special
+board meeting on Thursday, September 3**, which that list does not carry. As of the morning of
+September 1 no agenda for September 3 had been posted, so this page still does not list it as a
+meeting; it is recorded here because the district's own posted agendas name the date twice.
 
-**How to be heard, from the agendas' own notice, which is identical for both meetings.** Comment is
+**How comment worked at those two meetings, from the agendas' own notice, which was identical for
+both.** Comment is
 limited to items scheduled on that meeting's agenda. Speakers get three minutes, and if total
 speaking time would run past thirty minutes the board may cut that to one or two minutes; time cannot
 be given to another speaker. Written comment goes to publiccomment@pusd.us marked "Public Comment,"
@@ -83,7 +94,8 @@ least 24 hours before the meeting starts. The meetings are broadcast on Charter 
 at live.boardmeetings.info.
 
 _Source: the two agendas for the August 31, 2026 special meetings, events 634 and 635 on the
-district's Granicus meeting portal, read by the paper at that portal on August 30._
+district's Granicus meeting portal, read by the paper at that portal on August 30. The absence of any
+posted outcome was checked at the same portal on the morning of September 1._
 
 ## Tuesday, September 1, 6:00 p.m.: South El Monte's council takes up removing a measure from the ballot
 
