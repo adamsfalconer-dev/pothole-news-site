@@ -2,24 +2,23 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-09-02
+date: 2026-09-04
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Wednesday, September 2. The clocks below run from today through
+_Desk-maintained listings, refreshed Friday, September 4. The clocks below run from today through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
 at. Where an entry rests on a check made on an earlier day, this page says which day. Times and
 locations are the record's; confirm final details at the agency's site before you go._
 
-**The next thing a reader can act on is Thursday, September 3,** when the Pasadena Unified board
-meets at 7 p.m. as a committee of the whole to edit its draft definition of the district
-transformation process. The agenda posted after this page was last rebuilt, and the paper read it at
-the district's meeting portal at 2:12 p.m. on September 2. Written comment goes to
-publiccomment@pusd.us before the meeting and is not read aloud. Everything else below runs from
-September 8 through September 24.
+**The next things a reader can act on are on Tuesday, September 8,** when Claremont's council comes
+back from recess with its agenda now posted, Long Beach's council takes up the water and sewer
+increases, and Hawthorne's four parking ordinances come up for the adoption vote. **Two days after
+that, Pasadena Unified has added a special board meeting on Thursday, September 10, that was not on
+its calendar when this page was last rebuilt.**
 
 _A note on how this page states dates, added September 1 after the same sentence went wrong twice.
 Entries here are named by their date and weekday rather than by a word like "tonight" or "tomorrow."
@@ -27,78 +26,116 @@ Those words are correct when the page is published and become false at midnight 
 changing on the page, which is what happened on August 30 and again on August 31. A date that has
 passed reads as a date that has passed. A relative word read a day late reads as a live deadline._
 
-## Thursday, September 3, 7:00 p.m.: Pasadena Unified takes up its transformation definition, and the approval it was going to vote on has moved
+## Tuesday, September 8, 6:30 p.m.: Claremont's council comes back, and the rate hearing is not on this agenda
 
-Elbie J. Hickambottom Board Room #236, 351 S. Hudson Avenue, Pasadena, with a teleconference
-location at 595 N. Garfield Avenue. This is a special meeting of the board sitting as a committee of
-the whole.
+The first regular meeting after the summer recess, in the Council Chamber at 225 Second Street. The
+August 11 and August 25 regular meetings were cancelled, which is on page 8 of the July 28 agenda, so
+a resident checking the city's calendar in between would have found two empty Tuesdays and no
+explanation on the page itself.
 
-**The agenda carries two discussion items and nothing else.** The first is a recap of the board's
-work to define and clarify the district transformation process. The second has board members editing
-the facilitator's drafted definition of that process, synthesizing the work done at the August 13
-special meeting, with each member having reviewed the August 31 facilitation notes and the drafted
-definition, so that a finalized definition "can be recommended for approval at a subsequent regular
-board meeting."
+**The agenda has now posted.** The paper could not read one on August 26, August 28 or September 2,
+and this page said so each time. The city clerk's certification on the document says it was posted at
+City Hall on September 3.
 
-**That last phrase is the change worth catching.** Both August 31 agendas said the committee would
-develop a recommendation "for consideration and approval by the Governing Board at the September
-3rd, 2026, Special Board Meeting." The agenda that actually posted for September 3 does not do that.
-It moves the approval to a later regular meeting it does not name. The district's own list of
-upcoming meetings shows the next regular board meeting as **Thursday, September 24 at 5 p.m.**
+**The Proposition 218 sewer, sanitation and street-sweeping rate hearing is not on it.** That matters
+for anyone planning to show up on the 8th to be heard on the rates. The hearing appears instead in the
+agenda's own "A Look Ahead" list of tentative items for the next regular meeting, **September 22**,
+which is where this page already had it.
 
-**No school is named on this agenda, and no closure decision is on it.** The September 3 agenda
-lists the two discussion items above and adjournment. The ten possible consolidations that appeared
-in an attachment to the August 31 packet are not on it.
-[The paper's account of that packet](/pasadena-pusd-831-closure-mechanics/) lists all ten pairings
-and what the committee options are.
+**What is on the September 8 agenda.** Two public hearings, neither of which begins before 7 p.m.: a
+federal tax hearing on the issuance of up to $25 million in revenue bonds by the California Municipal
+Finance Authority for the benefit of the Claremont Colleges, and the first reading of an ordinance
+amending the drive-through restaurant rules in municipal code chapter 16.093, which would let existing
+drive-throughs that became legal nonconforming uses after a zone change or nearby housing be modified.
+The item to watch if you follow housing is number 10, an **inclusionary housing program update** at
+which staff asks the council for policy direction on the in-lieu fee approval process for
+developments of seven or more units, and, if warranted, to direct an ordinance amendment. The consent
+calendar carries a $260,050.20 basketball court replacement contract for Joāt and Griffith parks with
+a ten percent contingency.
 
-**How to be heard, from the agenda's own notice.** Comment is limited to items scheduled on this
-agenda. Speakers get three minutes, and if the time needed to hear everyone would run past thirty
-minutes the board may cut that to one or two minutes; time cannot be given to another speaker.
-Written comment goes to publiccomment@pusd.us marked "Public Comment," is made part of the archived
-agenda documents and **is not read aloud.** Spanish and ASL interpretation must be requested at the
-same address at least 24 hours before the meeting starts. The meeting is broadcast on Charter cable
-channel 95 and at live.boardmeetings.info.
+**How to be heard.** Three minutes a speaker, in person at the podium, by Zoom using the raise-hand
+feature, or by telephone if you contact the city clerk by 3 p.m. on the day of the meeting to leave a
+callback number. Written comment to the clerk is distributed to the council and imaged into the
+record. General public comment is capped at 30 minutes and resumes later in the meeting for anyone
+who did not get a turn.
 
-_Source: the September 3, 2026 meeting notice and agenda, event 636 on the district's Granicus
-meeting portal, read by the paper at that portal on September 2._
+_Source: the September 8, 2026 Claremont City Council agenda on the city's Legistar portal, read by
+the paper on September 4._
 
-## Monday, August 31: the video of the first Pasadena Unified meeting has posted. The second meeting has not.
+## Tuesday, September 8: Long Beach's council takes up the water and sewer increases
 
-**These two meetings have happened.** This section is kept in the past tense rather than deleted,
-because what the board did that night is what the September 3 meeting builds on.
+The proposal is a 6 percent increase on water rates and 8 percent on sewer, which by the department's
+own arithmetic adds **$5.74 a month to the average single-family bill**, $4.64 of it water and $1.10
+sewer. The Proposition 218 protest window closed with the utilities commission hearing on the evening
+of Thursday, August 27, and **the paper has not yet read how many valid written protests were filed
+or what the commission did.** It has looked five times since and found only the agenda. Long Beach
+has posted 231 sets of minutes across its 2026 meetings, and this body posted them for every regular
+meeting through July 16, so the gap is a real lag at the city rather than a page the paper cannot
+reach. If the council approves the rates on September 8 they take effect October 1 and appear on
+bills issued after that date.
 
-**What is now on the record, and it changed since this page was last rebuilt.** The district's
-archive now carries the **6 p.m. committee of the whole** as a recording that runs 1 hour 29 minutes,
-with its agenda. It carries **no minutes** for that meeting. That absence is a real one rather than a
-page the paper could not read: the same portal page carries 546 minutes links for other meetings.
+A separate door shut earlier. Under a state law effective January 2025, only a ratepayer who filed a
+timely written objection by August 20 may later challenge these rates in court. The department
+received 203 such objections and its general manager recommended the board proceed anyway.
 
-**The paper has still not read what the board did, and is not printing an outcome it has not read.**
-The posted recording has no usable caption track, checked three times on September 2 against a
-working control. This paper has no way to read a video that carries no transcript, so a recording
-that exists is not the same as a record it can report from.
+The full account, including what the money would build and where a household behind on its bill can
+call, is in [the paper's story on the hearing](/long-beach-prop218-rate-hearing/).
 
-**The 8:30 p.m. special meeting is still not on the record at all.** That is the meeting with six
-action items, including the two the board tabled on August 13 and the item folding the closure data
-and the date of the closure vote into the transformation committee's scope. It has no archive entry,
-no recording and no minutes.
+## Tuesday, September 8: Hawthorne's parking ordinances come up for adoption
 
-**One thing the September 3 agenda does establish.** It says board members will have reviewed "the
-8/31 Facilitation Notes," so notes from the August 31 committee meeting exist as a document. What
-they say is not public on the portal.
+Four ordinances introduced on first reading July 14 are scheduled for the adoption vote, and the staff
+recommendation on each one names this date. **The one to read is No. 2267.** It amends chapter 10.36
+to modify designated paid parking zones, establish employee parking permits, authorize special-event
+parking management and authorize a residential driveway parking permit program, and it authorizes
+parking fees, permit fees, special-event rates **and parking citation penalties to be set by
+resolution.** Moving penalties to a resolution means a future council can change what a ticket costs
+without passing an ordinance. The other three: No. 2266 creates e-bike regulations in a new chapter
+10.78; No. 2268 repeals chapter 10.38 and replaces it with a residential parking permit program in a
+new chapter 10.39; No. 2269 establishes an employer parking permit program. **If you park on a
+Hawthorne street, the comment window is between now and that vote.**
 
-At **6 p.m.** the board was to sit as a committee of the whole with one item: continue defining the
-district transformation process. At **8:30 p.m.** it was to take up six action items, four of them
-new, asking it to approve a modified transformation committee, to fold the closure data and the date
-of the closure vote into that committee's scope, and to approve the committee's next agenda and scope
-of work "including but not limited to removing some schools from the potential closure list and
-meeting dates."
+## Thursday, September 10, 7:00 p.m.: Pasadena Unified has added a special board meeting, and no agenda has posted
 
-_Source: the two agendas for the August 31, 2026 special meetings, events 634 and 635 on the
-district's Granicus meeting portal, read by the paper at that portal on August 30. The state of the
-archive was re-checked at the same portal on September 2._
+**This meeting is new to this page.** It was not on the district's calendar when the paper read the
+portal on September 2, and it is there now, listed under Upcoming Events as a Special Board Meeting
+at 7 p.m. on September 10.
+
+**No agenda has posted for it.** The portal's upcoming rows carry no agenda link, while every
+archived meeting on the same page does, so this is an agenda that has not been published rather than
+one the paper could not open. **What the meeting is for is therefore not on the record**, and this
+page is not going to guess from the fact that the board's transformation work is in front of it.
+Anyone who cares what happens to a Pasadena school should watch the portal for the agenda between now
+and the 10th.
+
+_Source: the district's Granicus meeting portal, view 15, read by the paper on September 4._
 
 ## What has already happened, kept here in the past tense rather than deleted
+
+**Thursday, September 3: Pasadena Unified's committee of the whole met for nearly five hours, and
+the paper has not read what it did.** The meeting was noticed as two discussion items and adjournment:
+a recap of the board's work defining the district transformation process, and board members editing
+the facilitator's drafted definition so a finalized version "can be recommended for approval at a
+subsequent regular board meeting." **The district's archive now shows it started at 6:43 p.m. and ran
+4 hours 50 minutes.** An agenda and a video are posted. **No minutes are.** A two-item discussion
+agenda that takes nearly five hours is worth an account, and the record does not yet supply one: a
+recording that carries no usable transcript cannot be read here, and an outcome nobody has read does
+not get printed.
+
+What the September 3 agenda did establish is on the record and worth keeping. Both August 31 agendas
+had said the committee would develop a recommendation for approval by the board **at that September 3
+meeting.** The agenda that actually posted moved the approval to a later regular meeting it did not
+name. **No school was named on the September 3 agenda and no closure decision was on it.** The ten
+possible consolidations that appeared in an attachment to the August 31 packet were not on it.
+[The paper's account of that packet](/pasadena-pusd-831-closure-mechanics/) lists all ten pairings and
+what the committee options are.
+
+**Monday, August 31: the video of the first meeting posted; the second meeting is still not on the
+record at all.** The archive carries the 6 p.m. committee of the whole as a recording running 1 hour
+29 minutes, with its agenda and no minutes. That absence is a real one rather than a page the paper
+could not read: the same portal carries minutes links for other meetings. **The 8:30 p.m. special
+meeting has no archive entry, no recording and no minutes**, re-checked September 4. That is the
+meeting with six action items, including the two the board tabled on August 13 and the item folding
+the closure data and the date of the closure vote into the transformation committee's scope.
 
 **Tuesday, September 1: South El Monte's council took up removing a measure from the ballot.** Item
 12.a of the agenda listed two sub-items, the second reading in full: "Reconsider removing Measure RM
@@ -139,52 +176,17 @@ are laid out with what each is asking for in
 [the paper's account of the August 14 filing deadline](/county-regional-school-bond-argument-deadline-august14/)
 and in [the wider survey of every argument deadline in the footprint](/county-regional-november-ballot-argument-deadlines/).
 
-## Tuesday, September 8: Long Beach's council takes up the water and sewer increases
+## Also open now: Glendale's water rate protest window, which runs until November 3
 
-The proposal is a 6 percent increase on water rates and 8 percent on sewer, which by the department's
-own arithmetic adds **$5.74 a month to the average single-family bill**, $4.64 of it water and $1.10
-sewer. The Proposition 218 protest window closed with the utilities commission hearing on the evening
-of Thursday, August 27, and **the paper has not yet read how many valid written protests were filed
-or what the commission did.** It has looked five times since and found only the agenda. Long Beach
-has posted 231 sets of minutes across its 2026 meetings, and this body posted them for every regular
-meeting through July 16, so the gap is a real lag at the city rather than a page the paper cannot
-reach. If the council approves the rates on September 8 they take effect October 1 and appear on
-bills issued after that date.
-
-A separate door shut earlier. Under a state law effective January 2025, only a ratepayer who filed a
-timely written objection by August 20 may later challenge these rates in court. The department
-received 203 such objections and its general manager recommended the board proceed anyway.
-
-The full account, including what the money would build and where a household behind on its bill can
-call, is in [the paper's story on the hearing](/long-beach-prop218-rate-hearing/).
-
-## Tuesday, September 8: Hawthorne's parking ordinances come up for adoption
-
-Four ordinances introduced on first reading July 14 are scheduled for the adoption vote, and the staff
-recommendation on each one names this date. **The one to read is No. 2267.** It amends chapter 10.36
-to modify designated paid parking zones, establish employee parking permits, authorize special-event
-parking management and authorize a residential driveway parking permit program, and it authorizes
-parking fees, permit fees, special-event rates **and parking citation penalties to be set by
-resolution.** Moving penalties to a resolution means a future council can change what a ticket costs
-without passing an ordinance. The other three: No. 2266 creates e-bike regulations in a new chapter
-10.78; No. 2268 repeals chapter 10.38 and replaces it with a residential parking permit program in a
-new chapter 10.39; No. 2269 establishes an employer parking permit program. **If you park on a
-Hawthorne street, the comment window is between now and that vote.**
-
-## Tuesday, September 8, 6:30 p.m.: Claremont's council comes back
-
-The first regular meeting after the summer recess. The August 11 and August 25 regular meetings were
-cancelled, which is on page 8 of the July 28 agenda, so a resident checking the city's calendar in
-between would have found two empty Tuesdays and no explanation on the page itself. **The paper has
-still not read a September agenda for this meeting.** Its last successful reading of the clerk's
-agenda page was Wednesday, August 26, when nothing for September was posted; attempts on August 28
-and again on September 2 did not reach a readable index. The clerk's office generally publishes
-agenda material on the Thursday before a meeting, which puts this one around September 3.
+The Glendale City Council voted September 1 to mail the Proposition 218 notices for a five-year water
+rate increase. The hearing is 6 p.m. Tuesday, November 3, at 613 E. Broadway, and the protest window
+closes when the hearing ends. **A protest may be filed by the record owner or by a tenant** on any
+parcel that receives city water, one counted per parcel, and it has to be on paper with an original
+signature. Emailed, faxed and spoken objections are not counted. Four community meetings on the rates
+are set for October 7, 15, 17 and 24.
+[The paper's story](/glendale-water-rate-218-authorized/) has the filing rules in full.
 
 ## Tuesday, September 22, 6:30 p.m.: the Claremont rate hearing, and the protest has to be on paper
-
-Putting this here weeks early is deliberate, because the filing rule is the part that catches people
-out.
 
 Claremont has mailed a Proposition 218 notice setting a public hearing on proposed sewer, sanitation
 and street-sweeping rate increases, in the Council Chamber at 225 W. Second Street. **A written
@@ -194,14 +196,16 @@ e-mail protests are expressly not accepted.** One protest is counted per parcel,
 protest of affected parcels defeats the rates. The notice does not say how many parcels are affected,
 so what a majority would take is not on the record.
 
+The September 8 agenda's look-ahead list confirms the hearing is set for this meeting, read September 4.
+
 The full account of what the studies propose, and what about $30 a month by 2030 means on a household
 bill, is in
 [the paper's story on the rate studies](/claremont-sewer-trash-rate-studies/).
 
 ## Thursday, September 24: two things land the same day
 
-**Pasadena Unified's next regular board meeting** is at 5 p.m., per the district's own list of
-upcoming meetings read September 2. No agenda for it has posted yet. This is the kind of meeting at
+**Pasadena Unified's next regular board meeting** is at 5 p.m., confirmed on the district's own list
+of upcoming meetings read September 4. No agenda for it has posted yet. This is the kind of meeting at
 which the transformation definition worked on September 3 could come back for approval.
 
 **The first pre-election campaign statements are due,** covering July 1 through September 19, from any
