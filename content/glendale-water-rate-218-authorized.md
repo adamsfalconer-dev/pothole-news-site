@@ -14,7 +14,7 @@ sources:
     url: "https://youtube.com/watch?v=zWUeUhZR6D4"
   - text: Draft Proposition 218 notice of public hearing and proposed water rate changes, 8 pages, carrying the protest rules quoted here
     url: "https://glendaleca.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=19886db9-39ac-4b69-acd5-5741c7889bc0"
-draft: true
+draft: false
 ---
 
 The Glendale City Council voted Tuesday, Sept. 1, to mail the legal notices for a five-year water rate increase, which starts the protest process that can block it.
