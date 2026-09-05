@@ -16,7 +16,7 @@ sources:
     url: "https://industryca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1981,plainText=false)"
   - text: First Public Hydrogen Authority board agenda packet for July 16, 2026, carrying the proposed fiscal 2026/27 budget, its staff report, and the treasurer's report for the year ended June 30
     url: "https://industryca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=934,plainText=false)"
-draft: true
+draft: false
 ---
 
 The public hydrogen agency that City of Industry helped create adopted its 2026-27 budget on July 16, and the single largest thing that budget counts on is money from selling hydrogen: $6,869,760 in sales, or $1,941,065 after the cost of the fuel itself. That net figure is 41 percent of the $4,716,065 the agency forecast it would have coming in this year.
