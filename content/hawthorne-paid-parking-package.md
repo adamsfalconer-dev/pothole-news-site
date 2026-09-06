@@ -12,7 +12,7 @@ sources:
     url: "https://public.destinyhosted.com/hawthdocs/2026/CC/20260908_382/AGENDApacket_09-08-26_0558_376.pdf"
   - text: Agenda for the Sept. 8, 2026 Hawthorne City Council regular meeting, with participation instructions
     url: "https://public.destinyhosted.com/42984/agenda/agenda.cfm?seq=376"
-draft: true
+draft: false
 ---
 
 Parking in Hawthorne is scheduled to get a price list Tuesday night. The city council votes on a single citywide fee schedule that would charge $1 an hour at the curb on Hawthorne Boulevard, $25 a year for a household's first residential parking permit and $500 a year for its fourth, and by its own terms would take effect immediately upon adoption.
