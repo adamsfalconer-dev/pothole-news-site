@@ -17,7 +17,7 @@ sources:
     url: "https://montereyparkca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5525,plainText=false)"
   - text: The action minutes of the Sept. 2, 2026 regular meeting, which carry no transit item
     url: "https://montereyparkca.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5544,plainText=false)"
-draft: true
+draft: false
 ---
 
 Monterey Park spent more than three months shopping for a company to run its buses, its on-demand shuttle and its dial-a-ride service under one contract. On Aug. 19 the city council rejected every bid it got, including the one its own public works director recommended, and told staff to come back with options.
