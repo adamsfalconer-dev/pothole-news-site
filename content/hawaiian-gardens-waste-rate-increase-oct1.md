@@ -15,7 +15,7 @@ sources:
     url: "https://hgcity.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=eaeb4c28-3c85-4307-ae13-28e385dc30b0"
   - text: Notice of Public Hearing Concerning Proposed Rate Increases to Solid Waste Service Fees
     url: "https://hgcity.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=38cf2704-c198-444f-800f-d231bb01aed3"
-draft: true
+draft: false
 ---
 
 Trash bills in Hawaiian Gardens go up 3.26 percent on Oct. 1. The City Council voted 5-0 on Aug. 26 to approve the increase, after City Clerk Pablo Rubio told the council there had been no majority protest, meaning written objections had not come in from more than half of the affected properties. Councilmember Victor Farfan made the motion and Mayor Pro Tem Luis Roa seconded it.
