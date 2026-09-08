@@ -16,7 +16,7 @@ sources:
     url: "https://library.municode.com/ca/long_beach/codes/municipal_code?nodeId=TIT10VETR_CH10.48BI"
   - text: California Vehicle Code section 312.5, the state's e-bike class definitions
     url: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=312.5"
-draft: true
+draft: false
 ---
 
 Starting Friday, Sept. 25, riding a Class 3 electric bike on any sidewalk in Long Beach is illegal, an infraction that carries a fine of up to $100. The City Council adopted the ban 7-0 on Aug. 18, with two members absent; Mayor Rex Richardson signed it Aug. 25, and under the ordinance's own terms it takes effect on the 31st day after his approval.
