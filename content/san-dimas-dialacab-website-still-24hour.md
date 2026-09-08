@@ -18,7 +18,7 @@ sources:
     url: "https://www.pvtrans.org/programs/san-dimas-dial-a-cab/"
   - text: The clerk-attested action minutes of the July 28, 2026 San Dimas City Council meeting, recording the 5-0 vote that cut Dial-a-Cab to 7 a.m. to 8 p.m. effective September 1
     url: "https://sandimasca.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=17019"
-draft: true
+draft: false
 ---
 
 San Dimas cut Dial-a-Cab, the shared-ride taxi any resident can call, to 7 a.m. to 8 p.m. on September 1. On the schedule's eighth day, the city's transportation page still says the service "operates twenty-four hours a day, seven days a week."
