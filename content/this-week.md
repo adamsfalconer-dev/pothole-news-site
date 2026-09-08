@@ -2,23 +2,31 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-09-04
+date: 2026-09-08
 type: meeting
 breaking: false
 corrected: false
 ---
-_Desk-maintained listings, refreshed Friday, September 4. The clocks below run from today through
+_Desk-maintained listings, refreshed Tuesday, September 8. The clocks below run through
 Thursday, September 24. Deadlines are taken from the agency's own signed notice, council resolution
 or the county registrar's calendar, and each entry names which. Meetings a body lists only by cadence
 are not included, and a meeting whose agenda the paper could not read is left off rather than guessed
 at. Where an entry rests on a check made on an earlier day, this page says which day. Times and
 locations are the record's; confirm final details at the agency's site before you go._
 
-**The next things a reader can act on are on Tuesday, September 8,** when Claremont's council comes
-back from recess with its agenda now posted, Long Beach's council takes up the water and sewer
-increases, and Hawthorne's four parking ordinances come up for the adoption vote. **Two days after
-that, Pasadena Unified has added a special board meeting on Thursday, September 10, that was not on
-its calendar when this page was last rebuilt.**
+**Three councils sat on Tuesday, September 8:** Claremont's came back from recess with its agenda
+posted, Long Beach's took up the water and sewer increases, and Hawthorne's four parking ordinances
+reached the adoption vote. This page was rebuilt on the afternoon of the 8th, before any of the three
+met, so **what each body did is not on this page and is not guessed at here.** The three sections
+below say what was on the agenda going in.
+
+**After the 8th, four clocks are still running, and the two with the longest reach are the ones a
+reader can still act on.** Pasadena Unified has added a **special board meeting on Thursday,
+September 10** with no agenda posted for it. **Claremont's Proposition 218 rate hearing is Tuesday,
+September 22**, and a protest there has to be signed, on paper, and in the clerk's hands before the
+hearing opens. **Glendale's water rate protest window runs all the way to Tuesday, November 3.** And
+**Thursday, September 24** carries both Pasadena Unified's next regular board meeting and the first
+pre-election campaign statements.
 
 _A note on how this page states dates, added September 1 after the same sentence went wrong twice.
 Entries here are named by their date and weekday rather than by a word like "tonight" or "tomorrow."
@@ -92,7 +100,7 @@ resolution.** Moving penalties to a resolution means a future council can change
 without passing an ordinance. The other three: No. 2266 creates e-bike regulations in a new chapter
 10.78; No. 2268 repeals chapter 10.38 and replaces it with a residential parking permit program in a
 new chapter 10.39; No. 2269 establishes an employer parking permit program. **If you park on a
-Hawthorne street, the comment window is between now and that vote.**
+Hawthorne street, the September 8 meeting was the comment window on these four.**
 
 ## Thursday, September 10, 7:00 p.m.: Pasadena Unified has added a special board meeting, and no agenda has posted
 
