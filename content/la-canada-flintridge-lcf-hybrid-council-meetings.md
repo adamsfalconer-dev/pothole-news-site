@@ -18,7 +18,7 @@ sources:
     url: "https://lcfca.portal.civicclerk.com"
   - text: The city's July 1, 2026 announcement of hybrid public participation at council meetings
     url: "https://lcf.ca.gov/city-of-la-canada-flintridge-announces-hybrid-public-participation-for-city-council-meetings-to-enhance-transparency-and-accessibility/"
-draft: true
+draft: false
 ---
 
 A La Cañada Flintridge resident who cannot get to City Hall on a Tuesday evening can now speak at a City Council meeting from a phone. Since July 21 every council agenda has printed the number, 1-669-444-9171, along with a Zoom link and that meeting's ID. A caller gets the same three minutes the agenda gives anyone standing at the podium, because the law requires the same time allotment either way.
