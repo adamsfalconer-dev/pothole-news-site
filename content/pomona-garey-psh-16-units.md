@@ -17,7 +17,7 @@ sources:
     url: "https://pomona.legistar.com/View.ashx?M=F&ID=15837459&GUID=16F442A2-64C8-43FF-B0D3-E6A63D502CED&G=A7C284AA-7536-4467-80FE-E5FB5B4AA15B"
   - text: Draft Resolution 2026-103 with the project's conditions of approval
     url: "https://pomona.legistar.com/View.ashx?M=F&ID=15837454&GUID=2B79CE9E-490E-4F15-BA5D-332ABAA4461F&G=A7C284AA-7536-4467-80FE-E5FB5B4AA15B"
-draft: true
+draft: false
 ---
 
 Pomona's City Council votes Monday, Sept. 14, on approving a 16-unit permanent supportive housing project, long-term homes paired with on-site services, at 2040 N. Garey Ave. The council has already committed $5,018,406, about 92 percent of the project's $5.4 million budget, approving the purchase of the prefabricated units in March and a construction contract in April.
