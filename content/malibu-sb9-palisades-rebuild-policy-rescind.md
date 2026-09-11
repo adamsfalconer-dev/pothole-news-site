@@ -14,7 +14,7 @@ sources:
     url: "https://www.malibucity.org/AgendaCenter/ViewFile/Item/8283?fileID=91562"
   - text: Council Agenda Report, Item 5.A., Sept. 14, 2026, the Beachfront definition item continued from Aug. 24
     url: "https://www.malibucity.org/AgendaCenter/ViewFile/Item/8290?fileID=91569"
-draft: true
+draft: false
 ---
 
 Since October, Malibu has had a written policy of not accepting or processing applications to split a lot or add a second home under state housing law inside the Palisades Fire burn area. On Monday night the City Council votes on scrapping that policy, and the item in front of it would take effect the same evening, which means an owner who cannot get the city to take an application today could file one Tuesday morning.
