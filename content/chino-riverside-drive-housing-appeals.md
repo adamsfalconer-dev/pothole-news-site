@@ -15,7 +15,7 @@ sources:
     url: "https://chino.legistar.com/MeetingDetail.aspx?LEGID=1985&GID=931&G=FCED2B78-20F3-40ED-B45D-72741543B315"
   - text: Draft minutes of the September 1 meeting, attached to the September 15 agenda
     url: "https://chino.legistar.com/View.ashx?M=F&ID=15848377&GUID=AA71A855-D05B-4525-A5ED-C0C0367F3B11&G=FCED2B78-20F3-40ED-B45D-72741543B315"
-draft: true
+draft: false
 ---
 
 A 210-unit rental project at Riverside Drive and Mountain Avenue is approved in Chino. The city council voted 5-0 on Sept. 1 to grant, in part, BCT Development's appeal of a 3-3 planning commission vote that had left the project neither approved nor denied since June 17, according to draft minutes released ahead of Tuesday's council meeting.
