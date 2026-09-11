@@ -1,0 +1,40 @@
+---
+title: Malibu council votes Monday on lifting its bar on SB 9 lot splits in the Palisades burn area
+slug: malibu-sb9-palisades-rebuild-policy-rescind
+date: "2026-09-11"
+place_name: Malibu
+type: news
+excerpt: A settlement drops the city from a housing lawsuit only if it rescinds the policy by Sept. 29. Written comment is due at noon Friday.
+read_time: "5 min read"
+whats_next: "The council takes up Item 7.A. at its regular meeting Monday, Sept. 14. Closed session begins at 4:30 p.m. and the regular session at 5:30 p.m. at City Hall, 23825 Stuart Ranch Road, with items in this part of the agenda heard at 6:30 p.m. or later; the meeting is streamed at malibucity.org/video, on the city's YouTube channel and over Zoom. Written comment closes at noon Friday, Sept. 11; after that, the way to be heard on the item is a speaker slip in the chamber or a raised hand in the Zoom webinar on Monday night. If the council does not rescind the policy with an effective date on or before Sept. 29, the settlement lapses. Monday's closed session is listed on a different matter, *City of Malibu v. Santa Monica Mountains Conservancy*, not this case. Also on the agenda, and not to be confused with this item, is a first reading of Ordinance No. 537 adding a definition of \"beachfront\" to the zoning code and the Local Coastal Program, continued from Aug. 24, with a second reading set for Sept. 28."
+sources:
+  - text: Council Agenda Report, Item 7.A., Sept. 14, 2026, with Attachment 1 (redlined Rebuild Policies) and Attachment 2 (conditional settlement agreement)
+    url: "https://www.malibucity.org/AgendaCenter/ViewFile/Item/8291?fileID=91570"
+  - text: Malibu City Council regular meeting agenda, Sept. 14, 2026
+    url: "https://www.malibucity.org/AgendaCenter/ViewFile/Item/8283?fileID=91562"
+  - text: Council Agenda Report, Item 5.A., Sept. 14, 2026, the Beachfront definition item continued from Aug. 24
+    url: "https://www.malibucity.org/AgendaCenter/ViewFile/Item/8290?fileID=91569"
+draft: true
+---
+
+Since October, Malibu has had a written policy of not accepting or processing applications to split a lot or add a second home under state housing law inside the Palisades Fire burn area. On Monday night the City Council votes on scrapping that policy, and the item in front of it would take effect the same evening, which means an owner who cannot get the city to take an application today could file one Tuesday morning.
+
+The policy is one paragraph, known in city files as Issue No. PF4, and it says the city "will not accept or process applications under Government Code Sections 65852.21 and 66411.7 for any project within a Very High Fire Hazard Severity Zone within the boundaries of the Palisades areas." Those two code sections are SB 9, the state law that lets an owner in a single-family zone divide a lot and build up to two homes on each resulting parcel through a ministerial review, one a city processes rather than votes on, though the law leaves a city room to deny a project whose specific health and safety impacts cannot be mitigated.
+
+Residents who want to write to the council about it have until **noon on Friday, Sept. 11**. The agenda sets that deadline for any written comment or audiovisual material, one business day before the meeting, emailed to citycouncil@malibucity.org with the agenda item number in the subject line, and it says no additional materials will be accepted afterward. Speaking is separate and is not affected by that cutoff: three minutes per person on the item, in the chamber or by raising a hand in the Zoom webinar, with speaker slips taken in the order they are submitted. In person, a resident may also take deferred time from others, up to five minutes total.
+
+What changed is not the fire risk. It is a lawsuit. In December, Yes In My Back Yard and two individual plaintiffs, Sonja Trauss and Andrew Slocum, sued Gov. Gavin Newsom, the State of California and four local governments, the City of Los Angeles, Pasadena, Malibu and Los Angeles County. The staff report dates the filing Dec. 10 and the settlement agreement attached behind it says on or about Dec. 11; the case number in both is 25STCP04761, in Los Angeles County Superior Court. The suit argues that Executive Order N-32-25, which the policy rests on, exceeds the governor's emergency authority and is inconsistent with SB 9, and as to Malibu it asked the court to have PF4 rescinded and SB 9 applications processed.
+
+The parties agreed to settle in March and signed through the summer, the city last, on July 28. Its terms are narrow and they run on a clock that starts at that signature. The city agreed to put rescission on a public agenda within three months, which is what Monday's item is, and the report is explicit that the agreement does not require the council to actually rescind. But if the council does not, with an effective date on or before **Sept. 29**, the settlement is void and Malibu stays in the case. If it does, the city and the plaintiffs file a request to dismiss Malibu with prejudice within 10 days, and the city carries no exposure to the plaintiffs' attorney's fees.
+
+The order behind the policy came on July 30, 2025, when Newsom suspended SB 9 in very high fire hazard severity zones inside the Palisades and Eaton Fire boundaries for a week, then left it to each local government to apply SB 9 in those areas "in whole, in part, or not at all." His stated worry was that a wave of SB 9 building concentrated in neighborhoods rebuilding from a fire could "crowd evacuation routes." Because the entire city of Malibu sits in a very high fire hazard severity zone, city staff wrote PF4 to take the option the governor offered, presented it at a special meeting on Aug. 27, 2025, and the council adopted it along with the rest of its Rebuild Policies on Oct. 15, 2025.
+
+Rescinding it would not mean an owner can simply pull a permit. Malibu's coastline is governed by its Local Coastal Program, the city's certified version of the California Coastal Act, and SB 9 contains a savings clause that leaves the Coastal Act untouched. Staff spell out the consequence: a coastal development permit will still be required for every SB 9 project in the Palisades Fire area, because that area lies entirely inside the Coastal Zone. What rescission changes is whether the city will take the application at all, and the report says that if the council acts, staff "will accept, and process, SB 9 applications for projects located within the boundaries of the Palisades Fire."
+
+There is also a deadline in the settlement for people who already tried. The agreement refers to applications the city has already received since the policy was adopted, and if the council rescinds, the city has agreed to process those, in accordance with state law, within 60 days of the rescission.
+
+The stakes land differently depending on which side of a property line you are on. An owner whose house burned and who wants to split the lot and rebuild two homes instead of one has had no path to ask since October, and a yes on Monday would give them one. A neighbor who prefers the current rule because of the roads out would be left with the coastal permit and the fire-safety findings SB 9 already allows a city to make. And the city would be giving up more than the one policy: under the settlement, once it rescinds, Malibu has agreed that neither the executive order nor the policy will apply to SB 9 applications or projects within the city's control.
+
+The recommendation carries no direct cost, according to the report, which was prepared on Sept. 4 by Assistant Community Development Director Tyler Eaton, reviewed by Community Development Director Yolanda Bundy, and approved by City Manager Joseph D. Irvin and Interim City Attorney Trevor Rusin.
+
+One caution for anyone reading the packet: Attachment 1 is a redline of the Rebuild Policies, and its legislative record already reads "On September 14, 2026, the City Council rescinded Issue No. PF4." That is the document as it would exist if the vote passes, drafted ahead of the meeting. No vote has been taken.
