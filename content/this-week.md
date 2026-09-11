@@ -2,13 +2,13 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-09-09
+date: 2026-09-10
 type: meeting
 breaking: false
 corrected: false
 ---
 
-_Desk-maintained listings, refreshed Wednesday, September 9. The clocks below run through Friday,
+_Desk-maintained listings, refreshed Thursday, September 10. The clocks below run through Friday,
 September 25. Deadlines are taken from the agency's own signed notice, council resolution or the
 county registrar's calendar, and each entry names which. Meetings a body lists only by cadence are
 marked as unconfirmed until an agenda posts._
@@ -19,12 +19,12 @@ Those words are correct when the page is published and become false at midnight 
 changing on the page, which is what happened on August 30 and again on August 31. A date that has
 passed reads as a date that has passed. A relative word read a day late reads as a live deadline._
 
-**Four clocks are running, and two of them are things a resident can still act on.** Pomona holds a
+**Three clocks are running, and two of them are things a resident can still act on.** Pomona holds a
 public hearing on 16 units of city-initiated supportive housing on **Monday, September 14**.
 Claremont's Proposition 218 rate hearing is **Tuesday, September 22**, and a protest there has to be
-signed, on paper, and in the clerk's hands before the hearing closes. Pasadena Unified has a special
-board meeting on **Thursday, September 10** and a regular one on **Thursday, September 24**. The
-first pre-election campaign statements are also due September 24.
+signed, on paper, and in the clerk's hands before the hearing closes. Pasadena Unified's next regular
+board meeting is **Thursday, September 24**, the same day the first pre-election campaign statements
+are due.
 
 ---
 
@@ -42,31 +42,10 @@ contract:** either reject all bids and re-solicit, or award a two-year contract,
 one-year extensions, to Mariposa Tree Management. Pomona's tree maintenance procurement has already
 drawn formal protests, which the paper has covered.
 
-**The staff report for the Garey Avenue hearing had not posted when the paper read the agenda.** The
-agenda itself is final and carries 23 items.
+The meeting is confirmed and its agenda is posted.
 
-_Source: the September 14, 2026 Pomona City Council agenda on the city's Legistar portal, read by
-the paper on September 9._
-
----
-
-## Thursday, September 10, 7:00 p.m.: Pasadena Unified's special board meeting, still with no agenda posted
-
-The district listed a Special Board Meeting at 7 p.m. on September 10 under Upcoming Events. It was
-not on the district's calendar when the paper read the portal on September 2, and it was there on
-September 4.
-
-**No agenda had posted for it when the paper last reached the portal.** Under the Brown Act a
-special meeting's agenda has to be posted at least 24 hours ahead, so an agenda for a Thursday
-evening meeting would be due by Wednesday evening.
-
-🔴 **The paper could not re-reach the district's meeting portal on September 9.** Two retrieval
-attempts returned nothing. So the line above is what the record said on September 4, and the paper
-is saying so rather than restating a five-day-old read as though it were today's. A reader who wants
-the agenda should go to the district's own portal directly.
-
-_Source: the district's Granicus meeting portal, view 15, read by the paper on September 4; portal
-unreachable from the paper's tools on September 9._
+_Source: the September 14, 2026 Pomona City Council and Housing Authority meeting, 7:00 p.m.,
+Council Chambers and online, on the city's Legistar record, re-read by the paper on September 10._
 
 ---
 
@@ -85,23 +64,26 @@ parcels, the council cannot adopt the rates.
 posts council agendas several days ahead, so the packet with the rate figures is the document to
 watch for.
 
-_Source: the Claremont City Council meeting calendar on the city's Legistar portal, read by the
-paper on September 9, which lists the September 22 City Council meeting at 6:30 p.m. with the agenda
-not yet available; and the September 8 agenda's look-ahead list of tentative items, read September
-4._
+_Source: the Claremont City Council meeting calendar on the city's Legistar portal, re-read by the
+paper on September 10, which lists the September 22 City Council meeting at 6:30 p.m. in the Council
+Chamber with the agenda not yet available._
 
 ---
 
 ## Thursday, September 24: two things land the same day
 
-**Pasadena Unified's next regular board meeting** is at 5 p.m., confirmed on the district's own list
-of upcoming meetings read September 4. No agenda for it has posted. This is the kind of meeting at
-which the transformation definition the committee of the whole worked on September 3 could come back
-for approval. No school was named on the September 3 agenda and no closure decision was on it.
+**Pasadena Unified's next regular board meeting** is at 5 p.m. It is listed on the board's own
+agenda-and-minutes record, with no agenda posted for it yet. This is the kind of meeting at which
+the transformation definition the committee of the whole worked on September 3 could come back for
+approval. No school was named on the September 3 agenda and no closure decision was on it.
 
 **The first pre-election campaign statements are due,** covering July 1 through September 19, from
 committees supporting or opposing measures and candidates on the November 3 ballot. These are the
 filings that show who is funding the measure campaigns, and they are public the day they are filed.
+
+_Source: the Pasadena Unified Board of Education meeting record, read by the paper on September 10,
+which carries a September 24, 2026 Board of Education Meeting at 5:00 p.m. with no agenda or minutes
+link._
 
 ---
 
@@ -114,6 +96,15 @@ from city sidewalks takes effect September 25, the 31st day after the mayor appr
 ---
 
 ## What has already happened
+
+**Thursday, September 10: Pasadena Unified held a special board meeting, and the paper cannot yet
+say what it did.** The district's own online calendar listed a Special Board of Education Meeting at
+7 p.m. on September 10, and still listed it when the paper checked that evening. **The board's
+agenda-and-minutes record carries no entry for the meeting at all:** no row, no agenda, no minutes,
+no video. That record is reachable and populated, and it carries 546 minutes links for other
+meetings and a full agenda row for the September 3 special meeting, so the gap on September 10 is
+what the record says rather than a retrieval failure. A resident looking for what was on that
+agenda, or what the board decided, will not find either there today. The paper is checking.
 
 **Tuesday, September 8: three councils sat.** Claremont's came back from recess, and its Proposition
 218 rate hearing was **not** on that agenda, which is how the September 22 date came to be the one
