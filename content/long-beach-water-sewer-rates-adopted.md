@@ -12,7 +12,7 @@ sources:
     url: "https://longbeach.primegov.com/Portal/Meeting?meetingTemplateId=36827"
   - text: Long Beach Utilities Department FY 2027 budget and rates page
     url: "https://www.lbutilities.org/about-us/Finances/Budget-Landing"
-draft: true
+draft: false
 ---
 
 The water and sewer increases Long Beach mailed protest notices about this summer are now adopted. The City Council voted 8-1 at its Sept. 8 budget hearing to approve the utility board's water and sewer rate resolution, according to draft minutes of the meeting. The increases, as noticed to ratepayers, are 6 percent on all water rates and 8 percent on all sewer rates. Second District Councilmember Cindy Allen cast the no vote.
