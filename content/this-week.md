@@ -2,13 +2,13 @@
 title: The week ahead across the Pomona Valley
 slug: this-week
 draft: false
-date: 2026-09-10
+date: 2026-09-12
 type: meeting
 breaking: false
 corrected: false
 ---
 
-_Desk-maintained listings, refreshed Thursday, September 10. The clocks below run through Friday,
+_Desk-maintained listings, refreshed Saturday, September 12. The clocks below run through Friday,
 September 25. Deadlines are taken from the agency's own signed notice, council resolution or the
 county registrar's calendar, and each entry names which. Meetings a body lists only by cadence are
 marked as unconfirmed until an agenda posts._
@@ -19,12 +19,13 @@ Those words are correct when the page is published and become false at midnight 
 changing on the page, which is what happened on August 30 and again on August 31. A date that has
 passed reads as a date that has passed. A relative word read a day late reads as a live deadline._
 
-**Three clocks are running, and two of them are things a resident can still act on.** Pomona holds a
-public hearing on 16 units of city-initiated supportive housing on **Monday, September 14**.
-Claremont's Proposition 218 rate hearing is **Tuesday, September 22**, and a protest there has to be
-signed, on paper, and in the clerk's hands before the hearing closes. Pasadena Unified's next regular
-board meeting is **Thursday, September 24**, the same day the first pre-election campaign statements
-are due.
+**Four clocks are running, and three of them are things a resident can still act on.** Two of them
+fall on the same night: Pomona holds a public hearing on 16 units of city-initiated supportive
+housing on **Monday, September 14**, and Malibu votes the same evening on lifting its bar on SB 9 lot
+splits in the Palisades burn area. Claremont's Proposition 218 rate hearing is **Tuesday, September
+22**, and a protest there has to be signed, on paper, and in the clerk's hands before the hearing
+closes. Pasadena Unified's next regular board meeting is **Thursday, September 24**, the same day the
+first pre-election campaign statements are due.
 
 ---
 
@@ -46,6 +47,30 @@ The meeting is confirmed and its agenda is posted.
 
 _Source: the September 14, 2026 Pomona City Council and Housing Authority meeting, 7:00 p.m.,
 Council Chambers and online, on the city's Legistar record, re-read by the paper on September 10._
+
+---
+
+## Monday, September 14, 5:30 p.m.: Malibu votes on lifting its bar on SB 9 lot splits in the Palisades burn area
+
+**A settlement drops the city from a housing lawsuit only if it rescinds the policy by September 29.**
+
+Item 7.A. asks the council to remove Issue No. PF4 from its Rebuild Policies, the one-paragraph rule
+under which Malibu has refused since October to accept or process applications to split a lot or add
+a second home under state housing law inside the Palisades Fire burn area. The item as written would
+take effect the same evening, which means an owner who cannot get the city to take an application
+today could file one Tuesday morning.
+
+**Written comment has closed; speaking has not.** The agenda set noon Friday, September 11 as the
+cutoff for written comment and audiovisual material. A resident who wants to be heard on the item
+now does it with a speaker slip in the chamber or a raised hand in the Zoom webinar, three minutes
+per person.
+
+Closed session begins at 4:30 p.m. and the regular session at 5:30 p.m. at City Hall, 23825 Stuart
+Ranch Road, with items in this part of the agenda heard at 6:30 p.m. or later. The meeting is
+streamed at malibucity.org/video, on the city's YouTube channel and over Zoom.
+
+_Source: the Malibu City Council regular meeting agenda and the Item 7.A. agenda report for
+September 14, 2026, on the city's AgendaCenter, re-read by the paper on September 12._
 
 ---
 
@@ -97,14 +122,16 @@ from city sidewalks takes effect September 25, the 31st day after the mayor appr
 
 ## What has already happened
 
-**Thursday, September 10: Pasadena Unified held a special board meeting, and the paper cannot yet
-say what it did.** The district's own online calendar listed a Special Board of Education Meeting at
-7 p.m. on September 10, and still listed it when the paper checked that evening. **The board's
-agenda-and-minutes record carries no entry for the meeting at all:** no row, no agenda, no minutes,
-no video. That record is reachable and populated, and it carries 546 minutes links for other
-meetings and a full agenda row for the September 3 special meeting, so the gap on September 10 is
-what the record says rather than a retrieval failure. A resident looking for what was on that
-agenda, or what the board decided, will not find either there today. The paper is checking.
+**Thursday, September 10: Pasadena Unified's special board meeting was a budget filing meeting, and
+no school closure was on it.** For a day after the meeting the board's agenda-and-minutes record
+carried no entry for it at all, which this page reported. The entry has since posted, and the agenda
+is now readable there. The board took up the district's 2025-26 unaudited actuals, certified that
+financial data for filing with the Los Angeles County Office of Education, approved a classroom
+expenditure waiver request, approved its GANN appropriation limit calculations and a resolution
+naming who may seek disaster assistance on the district's behalf, and approved an agreement with the
+City of Pasadena to use the Allendale Park baseball field during school hours. Nothing about closing
+or consolidating a school was on the agenda. The board also met in closed session on two existing
+lawsuits, one of them Pasadena Unified's own case against the City of Pasadena.
 
 **Tuesday, September 8: three councils sat.** Claremont's came back from recess, and its Proposition
 218 rate hearing was **not** on that agenda, which is how the September 22 date came to be the one
