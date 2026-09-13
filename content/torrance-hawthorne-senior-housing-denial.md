@@ -12,7 +12,7 @@ sources:
     url: "https://torranceca.primegov.com/Portal/Meeting?meetingTemplateId=2724"
   - text: Torrance City Council agenda and item 9B staff report, May 19, 2026
     url: "https://torranceca.primegov.com/Portal/Meeting?meetingTemplateId=2620"
-draft: true
+draft: false
 ---
 
 The Torrance City Council is scheduled Tuesday to adopt the written findings that finalize its denial of a 20-unit senior apartment building on Hawthorne Boulevard, a project the city's Planning Commission approved and its own staff recommended it approve.
