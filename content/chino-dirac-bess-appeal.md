@@ -20,7 +20,7 @@ sources:
     url: "https://chino.legistar.com/View.ashx?M=F&ID=15848344&GUID=DDB17A86-1B55-4A84-80C8-2DDBA8E53543&G=FCED2B78-20F3-40ED-B45D-72741543B315"
   - text: City of Covina project page for the 522 E. Edna Place battery storage proposal
     url: "https://covinaca.gov/Major%20Projects/522-east-edna-place/"
-draft: true
+draft: false
 ---
 
 Chino's city council decides Tuesday night whether to overrule its own planning commission and approve a 400-megawatt battery storage plant near Benson and Oaks avenues. City staff is recommending approval, and a development deal worth at least $10.6 million to the city rides on the answer.
