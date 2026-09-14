@@ -19,7 +19,7 @@ sources:
     url: "https://www.cityofinglewood.org/DocumentCenter/View/21321/ADMINISTRATIVE-PLAN-FINAL-07012025"
   - text: Inglewood Housing Authority SAFMR payment standards effective June 24, 2026
     url: "https://www.cityofinglewood.org/DocumentCenter/View/22097/Payment-Standards-6242026_rc"
-draft: true
+draft: false
 ---
 
 The Inglewood Housing Authority is scheduled Tuesday afternoon to adopt a rewritten rulebook for its Section 8 voucher program. It raises the minimum a household must pay each month from nothing to $50, writes into policy restrictions on new vouchers the Authority says it has already imposed, and gives the Authority a power its current rules deny it: cutting the rent subsidy for families who are already under contract.
