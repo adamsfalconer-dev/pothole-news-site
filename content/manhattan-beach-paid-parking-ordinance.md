@@ -14,7 +14,7 @@ sources:
     url: "https://legistar.granicus.com/ManhattanBeach/attachments/2193aaee-9016-4913-8c8c-9ab84555b35e.docx"
   - text: Staff report to the Parking and Public Improvements Commission, August 20, 2026, with the April 2025 cost estimates
     url: "https://legistar.granicus.com/ManhattanBeach/attachments/d295c67c-493c-4dad-a5a7-030d595433cd.pdf"
-draft: true
+draft: false
 ---
 
 Manhattan Beach's more than 1,275 single-space parking meters are scheduled under the city's rollout plan to disappear this November, replaced by about 140 pay stations plus app and text-message payments, and on Sept. 15 the City Council voted 5-0 to introduce the ordinance that rewrites the city's parking rules to match.
