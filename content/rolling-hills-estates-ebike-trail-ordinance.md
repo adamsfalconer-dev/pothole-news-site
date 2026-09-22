@@ -14,7 +14,7 @@ sources:
     url: "https://rollinghillsestatesca.legistar1.com/rollinghillsestatesca/attachments/738e8715-da1c-4768-a937-5091d5d6dfca.pdf"
   - text: Draft minutes of the September 8, 2026 council meeting
     url: "https://rollinghillsestatesca.legistar1.com/rollinghillsestatesca/attachments/42df15ab-54ec-44b2-90a4-ae2fd290785a.pdf"
-draft: true
+draft: false
 ---
 
 Rolling Hills Estates is set to take its final vote Tuesday on Ordinance No. 764, its first rules specifically for e-bikes and motorized devices on city streets and paved paths.
