@@ -1,3 +1,5 @@
+Pothole News ceased publication Oct. 28, 2026. This repository is archived and no longer maintained.
+
 # pothole-news-site
 
 The public static site for **Pothole News** — local government across the Pomona Valley.
@@ -33,7 +35,7 @@ are excluded from the output, RSS, and sitemap.
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 | Node version | **20** (set env `NODE_VERSION=20`, or the `.nvmrc`) |
-| Environment variable (optional) | `SITE_URL` = your final URL (e.g. `https://potholenews.pages.dev`) for canonical/RSS/sitemap links; Pages also exposes `CF_PAGES_URL` automatically |
+| Environment variable (optional) | `SITE_URL` = your final URL (e.g. `https://pothole-news-site.adamsfalconer.workers.dev`) for canonical/RSS/sitemap links; Pages also exposes `CF_PAGES_URL` automatically |
 
 Until a domain is attached, the site lives at `https://<project>.pages.dev`.
 

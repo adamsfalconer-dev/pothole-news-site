@@ -15,6 +15,10 @@ sources:
     url: "https://hgcity.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=eaeb4c28-3c85-4307-ae13-28e385dc30b0"
   - text: Notice of Public Hearing Concerning Proposed Rate Increases to Solid Waste Service Fees
     url: "https://hgcity.primegov.com/api/compilemeetingattachmenthistory/historyattachment/?historyId=38cf2704-c198-444f-800f-d231bb01aed3"
+  - text: Hawaiian Gardens City Council agenda packet, Sept. 9, 2026
+    url: "https://hgcity.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=8226"
+  - text: Hawaiian Gardens City Council agenda packet, Sept. 23, 2026
+    url: "https://hgcity.primegov.com/Public/CompiledDocument?compiledMeetingDocumentFileId=8242"
 draft: false
 ---
 
@@ -38,6 +42,6 @@ The formal objection window is closed. Under Proposition 218, the 1996 measure t
 
 The rate tables themselves are not in the resolution's own text. They sit in an exhibit to it. The notice the city mailed on July 1 set out those proposed rates, container size by container size and pickup frequency by pickup frequency, and the resolution says the notice is what advised customers of the table it adopted. A resident who wants the figure for their own service should start with that notice.
 
-The council's next regular meeting is Wednesday, Sept. 9.
+*Update, Sept. 26:* The rates have not returned to a council agenda since the vote. Neither the Sept. 9 nor the Sept. 23 meeting agenda carried an item on them, and the Sept. 23 agenda set the council's next regular meeting for Wednesday, Oct. 14, nearly two weeks after the new rates take effect.
 
-*What's next: The new rates take effect Oct. 1. The maximum rate schedule runs through June 30, 2031, with an adjustment each July 1 that the staff report says happens automatically, subject to 30 days' advance notice.*
+*What's next: The maximum rate schedule runs through June 30, 2031, with an adjustment each July 1 that the staff report says happens automatically, subject to 30 days' advance notice.*

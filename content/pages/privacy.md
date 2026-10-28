@@ -1,37 +1,31 @@
-<!-- Ghost PAGE · Title: "Privacy" · slug: privacy · import-ready (W4).
-     Rendered by page.hbs (the Ghost page Title is the heading; body starts below,
-     no duplicate H1). Names resolved: Pothole News / pothole.news. -->
+<!-- Static page · Title: "Privacy" · slug: privacy.
+     Rewritten 2026-10-28 at closure, Publisher approval: the Ghost(Pro) text described
+     a platform the site never ran on. -->
 
-**Short version: we collect the minimum needed to send you the newsletter, we don't sell your data, and we don't run third-party ad trackers.**
+**Short version: Pothole News ceased publication Oct. 28, 2026, and this site is now an archive. It sets no cookies, runs no analytics or ad trackers, and no longer collects form submissions.**
 
 ## What we collect
 
-- **If you subscribe:** your email address, and basic delivery data (whether an email was delivered, opened, or clicked) so we can tell if the newsletter is working. That's it: no name required.
-- **When you visit:** standard, privacy-respecting analytics (aggregate page views). We do **not** embed third-party advertising or social-media trackers.
-- **If you email us** (tips, corrections, general): whatever you choose to send. Tip correspondence is handled under our [source-protection commitments](/tips/).
+- **Nothing through this site.** This site no longer collects form submissions. The newsletter signup and the tip form closed on Oct. 28, 2026.
+- **No newsletter list.** The newsletter never launched. No issue was ever sent, and there is no subscriber list.
+- **No cookies or analytics.** The site sets no cookies and runs no analytics, advertising or social-media trackers. If you picked cities to follow, that choice is stored only in your own browser and is never sent to us. Clearing your browser data removes it.
+- **Hosting logs.** Like any website, our host processes standard request data, such as IP addresses, to serve the pages and protect the site.
 
-## How we use it
+## What we received before the closure
 
-- To **send you the roundup** and occasional Pothole News updates you signed up for.
-- To **understand, in aggregate,** what coverage is useful.
-- We do **not** sell, rent, or trade your information. We do **not** share it except with the service providers below, strictly to operate the site.
+While the forms were open, from July to October 2026, a submission was relayed by **Web3Forms**, a form-relay service, to the Pothole News desk inbox, a Gmail account. Anything you sent us by email arrived in the same inbox. Those messages remain there. We do **not** sell, rent, trade or share them.
 
 ## Who processes your data
 
-This site runs on **Ghost(Pro)**, which hosts the site, stores the member list, and sends the newsletter on our behalf. Your subscription data lives in that platform under its own privacy and security terms. We choose vendors that don't monetize your data through advertising.
+This site is a set of static pages served by **Cloudflare** and built from a public GitHub repository. It has no accounts, logins or member list.
 
 ## Your choices
 
-- **Unsubscribe** any time via the link at the bottom of every email, or by managing your account from the link in the newsletter.
-- **See, correct, or delete** the data we hold about you: email **privacy@pothole.news** and we'll handle it.
+- **See, correct, or delete** anything we received from you: email **assignmentdesk26@gmail.com**.
 - We honor applicable privacy rights (including California's) for all readers.
 
 ## Children
 
 Pothole News is a general-audience news publication and is not directed at children under 13. We don't knowingly collect their information.
 
-## Changes
-
-If this policy changes materially, we'll note it here and, for anything significant, in the newsletter. *Last updated: July 13, 2026.*
-
-*Questions: privacy@pothole.news.*
+*Last updated: Oct. 28, 2026.*

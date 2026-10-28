@@ -70,7 +70,7 @@ function readSiteConfigUrl() {
   return null;
 }
 const BASE_URL = String(args['base-url'] || process.env.SITE_URL || process.env.CF_PAGES_URL ||
-  readSiteConfigUrl() || 'https://potholenews.pages.dev').replace(/\/+$/, '');
+  readSiteConfigUrl() || 'https://pothole-news-site.adamsfalconer.workers.dev').replace(/\/+$/, '');
 const INCLUDE_DRAFTS = !!args.drafts;
 // Optional Cloudflare Web Analytics (cookieless). Off unless the Pages build env
 // sets CF_ANALYTICS_TOKEN; Cloudflare's "automatic" dashboard mode injects its own
@@ -177,7 +177,6 @@ ${opts.inlineHead || ''}
 <link rel="stylesheet" href="/assets/css/screen.css">
 <script defer src="/assets/js/places.js"></script>
 <script defer src="/assets/js/editions.js"></script>
-<script defer src="/assets/js/signup.js"></script>
 ${(opts.footScripts || [])
   .map(s => `<script defer src="${escA(s)}"></script>`).join('\n')}
 ${CF_ANALYTICS ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"${escA(CF_ANALYTICS)}"}'></script>` : ''}
@@ -188,7 +187,6 @@ function masthead() {
   return `<header class="masthead" role="banner">
     <div class="masthead__row">
       <a class="wordmark" href="/"><span aria-hidden="true"><b>P<span class="wordmark__punch"></span>THOLE</b><em class="wordmark__news"> news</em></span><span class="u-visually-hidden">Pothole News, home</span></a>
-      <div class="masthead__actions"><a class="btn btn--newsletter" href="#request">Newsletter</a></div>
     </div>
     <nav class="eds" aria-label="Your editions" data-editions>
       <a class="ed is-on" href="/">ALL</a>
@@ -224,9 +222,15 @@ function footer() {
   </footer>`;
 }
 
+/* Pothole News ceased publication 2026-10-28. Every page carries this notice. */
+function closureBanner() {
+  return `<div class="closure-banner" role="note"><p>Pothole News ceased publication Oct. 28, 2026. This site remains online as an archive and is no longer updated. Tips and newsletter signups are closed.</p></div>`;
+}
+
 function shell(opts) {
   return `${head(opts)}
 <body class="${escA(opts.bodyClass || '')}">
+  ${closureBanner()}
   ${masthead()}
   <main id="site-main" class="site-main" role="main">${opts.body}</main>
   ${footer()}
@@ -270,22 +274,9 @@ function moduleWeek(weekPost) {
 }
 
 function moduleRequest() {
-  return `<aside class="module module--request" id="request">
-    <span class="req__stamp" aria-hidden="true">Request&nbsp;filed&nbsp;&#10003;</span>
-    <h2 class="req__label">Public records request &#8470; YOU</h2>
-    <p class="req__big">Requesting: <em class="sig">the morning packet, read for you</em></p>
-    <dl class="req__rows">
-      <div class="req__row"><dt>Records sought</dt><dd>the whole valley, weekly</dd></div>
-      <div class="req__row"><dt>Delivery</dt><dd>your inbox &middot; free</dd></div>
-      <div class="req__row"><dt>Statutory fee</dt><dd>$0.00, forever</dd></div>
-    </dl>
-    <form class="req__form" data-signup>
-      <label class="u-visually-hidden" for="req-email">Your email address</label>
-      <input class="req__email" id="req-email" type="email" required autocomplete="email" placeholder="you@email.com">
-      <button class="req__file" type="submit">File it</button>
-    </form>
-    <p class="req__success" role="status">Filed. We&rsquo;ll be in touch when the roundup opens.</p>
-    <noscript><p class="req__meta">Or email <a href="mailto:assignmentdesk26@gmail.com?subject=Newsletter%20signup%20-%20Pothole%20News">assignmentdesk26@gmail.com</a> to be added to the free weekly roundup.</p></noscript>
+  return `<aside class="module module--request module--closed" id="request">
+    <h2 class="req__label">Newsletter signups are closed</h2>
+    <p class="req__big">Pothole News ceased publication Oct. 28, 2026. This site remains online as an archive and is no longer updated.</p>
   </aside>`;
 }
 
@@ -398,7 +389,7 @@ function correctionsPage(posts) {
   const body = `<div class="feed-wrap">
     ${listingHead('Corrections', 'We log every correction publicly, on the same page as the story. When we get something wrong, we mark the change and record it here. We do not silently edit.', false)}
     ${items.length ? `<ol class="corrections">${list}</ol>` : '<p class="empty__lead">No corrections on the record yet — and we&rsquo;d rather keep it that way.</p>'}
-    <p class="corrections__policy">Spot an error? Email <a href="mailto:corrections@pothole.news">corrections@pothole.news</a>. Every correction is made in every edition the story ran in.</p>
+    <p class="corrections__policy">Spot an error? Email <a href="mailto:assignmentdesk26@gmail.com">assignmentdesk26@gmail.com</a>. Every correction is made in every edition the story ran in.</p>
   </div>`;
   return shell({ body, bodyClass: 'page-template', title: `Corrections | ${SITE_NAME}`,
     description: 'The Pothole News corrections log: every correction, publicly recorded.', pathUrl: '/corrections/' });
@@ -430,46 +421,13 @@ function tipCityButtons() {
 function tipsPage() {
   const body = `<div class="feed-wrap">
     <header class="listing-head">
-      <h1 class="listing-head__title" data-emphasize>Report a Pothole *(the tip line)*</h1>
-      <p class="listing-head__note">Something broken where you live? Tips, documents, meeting whispers. Confidential by default: no CAPTCHA, no account, a hunch is enough.</p>
+      <h1 class="listing-head__title">The tip line is closed</h1>
+      <p class="listing-head__note">Pothole News ceased publication Oct. 28, 2026, and no longer accepts tips. This site remains online as an archive and is no longer updated.</p>
     </header>
-    <form class="tip" data-tip novalidate>
-      <ol class="tip__steps" aria-hidden="true">
-        <li class="tip__seg is-on" data-tip-seg="1"></li><li class="tip__seg" data-tip-seg="2"></li><li class="tip__seg" data-tip-seg="3"></li>
-      </ol>
-      <input type="hidden" name="city" data-tip-city value="">
-      <input type="hidden" name="severity" data-tip-severity value="">
-      <fieldset class="tip__step is-on" data-tip-step="1">
-        <legend class="tip__q">Where&rsquo;s the pothole? <em class="sig">(the civic kind)</em></legend>
-        <div class="tip__opts" data-tip-cities role="group" aria-label="Choose a place">${tipCityButtons()}</div>
-      </fieldset>
-      <fieldset class="tip__step" data-tip-step="2" hidden>
-        <legend class="tip__q">How deep does it go?</legend>
-        <div class="tip__opts tip__opts--sev" role="group" aria-label="Choose a severity">
-          <button class="tip__opt tip__sev" type="button" data-tip-sev="surface crack"><span class="tip__ico" aria-hidden="true">&#12316;</span><span class="tip__sev-t">Surface crack</span><span class="tip__sev-s">something looks off, worth a look</span></button>
-          <button class="tip__opt tip__sev" type="button" data-tip-sev="pothole"><span class="tip__ico" aria-hidden="true">&#128371;&#65039;</span><span class="tip__sev-t">Pothole</span><span class="tip__sev-s">I&rsquo;ve seen or heard something specific</span></button>
-          <button class="tip__opt tip__sev" type="button" data-tip-sev="sinkhole"><span class="tip__ico" aria-hidden="true">&#9888;&#65039;</span><span class="tip__sev-t">Sinkhole</span><span class="tip__sev-s">I have documents / I was in the room</span></button>
-        </div>
-        <div class="tip__nav"><button class="tip__back" type="button" data-tip-back="1">&larr; Back</button></div>
-      </fieldset>
-      <fieldset class="tip__step" data-tip-step="3" hidden>
-        <legend class="tip__q">Tell us what you know. <em class="sig">We read everything.</em></legend>
-        <textarea class="tip__textarea" id="tip-details" name="details" required placeholder="What happened, who was involved, when. Paste links. Attach documents after submitting; we'll send a secure upload link."></textarea>
-        <input class="tip__contact" id="tip-contact" name="contact" type="text" autocomplete="off" placeholder="Email or phone (optional, for follow-up only)">
-        <p class="tip__meta">&#128274; Confidential by default. We never name a source without permission. No CAPTCHA, no account, no minimum, and a hunch is enough. If it&rsquo;s urgent, write URGENT and we triage same-day.</p>
-        <p class="tip__error" data-tip-error role="alert" hidden></p>
-        <div class="tip__nav"><button class="tip__back" type="button" data-tip-back="2">&larr; Back</button><button class="tip__send" type="submit" data-tip-send>Send the tip &rarr;</button></div>
-      </fieldset>
-      <div class="tip__done" data-tip-done hidden role="status">
-        <div class="tip__done-ico" aria-hidden="true">&#128679;</div>
-        <p class="tip__done-big" data-emphasize>Got it. *Crew dispatched.*</p>
-        <p class="tip__meta tip__done-note">Your tip is in the assignment desk&rsquo;s queue. If you left contact info, a human replies within a day, even if it&rsquo;s just &ldquo;we&rsquo;re digging.&rdquo;</p>
-      </div>
-    </form>
   </div>`;
-  return shell({ body, bodyClass: 'page-template', title: `Report a Pothole | ${SITE_NAME}`,
-    description: 'Report a pothole: the Pothole News tip line. Confidential, no account, no CAPTCHA.',
-    pathUrl: '/tips/', footScripts: ['/assets/js/tips.js'] });
+  return shell({ body, bodyClass: 'page-template', title: `Tip line closed | ${SITE_NAME}`,
+    description: 'The Pothole News tip line closed on Oct. 28, 2026.',
+    pathUrl: '/tips/' });
 }
 
 function staticPage(slug, title, bodyHtml) {

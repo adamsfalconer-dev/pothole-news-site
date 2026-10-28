@@ -528,3 +528,12 @@ button { font: inherit; cursor: pointer; }
   .req__form { flex-wrap: wrap; }
   .req__email { flex-basis: 100%; }
 }
+
+/* Closure notice, 2026-10-28: Pothole News ceased publication. */
+.closure-banner {
+  background: var(--pn-ink); color: var(--pn-paper);
+  padding: 10px 16px; text-align: center;
+  font-family: var(--font-body); font-size: 0.95rem; line-height: 1.45;
+}
+.closure-banner p { margin: 0 auto; max-width: 72ch; }
+.module--closed .req__big { margin-bottom: 0; }

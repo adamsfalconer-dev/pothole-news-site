@@ -1,6 +1,6 @@
 <!-- Ghost PAGE · Title: "About Pothole News" · slug: about · import-ready (W4).
      Rendered by page.hbs (the Ghost page Title is the heading; body starts below,
-     no duplicate H1). Names resolved: Pothole News / pothole.news.
+     no duplicate H1). Names resolved: Pothole News.
      Rewritten 2026-07-28 under Publisher approval nd-021. -->
 
 **Pothole News covers local government across Los Angeles County (every city and every named community) and the Pomona Valley.**
@@ -22,11 +22,9 @@ Most of the places we do cover share almost no dedicated coverage of their city 
 
 We're a small operation built to monitor far more public meetings and records than a newsroom our size otherwise could. Our sourcing, verification and corrections standards are on our [Ethics & Standards](/ethics/) page.
 
-Our weekly roundup lands in your inbox free. **[Subscribe](/#/portal/signup)**: no cost, no ads, unsubscribe anytime.
-
 ## Get in touch
 
-- **Tips & documents:** [/tips/](/tips/): the form reaches the desk directly.
+- **Tips & documents:** Pothole News stopped accepting tips Oct. 28, 2026.
 - **Corrections:** [our corrections log](/corrections/): every correction we have made, and how to flag one.
 
 *Pothole News is editorially independent. We cover Los Angeles County; we don't answer to it.*

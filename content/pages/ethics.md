@@ -1,6 +1,6 @@
 <!-- Ghost PAGE · Title: "Ethics & Standards" · slug: ethics · import-ready (W4).
      Rendered by page.hbs (the Ghost page Title is the heading; body starts below,
-     no duplicate H1). Names resolved: Pothole News / pothole.news. -->
+     no duplicate H1). Names resolved: Pothole News. -->
 
 Pothole News follows the Society of Professional Journalists' principles: **seek truth and report it, minimize harm, act independently, and be accountable and transparent.** This page says what that means in practice.
 
@@ -36,10 +36,10 @@ Pothole News is editorially independent. We disclose any relationship that could
 
 ## Corrections
 
-**We fix errors openly.** When we get something wrong, we correct it, mark the change, and log it; we do not silently edit. See our **[corrections log](/corrections/)**. To flag an error: **corrections@pothole.news**.
+**We fix errors openly.** When we get something wrong, we correct it, mark the change, and log it; we do not silently edit. See our **[corrections log](/corrections/)**. To flag an error: **assignmentdesk26@gmail.com**.
 
 ## Legal & records
 
 Public meetings and officials acting in public are subject to reporting and, where lawful, recording. We use the California Public Records Act and follow the legal windows that govern police-video and records disclosures. We route sensitive stories to counsel before publication when the law requires it. We never secretly record a private one-on-one conversation. When you send us a tip, we protect your identity; see [how we handle tips](/tips/).
 
-*Questions about our standards? Email hello@pothole.news.*
+*Questions about our standards? Email assignmentdesk26@gmail.com.*
